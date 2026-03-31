@@ -9,1835 +9,1835 @@ If you want to dig further into the data, you can build the project, more detail
 ### Warframes
 | Warframe | Median | Volume |
 | --- | --- | --- |
-| Limbo Prime Set | 94 | 103 |
-| Wukong Prime Set | 90 | 138 |
-| Chroma Prime Set | 90 | 90 |
-| Vauban Prime Set | 90 | 184 |
-| Nyx Prime Set | 89 | 50 |
-| Hydroid Prime Set | 85 | 93 |
-| Titania Prime Set | 85 | 220 |
-| Mirage Prime Set | 85 | 126 |
-| Gara Prime Set | 85 | 95 |
-| Rhino Prime Set | 80 | 78 |
+| [Limbo Prime Set](https://warframe.market/items/limbo_prime_set?type=sell) | 94 | 103 |
+| [Wukong Prime Set](https://warframe.market/items/wukong_prime_set?type=sell) | 90 | 138 |
+| [Chroma Prime Set](https://warframe.market/items/chroma_prime_set?type=sell) | 90 | 90 |
+| [Vauban Prime Set](https://warframe.market/items/vauban_prime_set?type=sell) | 90 | 184 |
+| [Nyx Prime Set](https://warframe.market/items/nyx_prime_set?type=sell) | 89 | 50 |
+| [Hydroid Prime Set](https://warframe.market/items/hydroid_prime_set?type=sell) | 85 | 93 |
+| [Titania Prime Set](https://warframe.market/items/titania_prime_set?type=sell) | 85 | 220 |
+| [Mirage Prime Set](https://warframe.market/items/mirage_prime_set?type=sell) | 85 | 126 |
+| [Gara Prime Set](https://warframe.market/items/gara_prime_set?type=sell) | 85 | 95 |
+| [Rhino Prime Set](https://warframe.market/items/rhino_prime_set?type=sell) | 80 | 78 |
 <details>
   <summary>Show all</summary>
 
 | Warframe | Median | Volume |
 | --- | --- | --- |
-| Limbo Prime Set | 94 | 103 |
-| Wukong Prime Set | 90 | 138 |
-| Chroma Prime Set | 90 | 90 |
-| Vauban Prime Set | 90 | 184 |
-| Nyx Prime Set | 89 | 50 |
-| Hydroid Prime Set | 85 | 93 |
-| Titania Prime Set | 85 | 220 |
-| Mirage Prime Set | 85 | 126 |
-| Gara Prime Set | 85 | 95 |
-| Rhino Prime Set | 80 | 78 |
-| Nekros Prime Set | 80 | 168 |
-| Octavia Prime Set | 80 | 86 |
-| Nidus Prime Set | 80 | 68 |
-| Oberon Prime Set | 79 | 59 |
-| Khora Prime Set | 78 | 184 |
-| Banshee Prime Set | 75 | 55 |
-| Zephyr Prime Set | 75 | 66 |
-| Equinox Prime Set | 74 | 59 |
-| Frost Prime Set | 73 | 72 |
-| Mag Prime Set | 70 | 65 |
-| Trinity Prime Set | 70 | 57 |
-| Loki Prime Set | 70 | 65 |
-| Nova Prime Set | 70 | 74 |
-| Nezha Prime Set | 70 | 85 |
-| Garuda Prime Set | 70 | 82 |
-| Baruuk Prime Set | 70 | 54 |
-| Saryn Prime Set | 69 | 124 |
-| Valkyr Prime Set | 69 | 98 |
-| Wisp Prime Set | 69 | 252 |
-| Inaros Prime Set | 68 | 60 |
-| Revenant Prime Set | 65 | 177 |
-| Hildryn Prime Set | 65 | 223 |
-| Grendel Prime Set | 65 | 110 |
-| Ivara Prime Set | 60 | 105 |
-| Mesa Prime Set | 60 | 118 |
-| Harrow Prime Set | 60 | 92 |
-| Ember Prime Set | 59 | 69 |
-| Volt Prime Set | 59 | 172 |
-| Atlas Prime Set | 59 | 118 |
-| Ash Prime Set | 55 | 82 |
-| Gauss Prime Set | 50 | 171 |
-| Gyre Prime Set | 44 | 239 |
-| Yareli Prime Set | 40 | 204 |
-| Caliban Prime Set | 40 | 247 |
-| Protea Prime Set | 25 | 189 |
-| Sevagoth Prime Set | 25 | 227 |
-| Xaku Prime Set | 25 | 222 |
-| Lavos Prime Set | 25 | 156 |
+| [Limbo Prime Set](https://warframe.market/items/limbo_prime_set?type=sellc) | 94 | 103 |
+| [Wukong Prime Set](https://warframe.market/items/wukong_prime_set?type=sellc) | 90 | 138 |
+| [Chroma Prime Set](https://warframe.market/items/chroma_prime_set?type=sellc) | 90 | 90 |
+| [Vauban Prime Set](https://warframe.market/items/vauban_prime_set?type=sellc) | 90 | 184 |
+| [Nyx Prime Set](https://warframe.market/items/nyx_prime_set?type=sellc) | 89 | 50 |
+| [Hydroid Prime Set](https://warframe.market/items/hydroid_prime_set?type=sellc) | 85 | 93 |
+| [Titania Prime Set](https://warframe.market/items/titania_prime_set?type=sellc) | 85 | 220 |
+| [Mirage Prime Set](https://warframe.market/items/mirage_prime_set?type=sellc) | 85 | 126 |
+| [Gara Prime Set](https://warframe.market/items/gara_prime_set?type=sellc) | 85 | 95 |
+| [Rhino Prime Set](https://warframe.market/items/rhino_prime_set?type=sellc) | 80 | 78 |
+| [Nekros Prime Set](https://warframe.market/items/nekros_prime_set?type=sellc) | 80 | 168 |
+| [Octavia Prime Set](https://warframe.market/items/octavia_prime_set?type=sellc) | 80 | 86 |
+| [Nidus Prime Set](https://warframe.market/items/nidus_prime_set?type=sellc) | 80 | 68 |
+| [Oberon Prime Set](https://warframe.market/items/oberon_prime_set?type=sellc) | 79 | 59 |
+| [Khora Prime Set](https://warframe.market/items/khora_prime_set?type=sellc) | 78 | 184 |
+| [Banshee Prime Set](https://warframe.market/items/banshee_prime_set?type=sellc) | 75 | 55 |
+| [Zephyr Prime Set](https://warframe.market/items/zephyr_prime_set?type=sellc) | 75 | 66 |
+| [Equinox Prime Set](https://warframe.market/items/equinox_prime_set?type=sellc) | 74 | 59 |
+| [Frost Prime Set](https://warframe.market/items/frost_prime_set?type=sellc) | 73 | 72 |
+| [Mag Prime Set](https://warframe.market/items/mag_prime_set?type=sellc) | 70 | 65 |
+| [Trinity Prime Set](https://warframe.market/items/trinity_prime_set?type=sellc) | 70 | 57 |
+| [Loki Prime Set](https://warframe.market/items/loki_prime_set?type=sellc) | 70 | 65 |
+| [Nova Prime Set](https://warframe.market/items/nova_prime_set?type=sellc) | 70 | 74 |
+| [Nezha Prime Set](https://warframe.market/items/nezha_prime_set?type=sellc) | 70 | 85 |
+| [Garuda Prime Set](https://warframe.market/items/garuda_prime_set?type=sellc) | 70 | 82 |
+| [Baruuk Prime Set](https://warframe.market/items/baruuk_prime_set?type=sellc) | 70 | 54 |
+| [Saryn Prime Set](https://warframe.market/items/saryn_prime_set?type=sellc) | 69 | 124 |
+| [Valkyr Prime Set](https://warframe.market/items/valkyr_prime_set?type=sellc) | 69 | 98 |
+| [Wisp Prime Set](https://warframe.market/items/wisp_prime_set?type=sellc) | 69 | 252 |
+| [Inaros Prime Set](https://warframe.market/items/inaros_prime_set?type=sellc) | 68 | 60 |
+| [Revenant Prime Set](https://warframe.market/items/revenant_prime_set?type=sellc) | 65 | 177 |
+| [Hildryn Prime Set](https://warframe.market/items/hildryn_prime_set?type=sellc) | 65 | 223 |
+| [Grendel Prime Set](https://warframe.market/items/grendel_prime_set?type=sellc) | 65 | 110 |
+| [Ivara Prime Set](https://warframe.market/items/ivara_prime_set?type=sellc) | 60 | 105 |
+| [Mesa Prime Set](https://warframe.market/items/mesa_prime_set?type=sellc) | 60 | 118 |
+| [Harrow Prime Set](https://warframe.market/items/harrow_prime_set?type=sellc) | 60 | 92 |
+| [Ember Prime Set](https://warframe.market/items/ember_prime_set?type=sellc) | 59 | 69 |
+| [Volt Prime Set](https://warframe.market/items/volt_prime_set?type=sellc) | 59 | 172 |
+| [Atlas Prime Set](https://warframe.market/items/atlas_prime_set?type=sellc) | 59 | 118 |
+| [Ash Prime Set](https://warframe.market/items/ash_prime_set?type=sellc) | 55 | 82 |
+| [Gauss Prime Set](https://warframe.market/items/gauss_prime_set?type=sellc) | 50 | 171 |
+| [Gyre Prime Set](https://warframe.market/items/gyre_prime_set?type=sellc) | 44 | 239 |
+| [Yareli Prime Set](https://warframe.market/items/yareli_prime_set?type=sellc) | 40 | 204 |
+| [Caliban Prime Set](https://warframe.market/items/caliban_prime_set?type=sellc) | 40 | 247 |
+| [Protea Prime Set](https://warframe.market/items/protea_prime_set?type=sellc) | 25 | 189 |
+| [Sevagoth Prime Set](https://warframe.market/items/sevagoth_prime_set?type=sellc) | 25 | 227 |
+| [Xaku Prime Set](https://warframe.market/items/xaku_prime_set?type=sellc) | 25 | 222 |
+| [Lavos Prime Set](https://warframe.market/items/lavos_prime_set?type=sellc) | 25 | 156 |
 </details>
 
 ### Weapons
 | Weapon | Median | Volume |
 | --- | --- | --- |
-| Lato Vandal Set | 261 | 33 |
-| Braton Vandal Set | 250 | 20 |
-| Hespar Set | 150 | 15 |
-| Dual Kamas Prime Set | 130 | 15 |
-| Arum Spinosa Set | 125 | 14 |
-| Sporothrix Set | 122.5 | 8 |
-| Kronen Prime Set | 110 | 23 |
-| Carmine Penta Set | 100 | 8 |
-| Afuris Prime Set | 100 | 20 |
-| Nami Skyla Prime Set | 99 | 15 |
+| [Lato Vandal Set](https://warframe.market/items/lato_vandal_set?type=sell) | 261 | 33 |
+| [Braton Vandal Set](https://warframe.market/items/braton_vandal_set?type=sell) | 250 | 20 |
+| [Hespar Set](https://warframe.market/items/hespar_set?type=sell) | 150 | 15 |
+| [Dual Kamas Prime Set](https://warframe.market/items/dual_kamas_prime_set?type=sell) | 130 | 15 |
+| [Arum Spinosa Set](https://warframe.market/items/arum_spinosa_set?type=sell) | 125 | 14 |
+| [Sporothrix Set](https://warframe.market/items/sporothrix_set?type=sell) | 122.5 | 8 |
+| [Kronen Prime Set](https://warframe.market/items/kronen_prime_set?type=sell) | 110 | 23 |
+| [Carmine Penta Set](https://warframe.market/items/carmine_penta_set?type=sell) | 100 | 8 |
+| [Afuris Prime Set](https://warframe.market/items/afuris_prime_set?type=sell) | 100 | 20 |
+| [Nami Skyla Prime Set](https://warframe.market/items/nami_skyla_prime_set?type=sell) | 99 | 15 |
 <details>
   <summary>Show all</summary>
 
 | Weapon | Median | Volume |
 | --- | --- | --- |
-| Lato Vandal Set | 261 | 33 |
-| Braton Vandal Set | 250 | 20 |
-| Hespar Set | 150 | 15 |
-| Dual Kamas Prime Set | 130 | 15 |
-| Arum Spinosa Set | 125 | 14 |
-| Sporothrix Set | 122.5 | 8 |
-| Kronen Prime Set | 110 | 23 |
-| Carmine Penta Set | 100 | 8 |
-| Afuris Prime Set | 100 | 20 |
-| Nami Skyla Prime Set | 99 | 15 |
-| Morgha Set | 99 | 1 |
-| Akbolto Prime Set | 98 | 20 |
-| Akjagara Prime Set | 95 | 16 |
-| Kogake Prime Set | 90 | 9 |
-| Aksomati Prime Set | 90 | 21 |
-| Akstiletto Prime Set | 90 | 41 |
-| Spira Prime Set | 90 | 19 |
-| Cortege Set | 90 | 1 |
-| Corinth Prime Set | 90 | 35 |
-| Vectis Prime Set | 86.5 | 25 |
-| Ankyros Prime Set | 80 | 14 |
-| Scourge Prime Set | 80 | 30 |
-| Boltor Prime Set | 75 | 19 |
-| Latron Wraith Set | 75 | 9 |
-| Tipedo Prime Set | 75 | 8 |
-| Boar Prime Set | 74.5 | 45 |
-| Phantasma Prime Set | 74 | 67 |
-| Akarius Prime Set | 74 | 119 |
-| Ballistica Prime Set | 70 | 15 |
-| Panthera Prime Set | 70 | 23 |
-| Aeolak Set | 70 | 3 |
-| Cinta Set | 70 | 6 |
-| Ninkondi Prime Set | 69 | 11 |
-| Twin Vipers Wraith Set | 69 | 11 |
-| Sybaris Prime Set | 69 | 38 |
-| Pyrana Prime Set | 69 | 25 |
-| Tenora Prime Set | 69 | 21 |
-| Baza Prime Set | 68.5 | 35 |
-| Tekko Prime Set | 68.5 | 32 |
-| Destreza Prime Set | 68 | 27 |
-| Glaive Prime Set | 68 | 68 |
-| Strun Wraith Set | 67 | 13 |
-| Latron Prime Set | 65 | 31 |
-| Bo Prime Set | 65 | 37 |
-| Centaur Set | 65 | 2 |
-| Karak Wraith Set | 61.5 | 8 |
-| Akvasto Prime Set | 61 | 25 |
-| Venka Prime Set | 60 | 20 |
-| Nikana Prime Set | 60 | 49 |
-| Soma Prime Set | 60 | 76 |
-| Dual Keres Prime Set | 60 | 16 |
-| Larkspur Prime Set | 60 | 49 |
-| Magnus Prime Set | 59.5 | 52 |
-| Athodai Set | 59 | 18 |
-| Zhuge Prime Set | 55 | 22 |
-| Euphona Prime Set | 55 | 20 |
-| Hikou Prime Set | 55 | 9 |
-| Cyngas Set | 55 | 1 |
-| Strun Prime Set | 55 | 67 |
-| Tiberon Prime Set | 54 | 19 |
-| Guandao Prime Set | 51.5 | 33 |
-| Imperator Vandal Set | 50 | 21 |
-| Rubico Prime Set | 50 | 40 |
-| Pathocyst Set | 50 | 7 |
-| Gunsen Prime Set | 50 | 33 |
-| Akmagnus Prime Set | 50 | 36 |
-| Sicarus Prime Set | 49.5 | 28 |
-| Cernos Prime Set | 49.5 | 20 |
-| Agkuza Set | 49 | 3 |
-| Aklex Prime Set | 48.5 | 25 |
-| Silva & Aegis Prime Set | 47.5 | 21 |
-| Dera Vandal Set | 46.5 | 14 |
-| Astilla Prime Set | 46.5 | 31 |
-| Redeemer Prime Set | 45 | 28 |
-| Phaedra Set | 45 | 1 |
-| Velocitus Set | 45 | 3 |
-| Galatine Prime Set | 45 | 16 |
-| Corvas Prime Set | 45 | 35 |
-| Rauta Set | 43.5 | 6 |
-| Dual Decurion Set | 42 | 8 |
-| Snipetron Vandal Set | 40 | 6 |
-| Stradavar Prime Set | 40 | 23 |
-| Shedu Set | 40 | 35 |
-| Tigris Prime Set | 40 | 28 |
-| Zakti Prime Set | 40 | 14 |
-| Nagantaka Prime Set | 40 | 28 |
-| Fulmin Prime Set | 40 | 63 |
-| Acceltra Prime Set | 40 | 82 |
-| Alternox Prime Set | 40 | 69 |
-| Fluctus Set | 39 | 1 |
-| Pandero Prime Set | 39 | 13 |
-| Wolf Sledge Set | 38 | 14 |
-| Volnus Prime Set | 36.5 | 18 |
-| Onorix Set | 35 | 4 |
-| Corvas Set | 35 | 8 |
-| Scindo Prime Set | 35 | 14 |
-| Gram Prime Set | 35 | 27 |
-| Ambassador Set | 35 | 13 |
-| Fragor Prime Set | 34.5 | 32 |
-| Kestrel Prime Set | 34 | 88 |
-| Knell Prime Set | 32 | 36 |
-| Pangolin Prime Set | 31 | 17 |
-| Dakra Prime Set | 30 | 13 |
-| Stropha Set | 30 | 8 |
-| Karyst Prime Set | 30 | 19 |
-| Sheev Set | 30 | 6 |
-| Tatsu Prime Set | 30 | 31 |
-| Corufell Set | 30 | 5 |
-| Okina Prime Set | 30 | 136 |
-| Riot-848 Set | 30 | 2 |
-| Reaper Prime Set | 29.5 | 12 |
-| Dual Viciss Set | 29.5 | 3 |
-| Hystrix Prime Set | 29 | 26 |
-| Dual Zoren Prime Set | 29 | 48 |
-| Stahlta Set | 27 | 25 |
-| Cobra & Crane Prime Set | 25 | 43 |
-| Steflos Set | 25 | 11 |
-| Quassus Prime Set | 25 | 46 |
-| Cedo Prime Set | 25 | 114 |
-| Rathbone Set | 24 | 2 |
-| Spectra Vandal Set | 24 | 6 |
-| Trumna Prime Set | 23 | 123 |
-| Purgator 1 Set | 20.5 | 2 |
-| Vasto Prime Set | 20 | 47 |
-| Kaszas Set | 20 | 4 |
-| Damaged Necramech Weapon Set | 20 | 1 |
-| Zylok Prime Set | 20 | 31 |
-| Daikyu Prime Set | 20 | 93 |
-| EFV-8 Mars Set | 19.5 | 2 |
-| Kompressa Prime Set | 18 | 115 |
-| Vadarya Prime Set | 18 | 117 |
-| Cedo Set | 17 | 16 |
-| Masseter Prime Set | 15 | 42 |
-| Mandonel Set | 15 | 24 |
-| Reconifex Set | 15 | 1 |
-| EFV-5 Jupiter Set | 15 | 1 |
-| Venato Prime Set | 15 | 66 |
-| Vesper 77 Set | 14 | 5 |
-| Velox Set | 13 | 12 |
-| Velox Prime Set | 13 | 108 |
-| Epitaph Prime Set | 13 | 135 |
-| Braton Prime Set | 10 | 125 |
-| Furax Wraith Set | 10 | 24 |
-| Paris Prime Set | 10 | 67 |
-| Orthos Prime Set | 10 | 53 |
-| Gorgon Wraith Set | 10 | 24 |
-| Burston Prime Set | 10 | 90 |
-| Ghoulsaw Set | 10 | 1 |
-| Akbronco Prime Set | 9 | 23 |
-| Epitaph Set | 9 | 23 |
-| Bronco Prime Set | 8 | 53 |
-| Lex Prime Set | 7 | 62 |
-| Fang Prime Set | 7 | 26 |
-| Broken War Set | 4 | 4 |
-| Perigale Set | 4 | 10 |
-| Sarofang Set | 2 | 3 |
+| [Lato Vandal Set](https://warframe.market/items/lato_vandal_set?type=sell) | 261 | 33 |
+| [Braton Vandal Set](https://warframe.market/items/braton_vandal_set?type=sell) | 250 | 20 |
+| [Hespar Set](https://warframe.market/items/hespar_set?type=sell) | 150 | 15 |
+| [Dual Kamas Prime Set](https://warframe.market/items/dual_kamas_prime_set?type=sell) | 130 | 15 |
+| [Arum Spinosa Set](https://warframe.market/items/arum_spinosa_set?type=sell) | 125 | 14 |
+| [Sporothrix Set](https://warframe.market/items/sporothrix_set?type=sell) | 122.5 | 8 |
+| [Kronen Prime Set](https://warframe.market/items/kronen_prime_set?type=sell) | 110 | 23 |
+| [Carmine Penta Set](https://warframe.market/items/carmine_penta_set?type=sell) | 100 | 8 |
+| [Afuris Prime Set](https://warframe.market/items/afuris_prime_set?type=sell) | 100 | 20 |
+| [Nami Skyla Prime Set](https://warframe.market/items/nami_skyla_prime_set?type=sell) | 99 | 15 |
+| [Morgha Set](https://warframe.market/items/morgha_set?type=sell) | 99 | 1 |
+| [Akbolto Prime Set](https://warframe.market/items/akbolto_prime_set?type=sell) | 98 | 20 |
+| [Akjagara Prime Set](https://warframe.market/items/akjagara_prime_set?type=sell) | 95 | 16 |
+| [Kogake Prime Set](https://warframe.market/items/kogake_prime_set?type=sell) | 90 | 9 |
+| [Aksomati Prime Set](https://warframe.market/items/aksomati_prime_set?type=sell) | 90 | 21 |
+| [Akstiletto Prime Set](https://warframe.market/items/akstiletto_prime_set?type=sell) | 90 | 41 |
+| [Spira Prime Set](https://warframe.market/items/spira_prime_set?type=sell) | 90 | 19 |
+| [Cortege Set](https://warframe.market/items/cortege_set?type=sell) | 90 | 1 |
+| [Corinth Prime Set](https://warframe.market/items/corinth_prime_set?type=sell) | 90 | 35 |
+| [Vectis Prime Set](https://warframe.market/items/vectis_prime_set?type=sell) | 86.5 | 25 |
+| [Ankyros Prime Set](https://warframe.market/items/ankyros_prime_set?type=sell) | 80 | 14 |
+| [Scourge Prime Set](https://warframe.market/items/scourge_prime_set?type=sell) | 80 | 30 |
+| [Boltor Prime Set](https://warframe.market/items/boltor_prime_set?type=sell) | 75 | 19 |
+| [Latron Wraith Set](https://warframe.market/items/latron_wraith_set?type=sell) | 75 | 9 |
+| [Tipedo Prime Set](https://warframe.market/items/tipedo_prime_set?type=sell) | 75 | 8 |
+| [Boar Prime Set](https://warframe.market/items/boar_prime_set?type=sell) | 74.5 | 45 |
+| [Phantasma Prime Set](https://warframe.market/items/phantasma_prime_set?type=sell) | 74 | 67 |
+| [Akarius Prime Set](https://warframe.market/items/akarius_prime_set?type=sell) | 74 | 119 |
+| [Ballistica Prime Set](https://warframe.market/items/ballistica_prime_set?type=sell) | 70 | 15 |
+| [Panthera Prime Set](https://warframe.market/items/panthera_prime_set?type=sell) | 70 | 23 |
+| [Aeolak Set](https://warframe.market/items/aeolak_set?type=sell) | 70 | 3 |
+| [Cinta Set](https://warframe.market/items/cinta_set?type=sell) | 70 | 6 |
+| [Ninkondi Prime Set](https://warframe.market/items/ninkondi_prime_set?type=sell) | 69 | 11 |
+| [Twin Vipers Wraith Set](https://warframe.market/items/twin_vipers_wraith_set?type=sell) | 69 | 11 |
+| [Sybaris Prime Set](https://warframe.market/items/sybaris_prime_set?type=sell) | 69 | 38 |
+| [Pyrana Prime Set](https://warframe.market/items/pyrana_prime_set?type=sell) | 69 | 25 |
+| [Tenora Prime Set](https://warframe.market/items/tenora_prime_set?type=sell) | 69 | 21 |
+| [Baza Prime Set](https://warframe.market/items/baza_prime_set?type=sell) | 68.5 | 35 |
+| [Tekko Prime Set](https://warframe.market/items/tekko_prime_set?type=sell) | 68.5 | 32 |
+| [Destreza Prime Set](https://warframe.market/items/destreza_prime_set?type=sell) | 68 | 27 |
+| [Glaive Prime Set](https://warframe.market/items/glaive_prime_set?type=sell) | 68 | 68 |
+| [Strun Wraith Set](https://warframe.market/items/strun_wraith_set?type=sell) | 67 | 13 |
+| [Latron Prime Set](https://warframe.market/items/latron_prime_set?type=sell) | 65 | 31 |
+| [Bo Prime Set](https://warframe.market/items/bo_prime_set?type=sell) | 65 | 37 |
+| [Centaur Set](https://warframe.market/items/centaur_set?type=sell) | 65 | 2 |
+| [Karak Wraith Set](https://warframe.market/items/karak_wraith_set?type=sell) | 61.5 | 8 |
+| [Akvasto Prime Set](https://warframe.market/items/akvasto_prime_set?type=sell) | 61 | 25 |
+| [Venka Prime Set](https://warframe.market/items/venka_prime_set?type=sell) | 60 | 20 |
+| [Nikana Prime Set](https://warframe.market/items/nikana_prime_set?type=sell) | 60 | 49 |
+| [Soma Prime Set](https://warframe.market/items/soma_prime_set?type=sell) | 60 | 76 |
+| [Dual Keres Prime Set](https://warframe.market/items/dual_keres_prime_set?type=sell) | 60 | 16 |
+| [Larkspur Prime Set](https://warframe.market/items/larkspur_prime_set?type=sell) | 60 | 49 |
+| [Magnus Prime Set](https://warframe.market/items/magnus_prime_set?type=sell) | 59.5 | 52 |
+| [Athodai Set](https://warframe.market/items/athodai_set?type=sell) | 59 | 18 |
+| [Zhuge Prime Set](https://warframe.market/items/zhuge_prime_set?type=sell) | 55 | 22 |
+| [Euphona Prime Set](https://warframe.market/items/euphona_prime_set?type=sell) | 55 | 20 |
+| [Hikou Prime Set](https://warframe.market/items/hikou_prime_set?type=sell) | 55 | 9 |
+| [Cyngas Set](https://warframe.market/items/cyngas_set?type=sell) | 55 | 1 |
+| [Strun Prime Set](https://warframe.market/items/strun_prime_set?type=sell) | 55 | 67 |
+| [Tiberon Prime Set](https://warframe.market/items/tiberon_prime_set?type=sell) | 54 | 19 |
+| [Guandao Prime Set](https://warframe.market/items/guandao_prime_set?type=sell) | 51.5 | 33 |
+| [Imperator Vandal Set](https://warframe.market/items/imperator_vandal_set?type=sell) | 50 | 21 |
+| [Rubico Prime Set](https://warframe.market/items/rubico_prime_set?type=sell) | 50 | 40 |
+| [Pathocyst Set](https://warframe.market/items/pathocyst_set?type=sell) | 50 | 7 |
+| [Gunsen Prime Set](https://warframe.market/items/gunsen_prime_set?type=sell) | 50 | 33 |
+| [Akmagnus Prime Set](https://warframe.market/items/akmagnus_prime_set?type=sell) | 50 | 36 |
+| [Sicarus Prime Set](https://warframe.market/items/sicarus_prime_set?type=sell) | 49.5 | 28 |
+| [Cernos Prime Set](https://warframe.market/items/cernos_prime_set?type=sell) | 49.5 | 20 |
+| [Agkuza Set](https://warframe.market/items/agkuza_set?type=sell) | 49 | 3 |
+| [Aklex Prime Set](https://warframe.market/items/aklex_prime_set?type=sell) | 48.5 | 25 |
+| [Silva & Aegis Prime Set](https://warframe.market/items/silva_and_aegis_prime_set?type=sell) | 47.5 | 21 |
+| [Dera Vandal Set](https://warframe.market/items/dera_vandal_set?type=sell) | 46.5 | 14 |
+| [Astilla Prime Set](https://warframe.market/items/astilla_prime_set?type=sell) | 46.5 | 31 |
+| [Redeemer Prime Set](https://warframe.market/items/redeemer_prime_set?type=sell) | 45 | 28 |
+| [Phaedra Set](https://warframe.market/items/phaedra_set?type=sell) | 45 | 1 |
+| [Velocitus Set](https://warframe.market/items/velocitus_set?type=sell) | 45 | 3 |
+| [Galatine Prime Set](https://warframe.market/items/galatine_prime_set?type=sell) | 45 | 16 |
+| [Corvas Prime Set](https://warframe.market/items/corvas_prime_set?type=sell) | 45 | 35 |
+| [Rauta Set](https://warframe.market/items/rauta_set?type=sell) | 43.5 | 6 |
+| [Dual Decurion Set](https://warframe.market/items/dual_decurion_set?type=sell) | 42 | 8 |
+| [Snipetron Vandal Set](https://warframe.market/items/snipetron_vandal_set?type=sell) | 40 | 6 |
+| [Stradavar Prime Set](https://warframe.market/items/stradavar_prime_set?type=sell) | 40 | 23 |
+| [Shedu Set](https://warframe.market/items/shedu_set?type=sell) | 40 | 35 |
+| [Tigris Prime Set](https://warframe.market/items/tigris_prime_set?type=sell) | 40 | 28 |
+| [Zakti Prime Set](https://warframe.market/items/zakti_prime_set?type=sell) | 40 | 14 |
+| [Nagantaka Prime Set](https://warframe.market/items/nagantaka_prime_set?type=sell) | 40 | 28 |
+| [Fulmin Prime Set](https://warframe.market/items/fulmin_prime_set?type=sell) | 40 | 63 |
+| [Acceltra Prime Set](https://warframe.market/items/acceltra_prime_set?type=sell) | 40 | 82 |
+| [Alternox Prime Set](https://warframe.market/items/alternox_prime_set?type=sell) | 40 | 69 |
+| [Fluctus Set](https://warframe.market/items/fluctus_set?type=sell) | 39 | 1 |
+| [Pandero Prime Set](https://warframe.market/items/pandero_prime_set?type=sell) | 39 | 13 |
+| [Wolf Sledge Set](https://warframe.market/items/wolf_sledge_set?type=sell) | 38 | 14 |
+| [Volnus Prime Set](https://warframe.market/items/volnus_prime_set?type=sell) | 36.5 | 18 |
+| [Onorix Set](https://warframe.market/items/onorix_set?type=sell) | 35 | 4 |
+| [Corvas Set](https://warframe.market/items/corvas_set?type=sell) | 35 | 8 |
+| [Scindo Prime Set](https://warframe.market/items/scindo_prime_set?type=sell) | 35 | 14 |
+| [Gram Prime Set](https://warframe.market/items/gram_prime_set?type=sell) | 35 | 27 |
+| [Ambassador Set](https://warframe.market/items/ambassador_set?type=sell) | 35 | 13 |
+| [Fragor Prime Set](https://warframe.market/items/fragor_prime_set?type=sell) | 34.5 | 32 |
+| [Kestrel Prime Set](https://warframe.market/items/kestrel_prime_set?type=sell) | 34 | 88 |
+| [Knell Prime Set](https://warframe.market/items/knell_prime_set?type=sell) | 32 | 36 |
+| [Pangolin Prime Set](https://warframe.market/items/pangolin_prime_set?type=sell) | 31 | 17 |
+| [Dakra Prime Set](https://warframe.market/items/dakra_prime_set?type=sell) | 30 | 13 |
+| [Stropha Set](https://warframe.market/items/stropha_set?type=sell) | 30 | 8 |
+| [Karyst Prime Set](https://warframe.market/items/karyst_prime_set?type=sell) | 30 | 19 |
+| [Sheev Set](https://warframe.market/items/sheev_set?type=sell) | 30 | 6 |
+| [Tatsu Prime Set](https://warframe.market/items/tatsu_prime_set?type=sell) | 30 | 31 |
+| [Corufell Set](https://warframe.market/items/corufell_set?type=sell) | 30 | 5 |
+| [Okina Prime Set](https://warframe.market/items/okina_prime_set?type=sell) | 30 | 136 |
+| [Riot-848 Set](https://warframe.market/items/riot_848_set?type=sell) | 30 | 2 |
+| [Reaper Prime Set](https://warframe.market/items/reaper_prime_set?type=sell) | 29.5 | 12 |
+| [Dual Viciss Set](https://warframe.market/items/dual_viciss_set?type=sell) | 29.5 | 3 |
+| [Hystrix Prime Set](https://warframe.market/items/hystrix_prime_set?type=sell) | 29 | 26 |
+| [Dual Zoren Prime Set](https://warframe.market/items/dual_zoren_prime_set?type=sell) | 29 | 48 |
+| [Stahlta Set](https://warframe.market/items/stahlta_set?type=sell) | 27 | 25 |
+| [Cobra & Crane Prime Set](https://warframe.market/items/cobra_and_crane_prime_set?type=sell) | 25 | 43 |
+| [Steflos Set](https://warframe.market/items/steflos_set?type=sell) | 25 | 11 |
+| [Quassus Prime Set](https://warframe.market/items/quassus_prime_set?type=sell) | 25 | 46 |
+| [Cedo Prime Set](https://warframe.market/items/cedo_prime_set?type=sell) | 25 | 114 |
+| [Rathbone Set](https://warframe.market/items/rathbone_set?type=sell) | 24 | 2 |
+| [Spectra Vandal Set](https://warframe.market/items/spectra_vandal_set?type=sell) | 24 | 6 |
+| [Trumna Prime Set](https://warframe.market/items/trumna_prime_set?type=sell) | 23 | 123 |
+| [Purgator 1 Set](https://warframe.market/items/purgator_1_set?type=sell) | 20.5 | 2 |
+| [Vasto Prime Set](https://warframe.market/items/vasto_prime_set?type=sell) | 20 | 47 |
+| [Kaszas Set](https://warframe.market/items/kaszas_set?type=sell) | 20 | 4 |
+| [Damaged Necramech Weapon Set](https://warframe.market/items/damaged_necramech_weapon_set?type=sell) | 20 | 1 |
+| [Zylok Prime Set](https://warframe.market/items/zylok_prime_set?type=sell) | 20 | 31 |
+| [Daikyu Prime Set](https://warframe.market/items/daikyu_prime_set?type=sell) | 20 | 93 |
+| [EFV-8 Mars Set](https://warframe.market/items/efv_8_mars_set?type=sell) | 19.5 | 2 |
+| [Kompressa Prime Set](https://warframe.market/items/kompressa_prime_set?type=sell) | 18 | 115 |
+| [Vadarya Prime Set](https://warframe.market/items/vadarya_prime_set?type=sell) | 18 | 117 |
+| [Cedo Set](https://warframe.market/items/cedo_set?type=sell) | 17 | 16 |
+| [Masseter Prime Set](https://warframe.market/items/masseter_prime_set?type=sell) | 15 | 42 |
+| [Mandonel Set](https://warframe.market/items/mandonel_set?type=sell) | 15 | 24 |
+| [Reconifex Set](https://warframe.market/items/reconifex_set?type=sell) | 15 | 1 |
+| [EFV-5 Jupiter Set](https://warframe.market/items/efv_5_jupiter_set?type=sell) | 15 | 1 |
+| [Venato Prime Set](https://warframe.market/items/venato_prime_set?type=sell) | 15 | 66 |
+| [Vesper 77 Set](https://warframe.market/items/vesper_77_set?type=sell) | 14 | 5 |
+| [Velox Set](https://warframe.market/items/velox_set?type=sell) | 13 | 12 |
+| [Velox Prime Set](https://warframe.market/items/velox_prime_set?type=sell) | 13 | 108 |
+| [Epitaph Prime Set](https://warframe.market/items/epitaph_prime_set?type=sell) | 13 | 135 |
+| [Braton Prime Set](https://warframe.market/items/braton_prime_set?type=sell) | 10 | 125 |
+| [Furax Wraith Set](https://warframe.market/items/furax_wraith_set?type=sell) | 10 | 24 |
+| [Paris Prime Set](https://warframe.market/items/paris_prime_set?type=sell) | 10 | 67 |
+| [Orthos Prime Set](https://warframe.market/items/orthos_prime_set?type=sell) | 10 | 53 |
+| [Gorgon Wraith Set](https://warframe.market/items/gorgon_wraith_set?type=sell) | 10 | 24 |
+| [Burston Prime Set](https://warframe.market/items/burston_prime_set?type=sell) | 10 | 90 |
+| [Ghoulsaw Set](https://warframe.market/items/ghoulsaw_set?type=sell) | 10 | 1 |
+| [Akbronco Prime Set](https://warframe.market/items/akbronco_prime_set?type=sell) | 9 | 23 |
+| [Epitaph Set](https://warframe.market/items/epitaph_set?type=sell) | 9 | 23 |
+| [Bronco Prime Set](https://warframe.market/items/bronco_prime_set?type=sell) | 8 | 53 |
+| [Lex Prime Set](https://warframe.market/items/lex_prime_set?type=sell) | 7 | 62 |
+| [Fang Prime Set](https://warframe.market/items/fang_prime_set?type=sell) | 7 | 26 |
+| [Broken War Set](https://warframe.market/items/broken_war_set?type=sell) | 4 | 4 |
+| [Perigale Set](https://warframe.market/items/perigale_set?type=sell) | 4 | 10 |
+| [Sarofang Set](https://warframe.market/items/sarofang_set?type=sell) | 2 | 3 |
 </details>
 
 ### Arcanes
 | arcane | Median | Volume |
 | --- | --- | --- |
-| Magus Drive | 169 | 1 |
-| Magus Accelerant | 130 | 1 |
-| Magus Glitch | 98.5 | 2 |
-| Magus Destruct | 90 | 1 |
-| Exodia Might | 80 | 2 |
-| Magus Revert | 80 | 1 |
-| Exodia Hunt | 75 | 1 |
-| Exodia Force | 62.5 | 4 |
-| Arcane Double Back | 62.5 | 4 |
-| Magus Cadence | 60 | 1 |
+| [Magus Drive](https://warframe.market/items/magus_drive?type=sell) | 169 | 1 |
+| [Magus Accelerant](https://warframe.market/items/magus_accelerant?type=sell) | 130 | 1 |
+| [Magus Glitch](https://warframe.market/items/magus_glitch?type=sell) | 98.5 | 2 |
+| [Magus Destruct](https://warframe.market/items/magus_destruct?type=sell) | 90 | 1 |
+| [Exodia Might](https://warframe.market/items/exodia_might?type=sell) | 80 | 2 |
+| [Magus Revert](https://warframe.market/items/magus_revert?type=sell) | 80 | 1 |
+| [Exodia Hunt](https://warframe.market/items/exodia_hunt?type=sell) | 75 | 1 |
+| [Exodia Force](https://warframe.market/items/exodia_force?type=sell) | 62.5 | 4 |
+| [Arcane Double Back](https://warframe.market/items/arcane_double_back?type=sell) | 62.5 | 4 |
+| [Magus Cadence](https://warframe.market/items/magus_cadence?type=sell) | 60 | 1 |
 <details>
   <summary>Show all</summary>
 
 | arcane | Median | Volume |
 | --- | --- | --- |
-| Magus Drive | 169 | 1 |
-| Magus Accelerant | 130 | 1 |
-| Magus Glitch | 98.5 | 2 |
-| Magus Destruct | 90 | 1 |
-| Exodia Might | 80 | 2 |
-| Magus Revert | 80 | 1 |
-| Exodia Hunt | 75 | 1 |
-| Exodia Force | 62.5 | 4 |
-| Arcane Double Back | 62.5 | 4 |
-| Magus Cadence | 60 | 1 |
-| Arcane Resistance | 59 | 5 |
-| Magus Nourish | 55 | 2 |
-| Virtuos Forge | 50 | 1 |
-| Exodia Triumph | 50 | 3 |
-| Magus Elevate | 50 | 8 |
-| Exodia Valor | 45 | 1 |
-| Arcane Power Ramp | 45 | 17 |
-| Peculiar End | 44.5 | 3 |
-| Virtuos Spike | 40 | 1 |
-| Virtuos Ghost | 39.5 | 2 |
-| Magus Husk | 35 | 3 |
-| Arcane Consequence | 30 | 5 |
-| Arcane Awakening | 30 | 12 |
-| Virtuos Shadow | 30 | 3 |
-| Zid-an Sek-eel | 30 | 4 |
-| Arcane Rise | 28 | 11 |
-| Primary Obstruct | 27.5 | 2 |
-| Pax Bolt | 25 | 3 |
-| Zid-an Haras | 24 | 2 |
-| Melee Retaliation | 23 | 25 |
-| Pax Soar | 20 | 1 |
-| Virtuos Tempo | 20 | 2 |
-| Arcane Phantasm | 20 | 4 |
-| Arcane Hot Shot | 20 | 393 |
-| Arcane Trickery | 19.5 | 4 |
-| Arcane Healing | 19.5 | 2 |
-| Arcane Momentum | 19.5 | 6 |
-| Peculiar Audience | 19 | 18 |
-| Peculiar Bloom | 18 | 2 |
-| Arcane Reaper | 17 | 140 |
-| Arcane Pulse | 15 | 1 |
-| Arcane Deflection | 15 | 1 |
-| Emergence Renewed | 15 | 6 |
-| Arcane Ice | 14.5 | 4 |
-| Peculiar Growth | 14 | 4 |
-| Virtuos Null | 13 | 1 |
-| Exodia Contagion | 12.5 | 27 |
-| Arcane Warmth | 10 | 1 |
-| Magus Firewall | 10 | 15 |
-| Arcane Steadfast | 10 | 48 |
-| Longbow Sharpshot | 10 | 83 |
-| Melee Duplicate | 10 | 235 |
-| Exodia Epidemic | 9 | 2 |
-| Arcane Universal Fallout | 8 | 155 |
-| Theorem Infection | 7.5 | 2 |
-| Arcane Velocity | 7 | 267 |
-| Arcane Aegis | 7 | 161 |
-| Arcane Energize | 7 | 333 |
-| Pax Seeker | 7 | 8 |
-| Virtuos Trojan | 7 | 1 |
-| Shotgun Vendetta | 7 | 55 |
-| Secondary Outburst | 7 | 48 |
-| Magus Anomaly | 6.5 | 21 |
-| Magus Replenish | 6 | 3 |
-| Melee Crescendo | 6 | 68 |
-| Primary Plated Round | 5.5 | 9 |
-| Magus Repair | 5 | 6 |
-| Magus Overload | 5 | 1 |
-| Arcane Fury | 5 | 219 |
-| Virtuos Surge | 5 | 2 |
-| Arcane Grace | 5 | 146 |
-| Exodia Brave | 5 | 6 |
-| Arcane Precision | 5 | 57 |
-| Magus Melt | 5 | 35 |
-| Pax Charge | 5 | 6 |
-| Secondary Shiver | 5 | 44 |
-| Arcane Ice Storm | 5 | 62 |
-| Arcane Battery | 5 | 25 |
-| Magus Cloud | 4.5 | 2 |
-| Virtuos Strike | 4 | 20 |
-| Arcane Strike | 4 | 213 |
-| Arcane Nullifier | 4 | 33 |
-| Virtuos Fury | 4 | 9 |
-| Arcane Guardian | 4 | 97 |
-| Theorem Demulcent | 4 | 1 |
-| Arcane Arachne | 4 | 24 |
-| Theorem Contagion | 4 | 12 |
-| Arcane Pistoleer | 4 | 42 |
-| Arcane Avenger | 4 | 131 |
-| Magus Lockdown | 4 | 45 |
-| Secondary Encumber | 4 | 62 |
-| Primary Blight | 4 | 101 |
-| Melee Influence | 4 | 252 |
-| Melee Vortex | 4 | 25 |
-| Melee Animosity | 4 | 41 |
-| Melee Exposure | 4 | 134 |
-| Melee Afflictions | 4 | 35 |
-| Arcane Circumvent | 4 | 21 |
-| Residual Shock | 3.5 | 6 |
-| Molt Augmented | 3.5 | 522 |
-| Secondary Fortifier | 3.5 | 50 |
-| Primary Debilitate | 3.5 | 30 |
-| Arcane Barrier | 3 | 47 |
-| Magus Vigor | 3 | 18 |
-| Arcane Eruption | 3 | 1 |
-| Arcane Ultimatum | 3 | 21 |
-| Arcane Bodyguard | 3 | 2 |
-| Arcane Blade Charger | 3 | 3 |
-| Arcane Acceleration | 3 | 43 |
-| Residual Boils | 3 | 1 |
-| Arcane Rage | 3 | 24 |
-| Molt Efficiency | 3 | 48 |
-| Arcane Blessing | 3 | 91 |
-| Primary Exhilarate | 3 | 4 |
-| Akimbo Slip Shot | 3 | 17 |
-| Arcane Truculence | 3 | 1 |
-| Arcane Escapist | 3 | 24 |
-| Arcane Persistence | 3 | 22 |
-| Arcane Expertise | 3 | 147 |
-| Primary Bulwark | 3 | 25 |
-| Primary Overcharge | 3 | 6 |
-| Secondary Irradiate | 3 | 51 |
-| Arcane Concentration | 3 | 193 |
-| Melee Careen | 3 | 39 |
-| Zid-an Asheir | 3 | 22 |
-| Zid-an Uskos | 3 | 21 |
-| Arcane Tanker | 2.5 | 2 |
-| Arcane Victory | 2 | 1 |
-| Arcane Tempo | 2 | 13 |
-| Arcane Agility | 2 | 6 |
-| Arcane Primary Charger | 2 | 16 |
-| Residual Viremia | 2 | 1 |
-| Residual Malodor | 2 | 1 |
-| Primary Merciless | 2 | 275 |
-| Primary Deadhead | 2 | 243 |
-| Emergence Dissipate | 2 | 1 |
-| Molt Vigor | 2 | 43 |
-| Eternal Eradicate | 2 | 13 |
-| Emergence Savior | 2 | 1 |
-| Cascadia Overcharge | 2 | 2 |
-| Eternal Onslaught | 2 | 30 |
-| Molt Reconstruct | 2 | 58 |
-| Eternal Logistics | 2 | 75 |
-| Cascadia Empowered | 2 | 30 |
-| Fractalized Reset | 2 | 1 |
-| Cascadia Flare | 2 | 160 |
-| Cascadia Accuracy | 2 | 12 |
-| Conjunction Voltage | 2 | 30 |
-| Primary Frostbite | 2 | 93 |
-| Secondary Kinship | 2 | 12 |
-| Arcane Intention | 2 | 15 |
-| Magus Aggress | 2 | 21 |
-| Melee Fortification | 2 | 16 |
-| Secondary Surge | 2 | 9 |
-| Arcane Crepuscular | 2 | 251 |
-| Arcane Impetus | 2 | 166 |
-| Primary Crux | 2 | 84 |
-| Secondary Enervate | 2 | 361 |
-| Melee Doughty | 2 | 1 |
-| Arcane Camisado | 2 | 233 |
-| Arcane Bellicose | 2 | 148 |
-| Zid-an Osbok | 2 | 8 |
-| Secondary Merciless | 1 | 87 |
-| Secondary Dexterity | 1 | 54 |
-| Secondary Deadhead | 1 | 32 |
-| Primary Dexterity | 1 | 32 |
+| [Magus Drive](https://warframe.market/items/magus_drive?type=sell) | 169 | 1 |
+| [Magus Accelerant](https://warframe.market/items/magus_accelerant?type=sell) | 130 | 1 |
+| [Magus Glitch](https://warframe.market/items/magus_glitch?type=sell) | 98.5 | 2 |
+| [Magus Destruct](https://warframe.market/items/magus_destruct?type=sell) | 90 | 1 |
+| [Exodia Might](https://warframe.market/items/exodia_might?type=sell) | 80 | 2 |
+| [Magus Revert](https://warframe.market/items/magus_revert?type=sell) | 80 | 1 |
+| [Exodia Hunt](https://warframe.market/items/exodia_hunt?type=sell) | 75 | 1 |
+| [Exodia Force](https://warframe.market/items/exodia_force?type=sell) | 62.5 | 4 |
+| [Arcane Double Back](https://warframe.market/items/arcane_double_back?type=sell) | 62.5 | 4 |
+| [Magus Cadence](https://warframe.market/items/magus_cadence?type=sell) | 60 | 1 |
+| [Arcane Resistance](https://warframe.market/items/arcane_resistance?type=sell) | 59 | 5 |
+| [Magus Nourish](https://warframe.market/items/magus_nourish?type=sell) | 55 | 2 |
+| [Virtuos Forge](https://warframe.market/items/virtuos_forge?type=sell) | 50 | 1 |
+| [Exodia Triumph](https://warframe.market/items/exodia_triumph?type=sell) | 50 | 3 |
+| [Magus Elevate](https://warframe.market/items/magus_elevate?type=sell) | 50 | 8 |
+| [Exodia Valor](https://warframe.market/items/exodia_valor?type=sell) | 45 | 1 |
+| [Arcane Power Ramp](https://warframe.market/items/arcane_power_ramp?type=sell) | 45 | 17 |
+| [Peculiar End](https://warframe.market/items/peculiar_end?type=sell) | 44.5 | 3 |
+| [Virtuos Spike](https://warframe.market/items/virtuos_spike?type=sell) | 40 | 1 |
+| [Virtuos Ghost](https://warframe.market/items/virtuos_ghost?type=sell) | 39.5 | 2 |
+| [Magus Husk](https://warframe.market/items/magus_husk?type=sell) | 35 | 3 |
+| [Arcane Consequence](https://warframe.market/items/arcane_consequence?type=sell) | 30 | 5 |
+| [Arcane Awakening](https://warframe.market/items/arcane_awakening?type=sell) | 30 | 12 |
+| [Virtuos Shadow](https://warframe.market/items/virtuos_shadow?type=sell) | 30 | 3 |
+| [Zid-an Sek-eel](https://warframe.market/items/zid-an-sek-eel?type=sell) | 30 | 4 |
+| [Arcane Rise](https://warframe.market/items/arcane_rise?type=sell) | 28 | 11 |
+| [Primary Obstruct](https://warframe.market/items/primary_obstruct?type=sell) | 27.5 | 2 |
+| [Pax Bolt](https://warframe.market/items/pax_bolt?type=sell) | 25 | 3 |
+| [Zid-an Haras](https://warframe.market/items/zid-an-haras?type=sell) | 24 | 2 |
+| [Melee Retaliation](https://warframe.market/items/melee_retaliation?type=sell) | 23 | 25 |
+| [Pax Soar](https://warframe.market/items/pax_soar?type=sell) | 20 | 1 |
+| [Virtuos Tempo](https://warframe.market/items/virtuos_tempo?type=sell) | 20 | 2 |
+| [Arcane Phantasm](https://warframe.market/items/arcane_phantasm?type=sell) | 20 | 4 |
+| [Arcane Hot Shot](https://warframe.market/items/arcane_hot_shot?type=sell) | 20 | 393 |
+| [Arcane Trickery](https://warframe.market/items/arcane_trickery?type=sell) | 19.5 | 4 |
+| [Arcane Healing](https://warframe.market/items/arcane_healing?type=sell) | 19.5 | 2 |
+| [Arcane Momentum](https://warframe.market/items/arcane_momentum?type=sell) | 19.5 | 6 |
+| [Peculiar Audience](https://warframe.market/items/peculiar_audience?type=sell) | 19 | 18 |
+| [Peculiar Bloom](https://warframe.market/items/peculiar_bloom?type=sell) | 18 | 2 |
+| [Arcane Reaper](https://warframe.market/items/arcane_reaper?type=sell) | 17 | 140 |
+| [Arcane Pulse](https://warframe.market/items/arcane_pulse?type=sell) | 15 | 1 |
+| [Arcane Deflection](https://warframe.market/items/arcane_deflection?type=sell) | 15 | 1 |
+| [Emergence Renewed](https://warframe.market/items/emergence_renewed?type=sell) | 15 | 6 |
+| [Arcane Ice](https://warframe.market/items/arcane_ice?type=sell) | 14.5 | 4 |
+| [Peculiar Growth](https://warframe.market/items/peculiar_growth?type=sell) | 14 | 4 |
+| [Virtuos Null](https://warframe.market/items/virtuos_null?type=sell) | 13 | 1 |
+| [Exodia Contagion](https://warframe.market/items/exodia_contagion?type=sell) | 12.5 | 27 |
+| [Arcane Warmth](https://warframe.market/items/arcane_warmth?type=sell) | 10 | 1 |
+| [Magus Firewall](https://warframe.market/items/magus_firewall?type=sell) | 10 | 15 |
+| [Arcane Steadfast](https://warframe.market/items/arcane_steadfast?type=sell) | 10 | 48 |
+| [Longbow Sharpshot](https://warframe.market/items/longbow_sharpshot?type=sell) | 10 | 83 |
+| [Melee Duplicate](https://warframe.market/items/melee_duplicate?type=sell) | 10 | 235 |
+| [Exodia Epidemic](https://warframe.market/items/exodia_epidemic?type=sell) | 9 | 2 |
+| [Arcane Universal Fallout](https://warframe.market/items/arcane_universal_fallout?type=sell) | 8 | 155 |
+| [Theorem Infection](https://warframe.market/items/theorem_infection?type=sell) | 7.5 | 2 |
+| [Arcane Velocity](https://warframe.market/items/arcane_velocity?type=sell) | 7 | 267 |
+| [Arcane Aegis](https://warframe.market/items/arcane_aegis?type=sell) | 7 | 161 |
+| [Arcane Energize](https://warframe.market/items/arcane_energize?type=sell) | 7 | 333 |
+| [Pax Seeker](https://warframe.market/items/pax_seeker?type=sell) | 7 | 8 |
+| [Virtuos Trojan](https://warframe.market/items/virtuos_trojan?type=sell) | 7 | 1 |
+| [Shotgun Vendetta](https://warframe.market/items/shotgun_vendetta?type=sell) | 7 | 55 |
+| [Secondary Outburst](https://warframe.market/items/secondary_outburst?type=sell) | 7 | 48 |
+| [Magus Anomaly](https://warframe.market/items/magus_anomaly?type=sell) | 6.5 | 21 |
+| [Magus Replenish](https://warframe.market/items/magus_replenish?type=sell) | 6 | 3 |
+| [Melee Crescendo](https://warframe.market/items/melee_crescendo?type=sell) | 6 | 68 |
+| [Primary Plated Round](https://warframe.market/items/primary_plated_round?type=sell) | 5.5 | 9 |
+| [Magus Repair](https://warframe.market/items/magus_repair?type=sell) | 5 | 6 |
+| [Magus Overload](https://warframe.market/items/magus_overload?type=sell) | 5 | 1 |
+| [Arcane Fury](https://warframe.market/items/arcane_fury?type=sell) | 5 | 219 |
+| [Virtuos Surge](https://warframe.market/items/virtuos_surge?type=sell) | 5 | 2 |
+| [Arcane Grace](https://warframe.market/items/arcane_grace?type=sell) | 5 | 146 |
+| [Exodia Brave](https://warframe.market/items/exodia_brave?type=sell) | 5 | 6 |
+| [Arcane Precision](https://warframe.market/items/arcane_precision?type=sell) | 5 | 57 |
+| [Magus Melt](https://warframe.market/items/magus_melt?type=sell) | 5 | 35 |
+| [Pax Charge](https://warframe.market/items/pax_charge?type=sell) | 5 | 6 |
+| [Secondary Shiver](https://warframe.market/items/secondary_shiver?type=sell) | 5 | 44 |
+| [Arcane Ice Storm](https://warframe.market/items/arcane_ice_storm?type=sell) | 5 | 62 |
+| [Arcane Battery](https://warframe.market/items/arcane_battery?type=sell) | 5 | 25 |
+| [Magus Cloud](https://warframe.market/items/magus_cloud?type=sell) | 4.5 | 2 |
+| [Virtuos Strike](https://warframe.market/items/virtuos_strike?type=sell) | 4 | 20 |
+| [Arcane Strike](https://warframe.market/items/arcane_strike?type=sell) | 4 | 213 |
+| [Arcane Nullifier](https://warframe.market/items/arcane_nullifier?type=sell) | 4 | 33 |
+| [Virtuos Fury](https://warframe.market/items/virtuos_fury?type=sell) | 4 | 9 |
+| [Arcane Guardian](https://warframe.market/items/arcane_guardian?type=sell) | 4 | 97 |
+| [Theorem Demulcent](https://warframe.market/items/theorem_demulcent?type=sell) | 4 | 1 |
+| [Arcane Arachne](https://warframe.market/items/arcane_arachne?type=sell) | 4 | 24 |
+| [Theorem Contagion](https://warframe.market/items/theorem_contagion?type=sell) | 4 | 12 |
+| [Arcane Pistoleer](https://warframe.market/items/arcane_pistoleer?type=sell) | 4 | 42 |
+| [Arcane Avenger](https://warframe.market/items/arcane_avenger?type=sell) | 4 | 131 |
+| [Magus Lockdown](https://warframe.market/items/magus_lockdown?type=sell) | 4 | 45 |
+| [Secondary Encumber](https://warframe.market/items/secondary_encumber?type=sell) | 4 | 62 |
+| [Primary Blight](https://warframe.market/items/primary_blight?type=sell) | 4 | 101 |
+| [Melee Influence](https://warframe.market/items/melee_influence?type=sell) | 4 | 252 |
+| [Melee Vortex](https://warframe.market/items/melee_vortex?type=sell) | 4 | 25 |
+| [Melee Animosity](https://warframe.market/items/melee_animosity?type=sell) | 4 | 41 |
+| [Melee Exposure](https://warframe.market/items/melee_exposure?type=sell) | 4 | 134 |
+| [Melee Afflictions](https://warframe.market/items/melee_afflictions?type=sell) | 4 | 35 |
+| [Arcane Circumvent](https://warframe.market/items/arcane_circumvent?type=sell) | 4 | 21 |
+| [Residual Shock](https://warframe.market/items/residual_shock?type=sell) | 3.5 | 6 |
+| [Molt Augmented](https://warframe.market/items/molt_augmented?type=sell) | 3.5 | 522 |
+| [Secondary Fortifier](https://warframe.market/items/secondary_fortifier?type=sell) | 3.5 | 50 |
+| [Primary Debilitate](https://warframe.market/items/primary_debilitate?type=sell) | 3.5 | 30 |
+| [Arcane Barrier](https://warframe.market/items/arcane_barrier?type=sell) | 3 | 47 |
+| [Magus Vigor](https://warframe.market/items/magus_vigor?type=sell) | 3 | 18 |
+| [Arcane Eruption](https://warframe.market/items/arcane_eruption?type=sell) | 3 | 1 |
+| [Arcane Ultimatum](https://warframe.market/items/arcane_ultimatum?type=sell) | 3 | 21 |
+| [Arcane Bodyguard](https://warframe.market/items/arcane_bodyguard?type=sell) | 3 | 2 |
+| [Arcane Blade Charger](https://warframe.market/items/arcane_blade_charger?type=sell) | 3 | 3 |
+| [Arcane Acceleration](https://warframe.market/items/arcane_acceleration?type=sell) | 3 | 43 |
+| [Residual Boils](https://warframe.market/items/residual_boils?type=sell) | 3 | 1 |
+| [Arcane Rage](https://warframe.market/items/arcane_rage?type=sell) | 3 | 24 |
+| [Molt Efficiency](https://warframe.market/items/molt_efficiency?type=sell) | 3 | 48 |
+| [Arcane Blessing](https://warframe.market/items/arcane_blessing?type=sell) | 3 | 91 |
+| [Primary Exhilarate](https://warframe.market/items/primary_exhilarate?type=sell) | 3 | 4 |
+| [Akimbo Slip Shot](https://warframe.market/items/akimbo_slip_shot?type=sell) | 3 | 17 |
+| [Arcane Truculence](https://warframe.market/items/arcane_truculence?type=sell) | 3 | 1 |
+| [Arcane Escapist](https://warframe.market/items/arcane_escapist?type=sell) | 3 | 24 |
+| [Arcane Persistence](https://warframe.market/items/arcane_persistence?type=sell) | 3 | 22 |
+| [Arcane Expertise](https://warframe.market/items/arcane_expertise?type=sell) | 3 | 147 |
+| [Primary Bulwark](https://warframe.market/items/primary_bulwark?type=sell) | 3 | 25 |
+| [Primary Overcharge](https://warframe.market/items/primary_overcharge?type=sell) | 3 | 6 |
+| [Secondary Irradiate](https://warframe.market/items/secondary_irradiate?type=sell) | 3 | 51 |
+| [Arcane Concentration](https://warframe.market/items/arcane_concentration?type=sell) | 3 | 193 |
+| [Melee Careen](https://warframe.market/items/melee_careen?type=sell) | 3 | 39 |
+| [Zid-an Asheir](https://warframe.market/items/zid-an-asheir?type=sell) | 3 | 22 |
+| [Zid-an Uskos](https://warframe.market/items/zid-an-uskos?type=sell) | 3 | 21 |
+| [Arcane Tanker](https://warframe.market/items/arcane_tanker?type=sell) | 2.5 | 2 |
+| [Arcane Victory](https://warframe.market/items/arcane_victory?type=sell) | 2 | 1 |
+| [Arcane Tempo](https://warframe.market/items/arcane_tempo?type=sell) | 2 | 13 |
+| [Arcane Agility](https://warframe.market/items/arcane_agility?type=sell) | 2 | 6 |
+| [Arcane Primary Charger](https://warframe.market/items/arcane_primary_charger?type=sell) | 2 | 16 |
+| [Residual Viremia](https://warframe.market/items/residual_viremia?type=sell) | 2 | 1 |
+| [Residual Malodor](https://warframe.market/items/residual_malodor?type=sell) | 2 | 1 |
+| [Primary Merciless](https://warframe.market/items/primary_merciless?type=sell) | 2 | 275 |
+| [Primary Deadhead](https://warframe.market/items/primary_deadhead?type=sell) | 2 | 243 |
+| [Emergence Dissipate](https://warframe.market/items/emergence_dissipate?type=sell) | 2 | 1 |
+| [Molt Vigor](https://warframe.market/items/molt_vigor?type=sell) | 2 | 43 |
+| [Eternal Eradicate](https://warframe.market/items/eternal_eradicate?type=sell) | 2 | 13 |
+| [Emergence Savior](https://warframe.market/items/emergence_savior?type=sell) | 2 | 1 |
+| [Cascadia Overcharge](https://warframe.market/items/cascadia_overcharge?type=sell) | 2 | 2 |
+| [Eternal Onslaught](https://warframe.market/items/eternal_onslaught?type=sell) | 2 | 30 |
+| [Molt Reconstruct](https://warframe.market/items/molt_reconstruct?type=sell) | 2 | 58 |
+| [Eternal Logistics](https://warframe.market/items/eternal_logistics?type=sell) | 2 | 75 |
+| [Cascadia Empowered](https://warframe.market/items/cascadia_empowered?type=sell) | 2 | 30 |
+| [Fractalized Reset](https://warframe.market/items/fractalized_reset?type=sell) | 2 | 1 |
+| [Cascadia Flare](https://warframe.market/items/cascadia_flare?type=sell) | 2 | 160 |
+| [Cascadia Accuracy](https://warframe.market/items/cascadia_accuracy?type=sell) | 2 | 12 |
+| [Conjunction Voltage](https://warframe.market/items/conjunction_voltage?type=sell) | 2 | 30 |
+| [Primary Frostbite](https://warframe.market/items/primary_frostbite?type=sell) | 2 | 93 |
+| [Secondary Kinship](https://warframe.market/items/secondary_kinship?type=sell) | 2 | 12 |
+| [Arcane Intention](https://warframe.market/items/arcane_intention?type=sell) | 2 | 15 |
+| [Magus Aggress](https://warframe.market/items/magus_aggress?type=sell) | 2 | 21 |
+| [Melee Fortification](https://warframe.market/items/melee_fortification?type=sell) | 2 | 16 |
+| [Secondary Surge](https://warframe.market/items/secondary_surge?type=sell) | 2 | 9 |
+| [Arcane Crepuscular](https://warframe.market/items/arcane_crepuscular?type=sell) | 2 | 251 |
+| [Arcane Impetus](https://warframe.market/items/arcane_impetus?type=sell) | 2 | 166 |
+| [Primary Crux](https://warframe.market/items/primary_crux?type=sell) | 2 | 84 |
+| [Secondary Enervate](https://warframe.market/items/secondary_enervate?type=sell) | 2 | 361 |
+| [Melee Doughty](https://warframe.market/items/melee_doughty?type=sell) | 2 | 1 |
+| [Arcane Camisado](https://warframe.market/items/arcane_camisado?type=sell) | 2 | 233 |
+| [Arcane Bellicose](https://warframe.market/items/arcane_bellicose?type=sell) | 2 | 148 |
+| [Zid-an Osbok](https://warframe.market/items/zid-an-osbok?type=sell) | 2 | 8 |
+| [Secondary Merciless](https://warframe.market/items/secondary_merciless?type=sell) | 1 | 87 |
+| [Secondary Dexterity](https://warframe.market/items/secondary_dexterity?type=sell) | 1 | 54 |
+| [Secondary Deadhead](https://warframe.market/items/secondary_deadhead?type=sell) | 1 | 32 |
+| [Primary Dexterity](https://warframe.market/items/primary_dexterity?type=sell) | 1 | 32 |
 </details>
 
 ### Mods
 | mod | Median | Volume |
 | --- | --- | --- |
-| Night Stalker | 99999 | 10 |
-| Kinetic Collision | 299 | 1 |
-| Antimatter Mine | 250 | 1 |
-| Voltaic Lance | 200 | 1 |
-| Primed Fast Hands | 62.5 | 8 |
-| Primed Pack Leader | 60 | 6 |
-| Toxic Flight | 60 | 1 |
-| Health Conversion | 55 | 84 |
-| Scan Aquatic Lifeforms | 50 | 1 |
-| Negate | 47 | 21 |
+| [Night Stalker](https://warframe.market/items/night_stalker?type=sell) | 99999 | 10 |
+| [Kinetic Collision](https://warframe.market/items/kinetic_collision?type=sell) | 299 | 1 |
+| [Antimatter Mine](https://warframe.market/items/antimatter_mine?type=sell) | 250 | 1 |
+| [Voltaic Lance](https://warframe.market/items/voltaic_lance?type=sell) | 200 | 1 |
+| [Primed Fast Hands](https://warframe.market/items/primed_fast_hands?type=sell) | 62.5 | 8 |
+| [Primed Pack Leader](https://warframe.market/items/primed_pack_leader?type=sell) | 60 | 6 |
+| [Toxic Flight](https://warframe.market/items/toxic_flight?type=sell) | 60 | 1 |
+| [Health Conversion](https://warframe.market/items/health_conversion?type=sell) | 55 | 84 |
+| [Scan Aquatic Lifeforms](https://warframe.market/items/scan_lifeforms?type=sell) | 50 | 1 |
+| [Negate](https://warframe.market/items/negate?type=sell) | 47 | 21 |
 <details>
   <summary>Show all</summary>
 
 | mod | Median | Volume |
 | --- | --- | --- |
-| Night Stalker | 99999 | 10 |
-| Kinetic Collision | 299 | 1 |
-| Antimatter Mine | 250 | 1 |
-| Voltaic Lance | 200 | 1 |
-| Primed Fast Hands | 62.5 | 8 |
-| Primed Pack Leader | 60 | 6 |
-| Toxic Flight | 60 | 1 |
-| Health Conversion | 55 | 84 |
-| Scan Aquatic Lifeforms | 50 | 1 |
-| Negate | 47 | 21 |
-| Primed Reach | 45 | 60 |
-| Searing Steel | 42.5 | 2 |
-| Self Destruct | 30 | 1 |
-| Rime Rounds | 29 | 139 |
-| Primed Morphic Transformer | 25 | 6 |
-| Vermillion Storm | 25 | 31 |
-| Corrosive Projection | 25 | 151 |
-| Mad Stack | 25 | 1 |
-| Sprint Boost | 24 | 28 |
-| Air Time | 23 | 1 |
-| Piercing Caliber | 21 | 11 |
-| Sharpened Blade | 20 | 2 |
-| Inertia Dampeners | 20 | 1 |
-| Loot Detector | 20 | 14 |
-| Prism Guard | 19 | 26 |
-| Grinloked | 19 | 1 |
-| Bullet Dance | 18.5 | 16 |
-| Mag Locks | 18 | 1 |
-| Expel Orokin | 17.5 | 2 |
-| Deceptive Bond | 15 | 1 |
-| Final Act | 15 | 1 |
-| Rail Guards | 15 | 1 |
-| Weeping Wounds | 15 | 158 |
-| Dead Eye | 15 | 1 |
-| Tidal Impunity | 15 | 3 |
-| Tainted Hydra | 15 | 1 |
-| Cyclone Kraken | 15 | 7 |
-| Teeming Virulence | 15 | 6 |
-| Peculiar Growth | 14 | 4 |
-| Magma Chamber | 14 | 21 |
-| Holster Amp | 13.5 | 12 |
-| Hallowed Reckoning | 12.5 | 6 |
-| Negation Armor | 12 | 1 |
-| Double Tap | 12 | 7 |
-| Quickening | 12 | 32 |
-| Furious Javelin | 12 | 3 |
-| Sonic Fracture | 11.5 | 2 |
-| Smite Infusion | 11 | 6 |
-| Neutralizing Justice | 11 | 1 |
-| Mecha Empowered | 11 | 37 |
-| Thundermiter | 10.5 | 2 |
-| Scorch | 10 | 86 |
-| Primal Rage | 10 | 14 |
-| Celestial Stomp | 10 | 9 |
-| Creeping Terrify | 10 | 11 |
-| Blunderbuss | 10 | 1 |
-| Shattering Storm | 10 | 52 |
-| Fear Sense | 10 | 1 |
-| Greedy Pull | 10 | 28 |
-| Constitution | 10 | 103 |
-| Deft Tempo | 10 | 1 |
-| Final Tap | 10 | 1 |
-| Hydraulic Gauge | 10 | 1 |
-| Hastened Steps | 10 | 1 |
-| Plan B | 10 | 1 |
-| Perpetual Agony | 10 | 1 |
-| Body Count | 10 | 9 |
-| Static Alacrity | 10 | 2 |
-| Disruptor | 10 | 1 |
-| Flow | 10 | 3 |
-| Healing Flame | 10 | 13 |
-| Gilded Truth | 10 | 66 |
-| Rifle Scavenger | 10 | 3 |
-| Warding Thurible | 10 | 1 |
-| Searing Leap | 10 | 3 |
-| Enduring Bastille | 10 | 15 |
-| Hollowed Bullets | 10 | 75 |
-| Ironclad Charge | 10 | 6 |
-| Quick Reload | 10 | 6 |
-| Archgun Ace | 10 | 12 |
-| Targeting Receptor | 10 | 1 |
-| Draining Gloom | 10 | 1 |
-| Stinging Truth | 10 | 1 |
-| Strain Fever | 9.5 | 7 |
-| Snap Shot | 9 | 1 |
-| Venom Dose | 9 | 69 |
-| Emergent Aftermath | 9 | 1 |
-| Vile Acceleration | 9 | 156 |
-| Shock Trooper | 9 | 60 |
-| Beguiling Lantern | 9 | 1 |
-| Chromatic Blade | 9 | 37 |
-| Precision Munition | 9 | 1 |
-| Astral Twilight | 8 | 91 |
-| Smite Corpus | 8 | 1 |
-| Fanged Fusillade | 8 | 6 |
-| Shotgun Scavenger | 8 | 1 |
-| Hydraulic Chamber | 8 | 1 |
-| Steel Meridian Augment Mod | 8 | 2 |
-| Shadow Harvest | 8 | 1 |
-| Critical Deceleration | 8 | 133 |
-| Biting Piranha | 8 | 1 |
-| Sure Footed | 8 | 53 |
-| Mafic Rain | 8 | 1 |
-| Crashing Timber | 8 | 1 |
-| Spry Sights | 8 | 1 |
-| Entropy Spike | 7 | 1 |
-| Pistol Pestilence | 7 | 115 |
-| Cephalon Suda Augment Mod | 7 | 1 |
-| Enhanced Durability | 7 | 1 |
-| Investigator | 7 | 3 |
-| Maul | 7 | 42 |
-| Narrow Barrel | 6 | 6 |
-| Spring-Loaded Chamber | 6 | 1 |
-| Repeater Clip | 6 | 3 |
-| Charged Shell | 5 | 4 |
-| Pathogen Rounds | 5 | 37 |
-| Swooping Falcon | 5 | 7 |
-| Gun Glide | 5 | 1 |
-| Carving Mantis | 5 | 11 |
-| Sharpened Bullets | 5 | 3 |
-| Seismic Wave | 5 | 30 |
-| Melee Riven Mod (Veiled) | 5 | 687 |
-| Pistol Riven Mod (Veiled) | 5 | 381 |
-| Finishing Touch | 5 | 1 |
-| Fortitude | 5 | 32 |
-| Automatic Trigger | 5 | 18 |
-| Heavy Caliber | 5 | 124 |
-| Piercing Hit | 5 | 1 |
-| Vigilante Armaments | 5 | 40 |
-| Pointed Wind | 5 | 8 |
-| Runtime | 5 | 2 |
-| Accelerated Blast | 5 | 1 |
-| Embedded Catalyzer | 5 | 2 |
-| Eleventh Storm | 4.5 | 4 |
-| Laser Sight | 4.5 | 2 |
-| Cleanse Corpus | 4 | 1 |
-| Grim Fury | 4 | 3 |
-| Gladiator Resolve | 4 | 22 |
-| Blazing Steel | 4 | 4 |
-| Strafing Slide | 4 | 1 |
-| Maiming Strike | 4 | 2 |
-| Smite Infested | 4 | 1 |
-| Rending Turn | 4 | 1 |
-| Homing Fang | 4 | 1 |
-| Barrel Diffusion | 4 | 25 |
-| Whirlwind | 4 | 18 |
-| Antitoxin | 4 | 1 |
-| Gladiator Aegis | 4 | 8 |
-| Link Fiber | 4 | 4 |
-| Stabilizer | 4 | 10 |
-| Rubedo-Lined Barrel | 4 | 1 |
-| Mecha Pulse | 4 | 26 |
-| Hit And Run | 4 | 1 |
-| Reflex Coil | 4 | 3 |
-| Argon Plating | 4 | 1 |
-| Ammo Stock | 4 | 1 |
-| Energy Channel | 3.5 | 2 |
-| Rapid Resilience | 3.5 | 2 |
-| Sudden Impact | 3.5 | 2 |
-| Eject Magazine | 3.5 | 2 |
-| Hydraulic Crosshairs | 3.5 | 2 |
-| Tainted Clip | 3.5 | 2 |
-| Iron Phoenix | 3.5 | 2 |
-| Calculated Redirection | 3 | 1 |
-| Clashing Forest | 3 | 1 |
-| Ghost | 3 | 3 |
-| Fired Up | 3 | 13 |
-| Split Chamber | 3 | 15 |
-| Tether Grenades | 3 | 1 |
-| Aviator | 3 | 19 |
-| Reaping Spiral | 3 | 7 |
-| Armored Agility | 3 | 7 |
-| Firewalker | 3 | 7 |
-| Charged Chamber | 3 | 2 |
-| Mobilize | 3 | 2 |
-| Enhanced Vitality | 3 | 1 |
-| Atlantis Vulcan | 3 | 1 |
-| Bleeding Willow | 3 | 7 |
-| Sundering Strike | 3 | 1 |
-| Regen | 3 | 1 |
-| Terminal Velocity | 3 | 7 |
-| Ice Storm | 3 | 19 |
-| Sinking Talon | 3 | 3 |
-| Hellfire | 3 | 7 |
-| Seeker | 3 | 2 |
-| Rending Strike | 3 | 1 |
-| Killing Blow | 3 | 7 |
-| Sanctuary | 2.5 | 2 |
-| Adhesive Blast | 2.5 | 2 |
-| Continuity | 2.5 | 8 |
-| Convulsion | 2 | 2 |
-| Frail Momentum | 2 | 3 |
-| Tempered Blade | 2 | 2 |
-| Chilling Grasp | 2 | 1 |
-| Assault Mode | 2 | 1 |
-| Expel Grineer | 2 | 1 |
-| Heavy Trauma | 2 | 2 |
-| Accelerated Deflection | 1.5 | 2 |
-| Intruder | 1 | 1 |
-| Trick Mag | 1 | 1 |
-| Razor Shot | 1 | 1 |
-| North Wind | 1 | 2 |
-| Rime Vault | not enough data... | not enough data... |
-| Vanquished Prey | not enough data... | not enough data... |
-| Loose Hatch | not enough data... | not enough data... |
-| Sinister Reach | 3 | 7 |
-| Lie In Wait | not enough data... | not enough data... |
-| Argent Scourge | not enough data... | not enough data... |
-| Burning Wasp | 2 | 2 |
-| Ripper Rounds | not enough data... | not enough data... |
-| Surplus Diverters | not enough data... | not enough data... |
-| Scan Matter | 199 | 1 |
-| Primed Expel Grineer | 160 | 2 |
-| Primed Expel Corpus | 160 | 1 |
-| Primed Bane Of Infested | 150 | 1 |
-| Pressure Point | 125 | 1 |
-| Hammer Shot | 110 | 66 |
-| Primed Expel Orokin | 88.5 | 6 |
-| Provoked | 85 | 1 |
-| Primed Bane Of Grineer | 73 | 2 |
-| Primed Pressure Point | 65 | 75 |
-| Detect Vulnerability | 60 | 1 |
-| Primed Ravage | 59.5 | 19 |
-| Bite | 59 | 117 |
-| Primed Shotgun Ammo Mutation | 57 | 3 |
-| Energy Conversion | 55 | 39 |
-| Primed Expel Infested | 55 | 3 |
-| Primed Heated Charge | 54 | 37 |
-| Ward Recovery | 50 | 1 |
-| Reawaken | 50 | 1 |
-| Primed Heavy Trauma | 48 | 19 |
-| Primed Continuity | 45 | 126 |
-| Fulmination | 40 | 4 |
-| Relentless Assault | 40 | 1 |
-| Primed Bane Of Corpus | 35 | 5 |
-| Empowered Blades | 34 | 3 |
-| Arc Coil | 32 | 1 |
-| Acid Shells | 30 | 69 |
-| Calculated Shot | 30 | 1 |
-| Hysterical Fixation | 30 | 1 |
-| Jolt | 29 | 78 |
-| Steel Fiber | 27 | 1 |
-| Targeting Subsystem | 25 | 15 |
-| Ruinous Extension | 25 | 82 |
-| Signal Flare | 25 | 1 |
-| Redirection | 25 | 1 |
-| Venom Teeth | 25 | 36 |
-| Chaos Sphere | 24 | 1 |
-| Modified Munitions | 23 | 1 |
-| Nightwatch Napalm | 20 | 48 |
-| Cleanse Orokin | 20 | 1 |
-| Fateful Truth | 20 | 1 |
-| Primed Point Blank | 20 | 36 |
-| Thermite Rounds | 20 | 105 |
-| Lethal Torrent | 20 | 130 |
-| Flame Gland | 20 | 35 |
-| Venerdo Hoverdrive | 20 | 1 |
-| Rifle Amp | 15.5 | 2 |
-| Blind Rage | 15 | 193 |
-| Auger Strike | 15 | 10 |
-| Elemental Sandstorm | 15 | 6 |
-| Insulation | 15 | 1 |
-| Energy Siphon | 15 | 9 |
-| Gladiator Might | 15 | 78 |
-| Poppin' Vert | 15 | 1 |
-| Cataclysmic Continuum | 15 | 3 |
-| Spring-Loaded Blade | 14 | 68 |
-| Smite Orokin | 14 | 2 |
-| Overextended | 14 | 216 |
-| Lasting Purity | 14 | 1 |
-| Coolant Leak | 14 | 31 |
-| Pool Of Life | 13.5 | 2 |
-| Buzz Kill | 13.5 | 30 |
-| Spectrosiphon | 13 | 11 |
-| Swing Line | 13 | 11 |
-| Safeguard Switch | 13 | 3 |
-| Marked Target | 13 | 8 |
-| Freeze Force | 12 | 7 |
-| Mind Freak | 12 | 10 |
-| Everlasting Ward | 12 | 4 |
-| Entropy Flight | 12 | 1 |
-| Entropy Detonation | 12 | 1 |
-| Disarming Purity | 11 | 1 |
-| Irradiating Disarm | 10 | 1 |
-| Antimatter Absorb | 10 | 1 |
-| Tectonic Fracture | 10 | 1 |
-| Quasar Drill | 10 | 1 |
-| Shattering Justice | 10 | 1 |
-| Vaporize | 10 | 1 |
-| Secondary Wind | 10 | 1 |
-| Soaring Strike | 10 | 2 |
-| Explosive Legerdemain | 10 | 45 |
-| Measured Burst | 10 | 1 |
-| Total Eclipse | 10 | 46 |
-| Purging Slash | 10 | 1 |
-| Capacitance | 10 | 34 |
-| Fireball Frenzy | 10 | 4 |
-| Infiltrate | 10 | 5 |
-| Entropy Burst | 10 | 2 |
-| Quaking Hand | 10 | 1 |
-| Sudden Justice | 10 | 1 |
-| Neutron Star | 10 | 46 |
-| Skull Shots | 10 | 1 |
-| Vicious Frost | 10 | 101 |
-| Bane Of Grineer | 10 | 1 |
-| Vital Systems Bypass | 10 | 1 |
-| Singularity | 10 | 1 |
-| Perfect Balance | 10 | 1 |
-| Molecular Fission | 10 | 41 |
-| Wild Frenzy | 10 | 3 |
-| Napalm Grenades | 10 | 1 |
-| Rising Storm | 10 | 3 |
-| Exothermic | 10 | 6 |
-| Directed Convergence | 10 | 1 |
-| Air Recon | 10 | 1 |
-| Strain Eruption | 10 | 10 |
-| Power Of Three | 9.5 | 2 |
-| Vampire Leech | 9.5 | 2 |
-| Fast Hands | 9 | 1 |
-| Coaction Drift | 9 | 43 |
-| Volcanic Edge | 9 | 49 |
-| Rejuvenation | 9 | 7 |
-| Ambush Optics | 9 | 1 |
-| Battering Maneuver | 9 | 1 |
-| Natural Talent | 9 | 77 |
-| Justice Blades | 9 | 1 |
-| Blood Rush | 9 | 204 |
-| Vigilante Fervor | 9 | 38 |
-| Shield Disruption | 9 | 1 |
-| Afterburn | 9 | 1 |
-| Blade Of Truth | 9 | 1 |
-| Stinging Thorn | 9 | 9 |
-| Bore | 8.5 | 2 |
-| Malignant Force | 8 | 152 |
-| System Reroute | 8 | 21 |
-| Shredder | 8 | 1 |
-| Lightning Dash | 8 | 14 |
-| Stockpiled Blight | 8 | 1 |
-| Dividing Blades | 8 | 1 |
-| Gladiator Vice | 8 | 31 |
-| Chilling Globe | 8 | 3 |
-| Shotgun Amp | 8 | 2 |
-| Link Redirection | 7 | 46 |
-| Eagle Eye | 6 | 1 |
-| Calculated Spring | 5 | 1 |
-| Comet Rounds | not enough data... | not enough data... |
-| Energy Generator | 45 | 26 |
-| Blaze | 35 | 38 |
-| Vitality | 22 | 4 |
-| Thrash Landing | 20 | 1 |
-| Shock Collar | 15 | 44 |
-| Critical Delay | 14 | 217 |
-| Escape Velocity | 12 | 1 |
-| Soul Survivor | 10 | 1 |
-| Molecular Conversion | 10 | 1 |
-| Infected Clip | 9 | 1 |
-| Scarlet Hurricane | 8 | 1 |
-| Gale Kick | 8 | 1 |
-| Sniper Scavenger | 8 | 1 |
-| Frost Jaw | 7 | 41 |
-| Fleeting Expertise | 7 | 138 |
-| Vicious Approach | 6 | 1 |
-| Breach Loader | 6 | 1 |
-| Link Vitality | 5 | 11 |
-| Cleanse Infested | 5 | 1 |
-| Combustion Rounds | 5 | 11 |
-| Incendiary Coat | 4.5 | 2 |
-| Aero Vantage | 4 | 14 |
-| Seeking Force | 4 | 1 |
-| Target Cracker | 4 | 5 |
-| Spoiled Strike | 4 | 33 |
-| Augur Accord | 4 | 15 |
-| Tranquil Cleave | 3 | 3 |
-| Pack Leader | 3 | 1 |
-| Rush | 3 | 1 |
-| Vacuum | 3 | 1 |
-| Motus Impact | 3 | 5 |
-| Motus Setup | 3 | 1 |
-| Parallax Scope | 3 | 3 |
-| Expel Infested | 3 | 1 |
-| Sniper Ammo Mutation | 3 | 1 |
-| Gaia's Tragedy | 3 | 1 |
-| Motus Signal | 2 | 1 |
-| Vile Precision | 2 | 4 |
-| Agility Drift | 2 | 4 |
-| Thumper | 1 | 2 |
-| Shield Overload | not enough data... | not enough data... |
-| Defiled Reckoning | not enough data... | not enough data... |
-| Crash Shot | not enough data... | not enough data... |
-| True Punishment | 8 | 27 |
-| Stand United | 8 | 16 |
-| Rising Steel | 8 | 1 |
-| Piercing Fury | 8 | 1 |
-| Rift Strike | 7.5 | 2 |
-| Vulcan Blitz | 7 | 1 |
-| Gleaming Blight | 7 | 1 |
-| No Return | 6 | 1 |
-| Protect | 6 | 6 |
-| Shrapnel Shot | 6 | 2 |
-| Lethal Momentum | 6 | 53 |
-| Unleashed | 6 | 7 |
-| Strain Consume | 6 | 7 |
-| Creeping Bullseye | 5 | 74 |
-| Catalyzer Link | 5 | 1 |
-| Comet Blast | 5 | 1 |
-| Hunter Adrenaline | 5 | 111 |
-| Quick Thinking | 5 | 19 |
-| Superior Defenses | 5 | 1 |
-| Polar Magazine | 5 | 6 |
-| Rifle Ammo Mutation | 5 | 8 |
-| Vigor | 5 | 17 |
-| Savagery | 5 | 1 |
-| Lingering Torment | 5 | 1 |
-| Stalk | 5 | 1 |
-| Sovereign Outcast | 5 | 26 |
-| Focus Energy | 5 | 13 |
-| Sweeping Serration | 5 | 1 |
-| Rending Crane | 5 | 9 |
-| Reflection | 5 | 2 |
-| Trail Blazer | 5 | 1 |
-| Kinetic Diversion | 4.5 | 3 |
-| Nebula Bore | 4 | 2 |
-| Pummel | 4 | 10 |
-| Dig | 4 | 5 |
-| Vigilante Pursuit | 4 | 13 |
-| Magazine Extension | 4 | 1 |
-| Pressurized Magazine | 4 | 1 |
-| Fracturing Wind | 4 | 1 |
-| Heavy Impact | 4 | 1 |
-| Spinning Needle | 4 | 12 |
-| Crash Course | 4 | 1 |
-| Tactical Pump | 4 | 1 |
-| Hawk Eye | 4 | 2 |
-| Augur Message | 4 | 66 |
-| Kinetic Friction | 4 | 2 |
-| Swirling Tiger | 3 | 1 |
-| Energy Inversion | 3 | 1 |
-| Enemy Sense | 3 | 3 |
-| Point Strike | 3 | 1 |
-| Continuous Misery | 3 | 3 |
-| Pistol Gambit | 3 | 1 |
-| Piercing Step | 3 | 1 |
-| Hell's Chamber | 3 | 2 |
-| Ammo Drum | 3 | 1 |
-| Thunderbolt | 3 | 1 |
-| Fatal Attraction | 3 | 1 |
-| Shimmering Blight | 3 | 7 |
-| Jagged Edge | 3 | 1 |
-| Shotgun Barrage | 3 | 2 |
-| Wildfire | 3 | 15 |
-| Reflex Guard | 3 | 39 |
-| Stunning Speed | 3 | 3 |
-| Zaw Riven Mod (Veiled) | 3 | 7 |
-| Kitgun Riven Mod (Veiled) | 2.5 | 7 |
-| Vicious Spread | 2.5 | 9 |
-| Cold Snap | 2.5 | 5 |
-| Spare Parts | 2 | 1 |
-| Shotgun Savvy | 2 | 1 |
-| Crossing Snakes | 2 | 1 |
-| Steady Hands | 2 | 4 |
-| Concealed Explosives | 2 | 1 |
-| Depleted Reload | 2 | 5 |
-| Streamline | 2 | 7 |
-| Shell Compression | 2 | 1 |
-| Magazine Warp | 2 | 1 |
-| Coiling Viper | 2 | 3 |
-| Seismic Palm | 2 | 1 |
-| Flechette | 2 | 1 |
-| Armored Acrobatics | 2 | 1 |
-| Vulpine Mask | 2 | 2 |
-| Ammo Case | 2 | 1 |
-| Point Blank | 1.5 | 2 |
-| Power Throw | 1 | 5 |
-| Heated Charge | 1 | 2 |
-| Stormbringer | 1 | 1 |
-| Armored Recovery | not enough data... | not enough data... |
-| Slip Magazine | 2 | 1 |
-| Undying Will | 2 | 1 |
-| Lashing Coil | not enough data... | not enough data... |
-| Primed Bane Of Orokin | 49.5 | 9 |
-| Warm Coat | 35 | 1 |
-| Frostbite | 20 | 95 |
-| Augur Secrets | 19 | 141 |
-| Target Fixation | 15 | 4 |
-| Savior Decoy | 15 | 1 |
-| Contamination Casing | 14 | 31 |
-| Rousing Plunder | 13 | 1 |
-| Archgun Riven Mod (Veiled) | 12 | 33 |
-| Infectious Injection | 11 | 4 |
-| Resonating Quake | 10 | 2 |
-| Heightened Reflexes | 10 | 1 |
-| Hall Of Malevolence | 10 | 43 |
-| Lucky Shot | 10 | 1 |
-| Stalking Fan | 10 | 21 |
-| Tactical Retreat | 10 | 1 |
-| Electrified Barrel | 9 | 20 |
-| Bright Purity | 9 | 4 |
-| Frigid Blast | 9 | 59 |
-| Shrapnel Rounds | 9 | 1 |
-| Speed Trigger | 8.5 | 2 |
-| Wise Razor | 8 | 27 |
-| Deadly Efficiency | 8 | 9 |
-| Cleanse Grineer | 8 | 1 |
-| Loose Magazine | 8 | 1 |
-| Maximum Capacity | 8 | 1 |
-| Hastened Deflection | 5 | 15 |
-| Hunt | 5 | 1 |
-| Bleeding Edge | 5 | 1 |
-| Firestorm | 4.5 | 17 |
-| Shepherd | 4 | 1 |
-| Suppress | 4 | 1 |
-| Bane Of Corpus | 4 | 3 |
-| Berserker Fury | 4 | 44 |
-| Handspring | 4 | 6 |
-| Flux Overdrive | 3 | 1 |
-| Maglev | 3 | 1 |
-| Smite Grineer | 3 | 1 |
-| Tainted Mag | 3 | 13 |
-| Life Strike | 2.5 | 2 |
-| Arrow Mutation | 2 | 3 |
-| Flame Repellent | 2 | 2 |
-| Flailing Branch | 1 | 1 |
-| Serrated Edges | not enough data... | not enough data... |
-| Sword Alone | 70 | 1 |
-| Cutting Edge | 60 | 1 |
-| Primed Flow | 50 | 113 |
-| Shelter | 30 | 1 |
-| Primed Pistol Ammo Mutation | 30 | 57 |
-| Primed Slip Magazine | 24 | 31 |
-| Enemy Radar | 16 | 22 |
-| Speed Drift | 15 | 20 |
-| Soft Hands | 14 | 1 |
-| Cunning Drift | 14 | 146 |
-| Abating Link | 14 | 18 |
-| Piercing Navigator | 12 | 3 |
-| Resonance | 11.5 | 2 |
-| Rift Torrent | 11 | 8 |
-| Hallowed Eruption | 10 | 2 |
-| Piercing Roar | 10 | 6 |
-| Hushed Invisibility | 10 | 4 |
-| Pilfering Swarm | 10 | 35 |
-| Iron Shrapnel | 9.5 | 4 |
-| Ballistic Bullseye | 9 | 1 |
-| Toxic Sequence | 9 | 1 |
-| Diamond Skin | 8 | 1 |
-| Fomorian Accelerant | 7.5 | 2 |
-| Power Drift | 6 | 187 |
-| Spring-Loaded Broadhead | 5 | 1 |
-| Magnum Force | 5 | 52 |
-| Swift Momentum | 5 | 14 |
-| Glacial Edge | 4.5 | 2 |
-| Gemini Cross | 4 | 1 |
-| Expel Corpus | 4 | 1 |
-| Contagious Spread | 4 | 10 |
-| Combat Discipline | 4 | 37 |
-| Shock Absorbers | 3 | 1 |
-| Tactical Reload | 3 | 1 |
-| Tear Gas | not enough data... | not enough data... |
-| Territorial Aggression | 4 | 1 |
-| Endurance Drift | 3 | 2 |
-| Swipe | 3 | 6 |
-| Pounce | 3 | 3 |
-| Sharpened Claws | 3 | 3 |
-| Organ Shatter | 3 | 7 |
-| Melee Guidance | 2.5 | 2 |
-| Stealth Drift | 2 | 1 |
-| Bane Of Infested | 2 | 1 |
-| Shocking Touch | 2 | 3 |
-| Molten Impact | 2 | 1 |
-| Rebound | 2 | 1 |
-| Tainted Shell | 1 | 4 |
-| Discharge Strike | not enough data... | not enough data... |
-| Primed Smite Infested | 35 | 2 |
-| Whiplash Mine | 30 | 2 |
-| Reach | 5 | 1 |
-| Anti-Flak Plating | not enough data... | not enough data... |
-| Primed Smite Corpus | 40 | 5 |
-| Tempo Royale | 19 | 25 |
-| Prolonged Paralysis | 15 | 3 |
-| Odomedic | 15 | 1 |
-| Funnel Clouds | 14.5 | 2 |
-| Rift Haven | 14 | 1 |
-| Magnetized Discharge | 14 | 24 |
-| Deadly Sequence | 12 | 1 |
-| Path Of Statues | 12 | 8 |
-| Eroding Blight | 10 | 1 |
-| Fever Strike | 10 | 1 |
-| Scattered Justice | 10 | 8 |
-| Toxic Blight | 10 | 2 |
-| Thief's Wit | 10 | 1 |
-| Rifle Riven Mod (Veiled) | 10 | 500 |
-| Icy Avalanche | 10 | 24 |
-| Security Override | 10 | 1 |
-| Safeguard | 10 | 1 |
-| Contagion Cloud | 10 | 5 |
-| Squad Renew | 10 | 2 |
-| Immolated Radiance | 9.5 | 2 |
-| Brain Storm | 9 | 2 |
-| Shotgun Riven Mod (Veiled) | 5 | 206 |
-| High Noon | 5 | 14 |
-| Void Cloak | 5 | 1 |
-| Flow Burn | 4 | 5 |
-| Brutal Tide | 3 | 5 |
-| Fatal Acceleration | 3 | 1 |
-| Fast Deflection | 3 | 1 |
-| Melee Prowess | 2 | 1 |
-| Sawtooth Clip | 1 | 1 |
-| Flak Shot | not enough data... | not enough data... |
-| Follow Through | not enough data... | not enough data... |
-| Proton Jet | 3 | 1 |
-| Lock And Load | 3 | 7 |
-| Section Density | 3 | 2 |
-| Guardian Derision | 2 | 2 |
-| Quickdraw | 1 | 1 |
-| Full Capacity | not enough data... | not enough data... |
-| Anti-Grav Grenade | 80 | 1 |
-| Counterweight | 60 | 1 |
-| Electro Pulse | 55 | 1 |
-| Warhead | 45 | 1 |
-| Adept Surge | 15 | 1 |
-| Hysterical Assault | 14.5 | 4 |
-| Countermeasures | 14 | 1 |
-| Aerial Ace | 14 | 2 |
-| Energizing Shot | 14 | 4 |
-| Surging Dash | 12.5 | 4 |
-| The Perrin Sequence Augment Mod | 12.5 | 3 |
-| Photon Repeater | 12 | 26 |
-| Hypothermic Shell | 12 | 50 |
-| Brief Respite | 12 | 142 |
-| Anchored Glide | 10.5 | 2 |
-| Balefire Surge | 10 | 5 |
-| Gorgon Frenzy | 10 | 1 |
-| Retrieve | 10 | 2 |
-| New Loka Augment Mod | 10 | 9 |
-| Arbiters of Hexis Augment Mod | 10 | 5 |
-| Conductor | 9 | 3 |
-| Accumulating Whipclaw | 9 | 73 |
-| Battle Stations | 9 | 6 |
-| Blood Forge | 9 | 3 |
-| Endless Lullaby | 9 | 1 |
-| Purifying Flames | 8.5 | 2 |
-| Shield Charger | 8 | 1 |
-| Static Discharge | 6 | 1 |
-| Crimson Dervish | 6 | 11 |
-| Physique | 5.5 | 4 |
-| Venomous Clip | 5 | 4 |
-| Mischief | 5 | 1 |
-| Argon Scope | 4 | 5 |
-| Deep Freeze | 4 | 4 |
-| Sure Shot | 3.5 | 8 |
-| Neutralize | 3 | 1 |
-| Pain Threshold | 3 | 1 |
-| Charm | 2.5 | 5 |
-| Cat's Eye | 2.5 | 2 |
-| Medi-Pet Kit | 2 | 1 |
-| Overcharged | not enough data... | not enough data... |
-| Double-Barrel Drift | 2 | 1 |
-| Explosive Demise | not enough data... | not enough data... |
-| Sapping Reach | not enough data... | not enough data... |
-| Shockwave Actuators | 150 | 1 |
-| Astral Autopsy | 57.5 | 4 |
-| Primed Rubedo-Lined Barrel | 45 | 16 |
-| Primed Cryo Rounds | 44 | 58 |
-| Primed Animal Instinct | 39 | 22 |
-| Vigilante Supplies | 19 | 109 |
-| Precision Strike | 15 | 1 |
-| Deadly Maneuvers | 13 | 2 |
-| Ice Wave Impedance | 13 | 1 |
-| Rubble Heap | 12 | 25 |
-| Reinforcing Stomp | 12 | 5 |
-| Viral Tempest | 12 | 22 |
-| Revealing Spores | 10 | 1 |
-| Enraged | 10 | 3 |
-| Pistol Scavenger | 10 | 7 |
-| Heavy Warhead | 10 | 2 |
-| Assimilate | 10 | 21 |
-| Naramon Transmute Core | 9 | 1 |
-| Vazarin Transmute Core | 9 | 3 |
-| Madurai Transmute Core | 9 | 3 |
-| Pilfering Strangledome | 9 | 62 |
-| Condition Overload | 8 | 144 |
-| Hyperion Thrusters | 8 | 29 |
-| Infested Impedance | 8 | 1 |
-| Staggering Shield | 8 | 1 |
-| Healing Return | 7 | 17 |
-| Dispatch Overdrive | 5 | 1 |
-| Toxic Barrage | 5 | 68 |
-| Proton Pulse | 5 | 1 |
-| Vengeful Revenant | 4 | 9 |
-| Agile Aim | 4 | 1 |
-| Streamlined Form | 3.5 | 2 |
-| Chilling Reload | 3 | 13 |
-| Drifting Contact | 3 | 25 |
-| Relentless Combination | 3 | 1 |
-| Enduring Affliction | 3 | 1 |
-| Anticipation | not enough data... | not enough data... |
-| Shred Shot | not enough data... | not enough data... |
-| Shotgun Ammo Mutation | 3 | 3 |
-| Stretch | 2 | 2 |
-| Intensify | 2 | 5 |
-| Apex Predator | not enough data... | not enough data... |
-| Calculated Victory | not enough data... | not enough data... |
-| Impenetrable Offense | not enough data... | not enough data... |
-| Looter | 50 | 4 |
-| Primed Target Cracker | 45 | 75 |
-| Primed Pistol Gambit | 41 | 47 |
-| Bane Of Orokin | 25 | 6 |
-| Sacrifice | 24 | 17 |
-| Shell Shock | 20 | 22 |
-| Juice | 20 | 1 |
-| Augur Reach | 15 | 96 |
-| Larva Burst | 12 | 2 |
-| Hydraulic Barrel | 12 | 1 |
-| Partitioned Mallet | 11 | 8 |
-| Narrow Minded | 10 | 222 |
-| Target Acquired | 10 | 31 |
-| Maim | 9 | 13 |
-| Crushing Ruin | 6 | 39 |
-| Stand Ground | not enough data... | not enough data... |
-| Regenerative Molt | 10 | 3 |
-| Phoenix Renewal | 9 | 5 |
-| Medi-Ray | 9 | 6 |
-| Gleaming Talon | 8 | 39 |
-| Pistol Ammo Mutation | 5 | 15 |
-| Full Contact | 5 | 2 |
-| Gunslinger | 4 | 4 |
-| Reflex Draw | 3.5 | 2 |
-| Poisonous Sting | 3.5 | 3 |
-| Bounty Hunter | not enough data... | not enough data... |
-| Heartseeker | not enough data... | not enough data... |
-| Decisive Judgement | 5 | 12 |
-| Twirling Spire | 5 | 3 |
-| Auxiliary Power | 5 | 7 |
-| Electromagnetic Shielding | 4 | 1 |
-| Gladiator Finesse | 4 | 7 |
-| Hunter Track | 4 | 7 |
-| Loyal Companion | 3 | 4 |
-| Martial Fury | not enough data... | not enough data... |
-| Hunter Command | 4 | 9 |
-| Saxum Thorax | 4 | 3 |
-| Crowd Dispersion | 3.5 | 2 |
-| Scavenge | 3 | 1 |
-| Blind Justice | 3 | 13 |
-| Sundering Weave | 2 | 1 |
-| Impaler Munitions | not enough data... | not enough data... |
-| Rending Wind | 181 | 1 |
-| High Voltage | 63.5 | 48 |
-| Draining Bite | 30 | 1 |
-| Acidic Spittle | 22.5 | 2 |
-| Loaded Capacity | 20 | 1 |
-| Necramech Pressure Point | 15 | 2 |
-| Bomb The Landin' | 15 | 1 |
-| Rising Skill | 15 | 1 |
-| Tempered Bound | 15 | 1 |
-| Feathered Arrows | 14 | 1 |
-| Fracturing Crush | 13.5 | 12 |
-| Voltage Sequence | 13 | 1 |
-| Noble Cadence | 12 | 1 |
-| Transient Fortitude | 12 | 281 |
-| Necramech Thrusters | 11 | 9 |
-| Necramech Vitality | 10 | 9 |
-| Endoparasitic Vector | 10 | 1 |
-| Mortal Conduct | 10 | 1 |
-| Radiant Finish | 10 | 1 |
-| Recharge Barrier | 10 | 3 |
-| Focused Acceleration | 10 | 1 |
-| Broad Eye | 9 | 1 |
-| Cryo Rounds | 9 | 1 |
-| Necramech Slipstream | 8 | 1 |
-| Red Veil Augment Mod | 8 | 2 |
-| Cunning Aspect | 8 | 1 |
-| Loose Chamber | 8 | 1 |
-| Nano-Applicator | 8 | 1 |
-| Parry | 6.5 | 2 |
-| Focused Defense | 6.5 | 2 |
-| Silent Battery | 6 | 1 |
-| Covert Lethality | 6 | 26 |
-| Ferocity | 5 | 1 |
-| Concussion Rounds | 5 | 1 |
-| Guided Ordnance | 5 | 1 |
-| Collision Force | 4.5 | 2 |
-| Kinetic Ricochet | 4 | 1 |
-| Vital Sense | 4 | 75 |
-| Howl | 4 | 1 |
-| Defiled Snapdragon | 3 | 10 |
-| Thermagnetic Shells | 2 | 1 |
-| Reflect | 1 | 5 |
-| Recuperate | not enough data... | not enough data... |
-| Armored Evade | not enough data... | not enough data... |
-| Crescent Charge | 499 | 1 |
-| Split Flights | 99.5 | 2 |
-| Hornet Strike | 55 | 1 |
-| Ambush | 51.5 | 5 |
-| Primed Firestorm | 50 | 20 |
-| Kill Switch | 50 | 1 |
-| Primed Fulmination | 43 | 51 |
-| Necramech Efficiency | 20 | 1 |
-| Synth Deconstruct | 19 | 91 |
-| Peculiar Bloom | 18 | 2 |
-| Necramech Rebuke | 15 | 1 |
-| Transistor Shield | 15 | 1 |
-| Thrall Pact | 13.5 | 2 |
-| Guided Effigy | 12 | 1 |
-| Lasting Covenant | 12 | 9 |
-| Tesla Bank | 11.5 | 15 |
-| Critical Surge | 10 | 4 |
-| Blending Talons | 10 | 19 |
-| Ore Gaze | 10 | 7 |
-| Tek Enhance | 10 | 31 |
-| Final Harbinger | 10 | 17 |
-| Adrenaline Boost | 10 | 1 |
-| Blind Shot | 10 | 1 |
-| Eternal War | 10 | 93 |
-| Necramech Aviator | 9.5 | 2 |
-| Mesa's Waltz | 9 | 29 |
-| Razorwing Blitz | 9 | 95 |
-| Hunter Munitions | 9 | 146 |
-| Augur Seeker | 9 | 72 |
-| Hunter Synergy | 8 | 65 |
-| Crashing Havoc | 8 | 1 |
-| Scattering Inferno | 8 | 49 |
-| Shell Rush | 7 | 4 |
-| Necramech Enemy Sense | 6 | 2 |
-| Vigilante Offense | 5 | 3 |
-| Corrupt Charge | 5 | 72 |
-| Equilibrium | 5 | 21 |
-| Volatile Quick Return | 4 | 28 |
-| Slicing Feathers | 4 | 22 |
-| Synth Reflex | 3 | 4 |
-| Fetch | 3 | 2 |
-| Revenge | 3 | 1 |
-| Twitch | 3 | 1 |
-| Venomous Rise | not enough data... | not enough data... |
-| Meteor Munitions | not enough data... | not enough data... |
-| Momentary Pause | not enough data... | not enough data... |
-| Overview | 9 | 1 |
-| Vigilante Vigor | 5 | 39 |
-| Gladiator Rush | 4 | 14 |
-| Overcharge Detectors | not enough data... | not enough data... |
-| Prize Kill | not enough data... | not enough data... |
-| Quick Charge | not enough data... | not enough data... |
-| Primed Chamber | 260 | 4 |
-| Paralytic Spores | 150 | 1 |
-| Stasis Field | 140 | 1 |
-| Primed Rifle Ammo Mutation | 75 | 2 |
-| Razor Munitions | not enough data... | not enough data... |
-| Aero Agility | 25 | 1 |
-| Anti-Grav Array | 20 | 5 |
-| Dual Rounds | 19 | 30 |
-| Sonic Boost | 17.5 | 2 |
-| Calm & Frenzy | 15 | 4 |
-| Desiccation's Curse | 15 | 4 |
-| Winds Of Purity | 14 | 2 |
-| Peaceful Provocation | 12 | 5 |
-| Recover | not enough data... | not enough data... |
-| Primed Regen | 99.5 | 13 |
-| Voltaic Strike | 55 | 127 |
-| Primed Smite Grineer | 54 | 2 |
-| Infectious Bite | 50 | 1 |
-| Hard Engage | 50 | 1 |
-| Combo Killer | 50 | 1 |
-| Tractor Beam | 50 | 1 |
-| Botanist | 50 | 6 |
-| Combo Fury | 50 | 1 |
-| Jugulus Spines | 47.5 | 2 |
-| Sabot Rounds | 45 | 32 |
-| Saxum Spittle | 42.5 | 4 |
-| Primed Fever Strike | 40 | 37 |
-| Companion Weapon Riven Mod (Veiled) | 40 | 43 |
-| Meticulous Aim | 30 | 1 |
-| Primed Charged Shell | 28 | 31 |
-| Efficient Beams | 25 | 1 |
-| Primo Flair | 20 | 1 |
-| Vapor Trail | 20 | 1 |
-| Survival Instinct | 20 | 1 |
-| Kavat's Grace | 20 | 17 |
-| Nitro Boost | 20 | 1 |
-| Mecha Overdrive | 19.5 | 58 |
-| Primed Quickdraw | 19 | 6 |
-| Bhisaj-Bal | 19 | 14 |
-| Necramech Steel Fiber | 17 | 13 |
-| Critical Focus | 17 | 51 |
-| Rumbled | 15 | 3 |
-| Mecha Recharge | 15 | 57 |
-| Trample | 15 | 1 |
-| Crescent Devolution | 15 | 1 |
-| Anabolic Pollination | 15 | 1 |
-| Tek Assault | 15 | 27 |
-| Air Thrusters | 15 | 1 |
-| Necramech Augur | 15 | 1 |
-| Counter Pulse | 15 | 2 |
-| Fire Suppression | 15 | 1 |
-| Mending Splinters | 15 | 1 |
-| No Current Leap | 15 | 1 |
-| Concentrated Arrow | 15 | 6 |
-| Cryo Coating | 14.5 | 5 |
-| Necramech Refuel | 14 | 4 |
-| Repair Kit | 14 | 1 |
-| Savage Silence | 14 | 3 |
-| Ion Burn | 14 | 1 |
-| Energy Transfer | 14 | 9 |
-| Khra | 13 | 27 |
-| Ion Infusion | 12.5 | 6 |
-| Insatiable | 12 | 8 |
-| Vigorous Swap | 12 | 14 |
-| Smoke Shadow | 12 | 4 |
-| Preparation | 12 | 108 |
-| Necramech Intensify | 12 | 8 |
-| Reaping Chakram | 12 | 1 |
-| Necramech Flow | 12 | 22 |
-| Grendel Systems Locator | 12 | 3 |
-| Grendel Chassis Locator | 12 | 4 |
-| Enveloping Cloud | 12 | 8 |
-| Vome | 12 | 24 |
-| Fass | 12 | 29 |
-| Teleport Rush | 11 | 1 |
-| Titanic Rumbler | 10.5 | 2 |
-| Bursting Mass | 10 | 1 |
-| Aerodynamic | 10 | 52 |
-| Saxum Carapace | 10 | 13 |
-| Necramech Continuity | 10 | 6 |
-| Empowered Quiver | 10 | 3 |
-| Rolling Guard | 10 | 80 |
-| Muzzle Flash | 10 | 7 |
-| Avenging Truth | 10 | 1 |
-| Charged Bullets | 10 | 37 |
-| Fury | 10 | 1 |
-| Lohk | 10 | 31 |
-| Blood For Energy | 10 | 3 |
-| Xata | 10 | 20 |
-| Mach Crash | 10 | 7 |
-| Sharpshooter | 10 | 3 |
-| Cautious Shot | 10 | 4 |
-| Jet Stream | 10 | 3 |
-| Duality | 10 | 3 |
-| Exposing Harpoon | 10 | 1 |
-| Auto Breach | 10 | 23 |
-| Hush | 9 | 1 |
-| Four Riders | 9 | 11 |
-| Harkonar Scope | 9 | 1 |
-| Jugulus Barbs | 9 | 13 |
-| Viral Quills | 9 | 5 |
-| Pyroclastic Flow | 9 | 4 |
-| Meteor Crash | 9 | 1 |
-| Volatile Parasite | 9 | 2 |
-| Volatile Rebound | 9 | 25 |
-| Power Donation | 9 | 22 |
-| Despoil | 9 | 72 |
-| Carnis Stinger | 8.5 | 17 |
-| Necramech Deflection | 8.5 | 7 |
-| Synth Fiber | 8 | 11 |
-| Panzer Devolution | 8 | 3 |
-| Celestial Nightfall | 8 | 1 |
-| Out Of Sight | 8 | 3 |
-| Star Divide | 8 | 1 |
-| Tether | 7 | 1 |
-| Particle Ram | 7 | 2 |
-| Adaptation | 7 | 92 |
-| Untraceable | 7 | 22 |
-| Necramech Stretch | 6.5 | 2 |
-| Necramech Reach | 6 | 1 |
-| Blackout Pulse | 6 | 17 |
-| Efficient Transferral | 6 | 17 |
-| Slay Board | 5.5 | 2 |
-| Hunter's Bonesaw | 5 | 1 |
-| Toxin Resistance | 5 | 1 |
-| Anemic Agility | 5 | 111 |
-| Resolute Focus | 5 | 1 |
-| Pistol Amp | 5 | 22 |
-| Tek Collateral | 5 | 6 |
-| Synth Charge | 5 | 3 |
-| Zodiac Shred | 5 | 3 |
-| Proboscis | 5 | 1 |
-| Virulent Scourge | 5 | 53 |
-| Necramech Seismic Wave | 5 | 1 |
-| Astral Slash | 5 | 1 |
-| Live Wire | 4.5 | 2 |
-| Tek Gravity | 4.5 | 2 |
-| Augur Pact | 4.5 | 26 |
-| Ammo Chain | 4.5 | 2 |
-| Metal Auger | 4 | 1 |
-| Animal Instinct | 4 | 33 |
-| Necramech Redirection | 4 | 1 |
-| Gnashing Payara | 4 | 13 |
-| Retribution | 4 | 1 |
-| Aero Periphery | 4 | 1 |
-| Proton Snap | 4 | 3 |
-| Hunter Recovery | 4 | 15 |
-| Guardian | 4 | 1 |
-| Shatter Burst | 4 | 8 |
-| Master Key | 4 | 1 |
-| Failsafe | 4 | 2 |
-| Furor | 4 | 1 |
-| Battle Forge | 4 | 1 |
-| Burdened Magazine | 3.5 | 4 |
-| Cleaving Whirlwind | 3 | 5 |
-| True Steel | 3 | 1 |
-| Conductive Blade | 3 | 1 |
-| Ravage | 3 | 8 |
-| Energy Field | 3 | 1 |
-| Rifle Aptitude | 3 | 3 |
-| Patagium | 3 | 1 |
-| Carnis Mandible | 2.5 | 3 |
-| Afterburner | 2 | 1 |
-| Master Thief | 2 | 1 |
-| Breach Quanta | 2 | 1 |
-| Blood For Ammo | 2 | 1 |
-| Extend | 1 | 1 |
-| Combustion Beam | 1 | 1 |
-| Seeking Fury | 1 | 1 |
-| Push & Pull | not enough data... | not enough data... |
-| Equilibrium (Steam Pinnacle Pack) | 1000 | 1 |
-| Biotic Rounds | 194 | 5 |
-| Burning Hate | 169.5 | 4 |
-| Primed Cleanse Infested | 150 | 1 |
-| Unseen Dread | 100 | 5 |
-| Blast Shield | 99 | 1 |
-| Leaded Gas | 92.5 | 6 |
-| Primed Dual Rounds | 90 | 6 |
-| Turret Velocity | 80 | 1 |
-| Primed Convulsion | 80 | 21 |
-| Primed Deadly Efficiency | 80 | 2 |
-| Primed Magazine Warp | 75 | 10 |
-| Discipline's Merit | 75 | 43 |
-| Primed Ammo Stock | 65 | 7 |
-| Primed Redirection | 65 | 103 |
-| Primed Stabilizer | 65 | 4 |
-| Vome Invocation | 59 | 11 |
-| Amanata Pressure | 50 | 1 |
-| Primed Smite Orokin | 46.5 | 6 |
-| Clip Delegation | 46.5 | 39 |
-| Primed Cleanse Grineer | 45 | 2 |
-| Xata Invocation | 45 | 9 |
-| Photon Overcharge | 45 | 11 |
-| Higasa Serration | 45 | 2 |
-| Primed Counterbalance | 45 | 1 |
-| Primed Expel The Murmur | 45 | 2 |
-| Necrophagic Vigor | 45 | 17 |
-| Peculiar End | 44.5 | 3 |
-| Primed Sniper Ammo Mutation | 44 | 3 |
-| Ballista Measure | 42.5 | 2 |
-| Serrated Rounds | 40 | 1 |
-| Void Hole | 40 | 31 |
-| Spontaneous Singularity | 40 | 1 |
-| Primed Cleanse The Murmur | 40 | 3 |
-| Primed Ammo Chain | 39.5 | 6 |
-| Khra Canticle | 38 | 11 |
-| Metal Fiber | 37 | 5 |
-| Primed Cleanse Corpus | 37 | 2 |
-| Primed Chilling Grasp | 35 | 30 |
-| Dreamer's Wrath | 34 | 50 |
-| Primed Cleanse Orokin | 30 | 4 |
-| Last Herald | 30 | 1 |
-| Sly Devolution | 30 | 2 |
-| Lohk Canticle | 30 | 12 |
-| Sey-Taph | 30 | 1 |
-| Primed Venomous Clip | 30 | 42 |
-| Jugulus Carapace | 29 | 19 |
-| Worm's Torment | 29 | 1 |
-| Primed Bane Of The Murmur | 29 | 68 |
-| Transfusion | 28 | 1 |
-| Primed Smite The Murmur | 28 | 3 |
-| Growing Power | 27 | 137 |
-| Quick Escape | 25 | 1 |
-| Pop Top | 25 | 1 |
-| Primed Tactical Pump | 25 | 50 |
-| Archon Intensify | 25 | 69 |
-| Archon Vitality | 25 | 100 |
-| Archon Stretch | 25 | 103 |
-| Primed Steady Hands | 25 | 36 |
-| Evir-Ti | 25 | 1 |
-| Vikla-Safor | 25 | 2 |
-| Necramech Repair | 24.5 | 6 |
-| Steel Charge | 24 | 43 |
-| Dizzying Rounds | 24 | 3 |
-| Archon Continuity | 24 | 66 |
-| Archon Flow | 23.5 | 34 |
-| Sentient Barrage | 22 | 1 |
-| Ordnance Velocity | 20 | 4 |
-| Iatric Mycelium | 20 | 1 |
-| Cordon | 20 | 6 |
-| Oull | 20 | 47 |
-| Power Drain | 19.5 | 8 |
-| Peculiar Audience | 19 | 18 |
-| Catalyzing Shields | 19 | 186 |
-| Sentient Surge | 18 | 217 |
-| Jahu Canticle | 18 | 20 |
-| Synergized Prospectus | 17 | 11 |
-| Guardian Armor | 16 | 9 |
-| Extreme Velocity | 15 | 1 |
-| Controlled Slide | 15 | 3 |
-| Ironclad Flight | 15 | 1 |
-| Mark Of The Beast | 15 | 1 |
-| Tandem Bond | 15 | 17 |
-| Covert Bond | 15 | 1 |
-| Restorative Bond | 15 | 8 |
-| Momentous Bond | 15 | 98 |
-| Aerial Bond | 15 | 18 |
-| Reinforced Bond | 15 | 87 |
-| Volatile Variant | 15 | 25 |
-| Persistent Posture | 15 | 3 |
-| Pain Points | 15 | 1 |
-| Tharros Lethality | 15 | 3 |
-| Reverse Rotorswell | 15 | 14 |
-| Ulashta-Shol | 15 | 3 |
-| Omn-Evi | 15 | 44 |
-| Pacifying Bolts | 14 | 2 |
-| Catapult | 14 | 6 |
-| Artillery Cheap Shot | 14 | 30 |
-| Hata-Satya | 14 | 24 |
-| Champion's Blessing | 14 | 7 |
-| Swift Bite | 14 | 12 |
-| Range Advantage | 14 | 1 |
-| Vile Discharge | 14 | 3 |
-| Tenacious Bond | 14 | 71 |
-| Mystic Bond | 14 | 23 |
-| Axios Javelineers | 14 | 1 |
-| Frenzied Posture | 14 | 22 |
-| Protector Posture | 14 | 15 |
-| Magnetic Strike | 14 | 6 |
-| Lingering Transmutation | 14 | 4 |
-| Merulina Guardian | 13.5 | 9 |
-| Omikuji's Fortune | 13.5 | 11 |
-| Bladed Rounds | 13 | 42 |
-| Necramech Rage | 13 | 9 |
-| Intrepid Stand | 13 | 16 |
-| Manifold Bond | 13 | 96 |
-| Expel The Murmur | 13 | 2 |
-| Parasitic Vitality | 13 | 6 |
-| Disabling Conditioning | 13 | 11 |
-| Conductive Sphere | 13 | 29 |
-| Vexing Retaliation | 12.5 | 2 |
-| Surging Blades | 12.5 | 4 |
-| Astral Bond | 12.5 | 2 |
-| Spellbound Harvest | 12 | 5 |
-| Abundant Mutation | 12 | 9 |
-| Grendel Neuroptics Locator | 12 | 5 |
-| Granum's Nemesis | 12 | 1 |
-| Temporal Erosion | 12 | 20 |
-| Shadow Haze | 12 | 87 |
-| Duplex Bond | 12 | 81 |
-| Contagious Bond | 12 | 73 |
-| Vicious Bond | 12 | 36 |
-| Seismic Bond | 12 | 43 |
-| Loyal Merulina | 12 | 25 |
-| Damage Decoy | 12 | 3 |
-| Dark Propagation | 12 | 90 |
-| Spectral Spirit | 12 | 38 |
-| Wrecking Wall | 12 | 3 |
-| Gastro | 12 | 9 |
-| Shocking Claws | 12 | 56 |
-| Assassin Posture | 12 | 25 |
-| Immunity Resistance | 12 | 45 |
-| Untime Rift | 12 | 13 |
-| Jahu | 11.5 | 32 |
-| Fused Crucible | 11.5 | 4 |
-| Mending Shot | 11 | 5 |
-| Airburst Rounds | 11 | 2 |
-| Gourmand | 11 | 4 |
-| Ulfrun's Endurance | 11 | 5 |
-| Bell Ringer | 11 | 10 |
-| Blinding Reave | 10.5 | 2 |
-| Triple Tap | 10 | 1 |
-| Shield Of Shadows | 10 | 29 |
-| Sequence Burn | 10 | 1 |
-| Quick Return | 10 | 1 |
-| EMP Aura | 10 | 1 |
-| Energy Amplifier | 10 | 21 |
-| Venari Bodyguard | 10 | 3 |
-| Dread Ward | 10 | 2 |
-| Tribunal | 10 | 1 |
-| Blazing Pillage | 10 | 19 |
-| Reactive Storm | 10 | 12 |
-| Ris | 10 | 23 |
-| Netra | 10 | 18 |
-| Strain Infection | 10 | 7 |
-| Death Blossom | 10 | 13 |
-| Damzav-Vati | 10 | 2 |
-| Zazvat-Kar | 10 | 1 |
-| Repair Dispensary | 10 | 1 |
-| Fused Reservoir | 10 | 44 |
-| Galvanized Savvy | 10 | 26 |
-| Butcher's Revelry | 10 | 6 |
-| Vampiric Grasp | 10 | 5 |
-| Thermal Transfer | 10 | 19 |
-| Biting Frost | 10 | 18 |
-| Combat Reload | 10 | 1 |
-| Critical Precision | 10 | 1 |
-| Shattered Storm | 10 | 13 |
-| Cathode Current | 10 | 53 |
-| Mesmer Shield | 10 | 50 |
-| Eximus Advantage | 10 | 2 |
-| Metamorphic Magazine | 10 | 2 |
-| Critical Mutation | 10 | 9 |
-| Ris Invocation | 10 | 5 |
-| Wrath Of Ukko | 10 | 7 |
-| Elusive Retribution | 10 | 5 |
-| Divine Retribution | 10 | 33 |
-| Recrystalize | 10 | 2 |
-| Warrior's Rest | 10 | 1 |
-| Valence Formation | 10 | 30 |
-| Temporal Artillery | 10 | 7 |
-| Prey Of Dynar | 10 | 12 |
-| Aegis Gale | 10 | 138 |
-| Coil Recharge | 10 | 1 |
-| Brute Conditioning | 10 | 6 |
-| Spectral Serration | 10 | 46 |
-| Merciless Gunfight | 10 | 106 |
-| Cataclysmic Gate | 10 | 14 |
-| Volatile Recompense | 10 | 20 |
-| Prismatic Companion | 10 | 10 |
-| Razor Mortar | 10 | 81 |
-| Jade's Judgment | 10 | 13 |
-| Necramech Blitz | 9.5 | 2 |
-| Hearty Nourishment | 9.5 | 4 |
-| Ordnance Cheap Shot | 9 | 7 |
-| Shocking Speed | 9 | 9 |
-| Martyr Symbiosis | 9 | 45 |
-| Auto Omni | 9 | 1 |
-| Internal Bleeding | 9 | 21 |
-| Galvanized Hell | 9 | 26 |
-| Galvanized Diffusion | 9 | 40 |
-| Swift Mercy | 9 | 2 |
-| Galvanized Aptitude | 9 | 58 |
-| Galvanized Scope | 9 | 31 |
-| Galvanized Acceleration | 9 | 13 |
-| Counterbalance | 9 | 2 |
-| Repo Audit | 9 | 6 |
-| Galvanized Crosshairs | 9 | 18 |
-| Galvanized Shot | 9 | 51 |
-| Reflex Denial | 9 | 7 |
-| The Relentless Lost | 9 | 1 |
-| Netra Invocation | 9 | 7 |
-| Burning Claws | 9 | 56 |
-| Galvanized Steel | 9 | 60 |
-| Galvanized Reflex | 9 | 27 |
-| Galvanized Elementalist | 9 | 41 |
-| Magnetic Strafe | 9 | 120 |
-| Dreadful Killshot | 9 | 7 |
-| Necramech Drift | 8.5 | 2 |
-| Fass Canticle | 8.5 | 7 |
-| Malicious Raptor | 8 | 18 |
-| Intruder Stasis | 8 | 1 |
-| Form Up | 8 | 10 |
-| Necramech Streamline | 8 | 14 |
-| Hemorrhage | 8 | 15 |
-| Votive Onslaught | 8 | 9 |
-| Fortifying Fire | 8 | 2 |
-| Defensive Fire | 8 | 7 |
-| Null Audit | 8 | 3 |
-| Galvanized Chamber | 8 | 91 |
-| Dreamer's Bond | 8 | 1 |
-| Rifle Elementalist | 8 | 144 |
-| Pistol Elementalist | 8 | 160 |
-| Sepsis Claws | 8 | 16 |
-| Chilling Claws | 8 | 9 |
-| Resourceful Retriever | 8 | 146 |
-| Precision Conditioning | 8 | 52 |
-| Opportunity's Reach | 7.5 | 11 |
-| Enduring Strike | 7 | 1 |
-| Shred | 7 | 96 |
-| Seeking Shuriken | 7 | 3 |
-| Necramech Hydraulics | 7 | 3 |
-| Malicious Code | 7 | 2 |
-| Hard Reset | 7 | 1 |
-| Firewall | 7 | 1 |
-| Boreal's Hatred | 7 | 55 |
-| Shivering Contagion | 7 | 29 |
-| Shotgun Elementalist | 7 | 120 |
-| Cull The Weak | 7 | 42 |
-| Cold Arrival | 6 | 2 |
-| Nira's Anguish | 6 | 37 |
-| Semi-Shotgun Cannonade | 6 | 44 |
-| Semi-Rifle Cannonade | 6 | 73 |
-| Melee Elementalist | 6 | 86 |
-| Elusive Posture | 6 | 27 |
-| Prosperous Retriever | 6 | 82 |
-| Turbo Protect | 6 | 1 |
-| Sil-Tabol | 6 | 3 |
-| Vik-Anam | 6 | 6 |
-| Crimson Fugue | 5.5 | 11 |
-| Ice Spring | 5 | 4 |
-| Rage | 5 | 18 |
-| Forward Artillery | 5 | 9 |
-| Necramech Friction | 5 | 1 |
-| Scourging Warheads | 5 | 1 |
-| Waveband Disruptor | 5 | 2 |
-| Evasive Denial | 5 | 2 |
-| Focused Prospectus | 5 | 1 |
-| Aerial Prospectus | 5 | 1 |
-| Diversified Denial | 5 | 2 |
-| Equilibrium Audit | 5 | 1 |
-| Boreal's Contempt | 5 | 10 |
-| Amar's Contempt | 5 | 3 |
-| Amar's Anguish | 5 | 20 |
-| Nira's Hatred | 5 | 46 |
-| Nira's Contempt | 5 | 14 |
-| Mountain's Edge | 5 | 1 |
-| Precision Intensify | 5 | 159 |
-| Ready Steel | 5 | 36 |
-| Condition's Perfection | 5 | 5 |
-| Master's Edge | 5 | 8 |
-| Smite The Murmur | 5 | 1 |
-| Bloodthirst | 5 | 1 |
-| Summoner’s Wrath | 5 | 123 |
-| Worm Away | 5 | 11 |
-| Trojan Tracker | 5 | 9 |
-| Soft Safe | 5 | 15 |
-| Anti-V | 5 | 6 |
-| ByteRyte | 5 | 9 |
-| Keep-Clean | 5 | 13 |
-| Drive-Duster | 5 | 6 |
-| Computer Cop | 5 | 19 |
-| Immuno Shield | 5 | 1 |
-| Ubri-Kaneph | 5 | 16 |
-| Lashta-Vak | 5 | 1 |
-| Kaal-Zidi | 5 | 1 |
-| Talsek-An | 5 | 7 |
-| Lorun-Tash | 5 | 1 |
-| Morphic Transformer | 4.5 | 5 |
-| Lightning Rod | 4 | 1 |
-| Lasting Sting | 4 | 1 |
-| Conic Nozzle | 4 | 8 |
-| Ripload | 4 | 1 |
-| Seeker Volley | 4 | 32 |
-| Ironclad Matrix | 4 | 7 |
-| Amar's Hatred | 4 | 38 |
-| Boreal's Anguish | 4 | 7 |
-| Galeforce Dawn | 4 | 13 |
-| Energy Nexus | 4 | 71 |
-| Cleanse The Murmur | 4 | 2 |
-| Bane Of The Murmur | 4 | 2 |
-| Semi-Pistol Cannonade | 4 | 28 |
-| Balanced Posture | 4 | 6 |
-| Loyal Retriever | 4 | 40 |
-| Primary Acuity | 4 | 58 |
-| Magnetized Cycle | 4 | 24 |
-| Quick Correct | 4 | 1 |
-| Harrowing Spire | 4 | 19 |
-| Metem-Erun | 4 | 4 |
-| Da-Ren | 4 | 1 |
-| Metem-Hakh | 4 | 5 |
-| Hok-Kaal | 4 | 3 |
-| Hayan-Dabor | 4 | 1 |
-| Empazu-Shol | 3.5 | 2 |
-| Shattering Impact | 3 | 1 |
-| Hollow Point | 3 | 8 |
-| Serration | 3 | 4 |
-| Revo Reducer | 3 | 1 |
-| Sentient Scalpel | 3 | 1 |
-| Cruising Speed | 3 | 1 |
-| Hyperstrike | 3 | 3 |
-| Predator | 3 | 1 |
-| Blood For Life | 3 | 4 |
-| Munitions Vortex | 3 | 3 |
-| Carnis Carapace | 3 | 3 |
-| Necramech Fury | 3 | 1 |
-| Orgone Tuning Matrix | 3 | 1 |
-| Indomitable Matrix | 3 | 1 |
-| Onslaught Matrix | 3 | 1 |
-| Radiated Reload | 3 | 33 |
-| Radon Claws | 3 | 21 |
-| Magnetized Core | 3 | 2 |
-| Instant Secure | 3 | 1 |
-| Threat Blocker | 3 | 2 |
-| Yar Dal | 3 | 1 |
-| Quicklock | 2 | 1 |
-| Overloader | 2 | 1 |
-| Protective Shots | 2 | 1 |
-| Raider Matrix | 2 | 1 |
-| Phoenix Blaze | 2 | 1 |
-| Atomic Fallout | 2 | 7 |
-| Accelerated Isotope | 2 | 32 |
-| Focus Radon | 2 | 9 |
-| Containment Breach | 2 | 5 |
-| Critical Meltdown | 2 | 3 |
-| Magnetic Welt | 2 | 1 |
-| Magnetic Claws | 2 | 8 |
-| Magnetic Capacity | 2 | 43 |
-| Pistol Acuity | 2 | 6 |
-| Magnetic Rush | 2 | 11 |
-| Worthy Comradery | 2 | 16 |
-| Esti Vel-Ikha | 2 | 1 |
-| Rupture | 1 | 1 |
+| [Night Stalker](https://warframe.market/items/night_stalker?type=sell) | 99999 | 10 |
+| [Kinetic Collision](https://warframe.market/items/kinetic_collision?type=sell) | 299 | 1 |
+| [Antimatter Mine](https://warframe.market/items/antimatter_mine?type=sell) | 250 | 1 |
+| [Voltaic Lance](https://warframe.market/items/voltaic_lance?type=sell) | 200 | 1 |
+| [Primed Fast Hands](https://warframe.market/items/primed_fast_hands?type=sell) | 62.5 | 8 |
+| [Primed Pack Leader](https://warframe.market/items/primed_pack_leader?type=sell) | 60 | 6 |
+| [Toxic Flight](https://warframe.market/items/toxic_flight?type=sell) | 60 | 1 |
+| [Health Conversion](https://warframe.market/items/health_conversion?type=sell) | 55 | 84 |
+| [Scan Aquatic Lifeforms](https://warframe.market/items/scan_lifeforms?type=sell) | 50 | 1 |
+| [Negate](https://warframe.market/items/negate?type=sell) | 47 | 21 |
+| [Primed Reach](https://warframe.market/items/primed_reach?type=sell) | 45 | 60 |
+| [Searing Steel](https://warframe.market/items/searing_steel?type=sell) | 42.5 | 2 |
+| [Self Destruct](https://warframe.market/items/self_destruct?type=sell) | 30 | 1 |
+| [Rime Rounds](https://warframe.market/items/rime_rounds?type=sell) | 29 | 139 |
+| [Primed Morphic Transformer](https://warframe.market/items/primed_morphic_transformer?type=sell) | 25 | 6 |
+| [Vermillion Storm](https://warframe.market/items/vermillion_storm?type=sell) | 25 | 31 |
+| [Corrosive Projection](https://warframe.market/items/corrosive_projection?type=sell) | 25 | 151 |
+| [Mad Stack](https://warframe.market/items/mad_stack?type=sell) | 25 | 1 |
+| [Sprint Boost](https://warframe.market/items/sprint_boost?type=sell) | 24 | 28 |
+| [Air Time](https://warframe.market/items/air_time?type=sell) | 23 | 1 |
+| [Piercing Caliber](https://warframe.market/items/piercing_caliber?type=sell) | 21 | 11 |
+| [Sharpened Blade](https://warframe.market/items/sharpened_blade?type=sell) | 20 | 2 |
+| [Inertia Dampeners](https://warframe.market/items/inertia_dampeners?type=sell) | 20 | 1 |
+| [Loot Detector](https://warframe.market/items/loot_detector?type=sell) | 20 | 14 |
+| [Prism Guard](https://warframe.market/items/prism_guard?type=sell) | 19 | 26 |
+| [Grinloked](https://warframe.market/items/grinloked?type=sell) | 19 | 1 |
+| [Bullet Dance](https://warframe.market/items/bullet_dance?type=sell) | 18.5 | 16 |
+| [Mag Locks](https://warframe.market/items/mag_locks?type=sell) | 18 | 1 |
+| [Expel Orokin](https://warframe.market/items/expel_corrupted?type=sell) | 17.5 | 2 |
+| [Deceptive Bond](https://warframe.market/items/deceptive_bond?type=sell) | 15 | 1 |
+| [Final Act](https://warframe.market/items/final_act?type=sell) | 15 | 1 |
+| [Rail Guards](https://warframe.market/items/rail_guards?type=sell) | 15 | 1 |
+| [Weeping Wounds](https://warframe.market/items/weeping_wounds?type=sell) | 15 | 158 |
+| [Dead Eye](https://warframe.market/items/dead_eye?type=sell) | 15 | 1 |
+| [Tidal Impunity](https://warframe.market/items/tidal_impunity?type=sell) | 15 | 3 |
+| [Tainted Hydra](https://warframe.market/items/tainted_hydra?type=sell) | 15 | 1 |
+| [Cyclone Kraken](https://warframe.market/items/cyclone_kraken?type=sell) | 15 | 7 |
+| [Teeming Virulence](https://warframe.market/items/teeming_virulence?type=sell) | 15 | 6 |
+| [Peculiar Growth](https://warframe.market/items/peculiar_growth?type=sell) | 14 | 4 |
+| [Magma Chamber](https://warframe.market/items/magma_chamber?type=sell) | 14 | 21 |
+| [Holster Amp](https://warframe.market/items/holster_amp?type=sell) | 13.5 | 12 |
+| [Hallowed Reckoning](https://warframe.market/items/hallowed_reckoning?type=sell) | 12.5 | 6 |
+| [Negation Armor](https://warframe.market/items/negation_swarm?type=sell) | 12 | 1 |
+| [Double Tap](https://warframe.market/items/double_tap?type=sell) | 12 | 7 |
+| [Quickening](https://warframe.market/items/quickening?type=sell) | 12 | 32 |
+| [Furious Javelin](https://warframe.market/items/furious_javelin?type=sell) | 12 | 3 |
+| [Sonic Fracture](https://warframe.market/items/sonic_fracture?type=sell) | 11.5 | 2 |
+| [Smite Infusion](https://warframe.market/items/smite_infusion?type=sell) | 11 | 6 |
+| [Neutralizing Justice](https://warframe.market/items/neutralizing_justice?type=sell) | 11 | 1 |
+| [Mecha Empowered](https://warframe.market/items/mecha_empowered?type=sell) | 11 | 37 |
+| [Thundermiter](https://warframe.market/items/thundermiter?type=sell) | 10.5 | 2 |
+| [Scorch](https://warframe.market/items/scorch?type=sell) | 10 | 86 |
+| [Primal Rage](https://warframe.market/items/primal_rage?type=sell) | 10 | 14 |
+| [Celestial Stomp](https://warframe.market/items/celestial_stomp?type=sell) | 10 | 9 |
+| [Creeping Terrify](https://warframe.market/items/creeping_terrify?type=sell) | 10 | 11 |
+| [Blunderbuss](https://warframe.market/items/blunderbuss?type=sell) | 10 | 1 |
+| [Shattering Storm](https://warframe.market/items/shattering_storm?type=sell) | 10 | 52 |
+| [Fear Sense](https://warframe.market/items/sense_danger?type=sell) | 10 | 1 |
+| [Greedy Pull](https://warframe.market/items/greedy_pull?type=sell) | 10 | 28 |
+| [Constitution](https://warframe.market/items/constitution?type=sell) | 10 | 103 |
+| [Deft Tempo](https://warframe.market/items/deft_tempo?type=sell) | 10 | 1 |
+| [Final Tap](https://warframe.market/items/final_tap?type=sell) | 10 | 1 |
+| [Hydraulic Gauge](https://warframe.market/items/hydraulic_gauge?type=sell) | 10 | 1 |
+| [Hastened Steps](https://warframe.market/items/hastened_steps?type=sell) | 10 | 1 |
+| [Plan B](https://warframe.market/items/plan_b?type=sell) | 10 | 1 |
+| [Perpetual Agony](https://warframe.market/items/perpetual_agony?type=sell) | 10 | 1 |
+| [Body Count](https://warframe.market/items/body_count?type=sell) | 10 | 9 |
+| [Static Alacrity](https://warframe.market/items/static_alacrity?type=sell) | 10 | 2 |
+| [Disruptor](https://warframe.market/items/disruptor?type=sell) | 10 | 1 |
+| [Flow](https://warframe.market/items/flow?type=sell) | 10 | 3 |
+| [Healing Flame](https://warframe.market/items/healing_flame?type=sell) | 10 | 13 |
+| [Gilded Truth](https://warframe.market/items/gilded_truth?type=sell) | 10 | 66 |
+| [Rifle Scavenger](https://warframe.market/items/rifle_scavenger?type=sell) | 10 | 3 |
+| [Warding Thurible](https://warframe.market/items/warding_thurible?type=sell) | 10 | 1 |
+| [Searing Leap](https://warframe.market/items/searing_leap?type=sell) | 10 | 3 |
+| [Enduring Bastille](https://warframe.market/items/repelling_bastille?type=sell) | 10 | 15 |
+| [Hollowed Bullets](https://warframe.market/items/hollowed_bullets?type=sell) | 10 | 75 |
+| [Ironclad Charge](https://warframe.market/items/ironclad_charge?type=sell) | 10 | 6 |
+| [Quick Reload](https://warframe.market/items/quick_reload?type=sell) | 10 | 6 |
+| [Archgun Ace](https://warframe.market/items/archgun_ace?type=sell) | 10 | 12 |
+| [Targeting Receptor](https://warframe.market/items/targeting_receptor?type=sell) | 10 | 1 |
+| [Draining Gloom](https://warframe.market/items/draining_gloom?type=sell) | 10 | 1 |
+| [Stinging Truth](https://warframe.market/items/stinging_truth?type=sell) | 10 | 1 |
+| [Strain Fever](https://warframe.market/items/strain_fever?type=sell) | 9.5 | 7 |
+| [Snap Shot](https://warframe.market/items/snap_shot?type=sell) | 9 | 1 |
+| [Venom Dose](https://warframe.market/items/venom_dose?type=sell) | 9 | 69 |
+| [Emergent Aftermath](https://warframe.market/items/emergent_aftermath?type=sell) | 9 | 1 |
+| [Vile Acceleration](https://warframe.market/items/vile_acceleration?type=sell) | 9 | 156 |
+| [Shock Trooper](https://warframe.market/items/shock_trooper?type=sell) | 9 | 60 |
+| [Beguiling Lantern](https://warframe.market/items/beguiling_lantern?type=sell) | 9 | 1 |
+| [Chromatic Blade](https://warframe.market/items/chromatic_blade?type=sell) | 9 | 37 |
+| [Precision Munition](https://warframe.market/items/precision_munition?type=sell) | 9 | 1 |
+| [Astral Twilight](https://warframe.market/items/astral_twilight?type=sell) | 8 | 91 |
+| [Smite Corpus](https://warframe.market/items/smite_corpus?type=sell) | 8 | 1 |
+| [Fanged Fusillade](https://warframe.market/items/fanged_fusillade?type=sell) | 8 | 6 |
+| [Shotgun Scavenger](https://warframe.market/items/shotgun_scavenger?type=sell) | 8 | 1 |
+| [Hydraulic Chamber](https://warframe.market/items/hydraulic_chamber?type=sell) | 8 | 1 |
+| [Steel Meridian Augment Mod](https://warframe.market/items/steel_meridian_augment_mod?type=sell) | 8 | 2 |
+| [Shadow Harvest](https://warframe.market/items/shadow_harvest?type=sell) | 8 | 1 |
+| [Critical Deceleration](https://warframe.market/items/critical_deceleration?type=sell) | 8 | 133 |
+| [Biting Piranha](https://warframe.market/items/biting_piranha?type=sell) | 8 | 1 |
+| [Sure Footed](https://warframe.market/items/sure_footed?type=sell) | 8 | 53 |
+| [Mafic Rain](https://warframe.market/items/mafic_rain?type=sell) | 8 | 1 |
+| [Crashing Timber](https://warframe.market/items/crashing_timber?type=sell) | 8 | 1 |
+| [Spry Sights](https://warframe.market/items/spry_sights?type=sell) | 8 | 1 |
+| [Entropy Spike](https://warframe.market/items/entropy_spike?type=sell) | 7 | 1 |
+| [Pistol Pestilence](https://warframe.market/items/pistol_pestilence?type=sell) | 7 | 115 |
+| [Cephalon Suda Augment Mod](https://warframe.market/items/cephalon_suda_augment_mod?type=sell) | 7 | 1 |
+| [Enhanced Durability](https://warframe.market/items/enhanced_durability?type=sell) | 7 | 1 |
+| [Investigator](https://warframe.market/items/investigator?type=sell) | 7 | 3 |
+| [Maul](https://warframe.market/items/maul?type=sell) | 7 | 42 |
+| [Narrow Barrel](https://warframe.market/items/narrow_barrel?type=sell) | 6 | 6 |
+| [Spring-Loaded Chamber](https://warframe.market/items/spring_loaded_chamber?type=sell) | 6 | 1 |
+| [Repeater Clip](https://warframe.market/items/repeater_clip?type=sell) | 6 | 3 |
+| [Charged Shell](https://warframe.market/items/charged_shell?type=sell) | 5 | 4 |
+| [Pathogen Rounds](https://warframe.market/items/pathogen_rounds?type=sell) | 5 | 37 |
+| [Swooping Falcon](https://warframe.market/items/swooping_falcon?type=sell) | 5 | 7 |
+| [Gun Glide](https://warframe.market/items/gun_glide?type=sell) | 5 | 1 |
+| [Carving Mantis](https://warframe.market/items/carving_mantis?type=sell) | 5 | 11 |
+| [Sharpened Bullets](https://warframe.market/items/sharpened_bullets?type=sell) | 5 | 3 |
+| [Seismic Wave](https://warframe.market/items/seismic_wave?type=sell) | 5 | 30 |
+| [Melee Riven Mod (Veiled)](https://warframe.market/items/melee_riven_mod_(veiled)?type=sell) | 5 | 687 |
+| [Pistol Riven Mod (Veiled)](https://warframe.market/items/pistol_riven_mod_(veiled)?type=sell) | 5 | 381 |
+| [Finishing Touch](https://warframe.market/items/finishing_touch?type=sell) | 5 | 1 |
+| [Fortitude](https://warframe.market/items/fortitude?type=sell) | 5 | 32 |
+| [Automatic Trigger](https://warframe.market/items/automatic_trigger?type=sell) | 5 | 18 |
+| [Heavy Caliber](https://warframe.market/items/heavy_caliber?type=sell) | 5 | 124 |
+| [Piercing Hit](https://warframe.market/items/piercing_hit?type=sell) | 5 | 1 |
+| [Vigilante Armaments](https://warframe.market/items/vigilante_armaments?type=sell) | 5 | 40 |
+| [Pointed Wind](https://warframe.market/items/pointed_wind?type=sell) | 5 | 8 |
+| [Runtime](https://warframe.market/items/runtime?type=sell) | 5 | 2 |
+| [Accelerated Blast](https://warframe.market/items/accelerated_blast?type=sell) | 5 | 1 |
+| [Embedded Catalyzer](https://warframe.market/items/embedded_catalyzer?type=sell) | 5 | 2 |
+| [Eleventh Storm](https://warframe.market/items/eleventh_storm?type=sell) | 4.5 | 4 |
+| [Laser Sight](https://warframe.market/items/laser_sight?type=sell) | 4.5 | 2 |
+| [Cleanse Corpus](https://warframe.market/items/cleanse_corpus?type=sell) | 4 | 1 |
+| [Grim Fury](https://warframe.market/items/grim_fury?type=sell) | 4 | 3 |
+| [Gladiator Resolve](https://warframe.market/items/gladiator_resolve?type=sell) | 4 | 22 |
+| [Blazing Steel](https://warframe.market/items/blazing_steel?type=sell) | 4 | 4 |
+| [Strafing Slide](https://warframe.market/items/strafing_slide?type=sell) | 4 | 1 |
+| [Maiming Strike](https://warframe.market/items/maiming_strike?type=sell) | 4 | 2 |
+| [Smite Infested](https://warframe.market/items/smite_infested?type=sell) | 4 | 1 |
+| [Rending Turn](https://warframe.market/items/rending_turn?type=sell) | 4 | 1 |
+| [Homing Fang](https://warframe.market/items/homing_fang?type=sell) | 4 | 1 |
+| [Barrel Diffusion](https://warframe.market/items/barrel_diffusion?type=sell) | 4 | 25 |
+| [Whirlwind](https://warframe.market/items/whirlwind?type=sell) | 4 | 18 |
+| [Antitoxin](https://warframe.market/items/antitoxin?type=sell) | 4 | 1 |
+| [Gladiator Aegis](https://warframe.market/items/gladiator_aegis?type=sell) | 4 | 8 |
+| [Link Fiber](https://warframe.market/items/link_fiber?type=sell) | 4 | 4 |
+| [Stabilizer](https://warframe.market/items/stabilizer?type=sell) | 4 | 10 |
+| [Rubedo-Lined Barrel](https://warframe.market/items/rubedo_lined_barrel?type=sell) | 4 | 1 |
+| [Mecha Pulse](https://warframe.market/items/mecha_pulse?type=sell) | 4 | 26 |
+| [Hit And Run](https://warframe.market/items/hit_and_run?type=sell) | 4 | 1 |
+| [Reflex Coil](https://warframe.market/items/reflex_coil?type=sell) | 4 | 3 |
+| [Argon Plating](https://warframe.market/items/argon_plating?type=sell) | 4 | 1 |
+| [Ammo Stock](https://warframe.market/items/ammo_stock?type=sell) | 4 | 1 |
+| [Energy Channel](https://warframe.market/items/energy_channel?type=sell) | 3.5 | 2 |
+| [Rapid Resilience](https://warframe.market/items/rapid_resilience?type=sell) | 3.5 | 2 |
+| [Sudden Impact](https://warframe.market/items/sudden_impact?type=sell) | 3.5 | 2 |
+| [Eject Magazine](https://warframe.market/items/eject_magazine?type=sell) | 3.5 | 2 |
+| [Hydraulic Crosshairs](https://warframe.market/items/hydraulic_crosshairs?type=sell) | 3.5 | 2 |
+| [Tainted Clip](https://warframe.market/items/tainted_clip?type=sell) | 3.5 | 2 |
+| [Iron Phoenix](https://warframe.market/items/iron_phoenix?type=sell) | 3.5 | 2 |
+| [Calculated Redirection](https://warframe.market/items/calculated_redirection?type=sell) | 3 | 1 |
+| [Clashing Forest](https://warframe.market/items/clashing_forest?type=sell) | 3 | 1 |
+| [Ghost](https://warframe.market/items/ghost?type=sell) | 3 | 3 |
+| [Fired Up](https://warframe.market/items/fired_up?type=sell) | 3 | 13 |
+| [Split Chamber](https://warframe.market/items/split_chamber?type=sell) | 3 | 15 |
+| [Tether Grenades](https://warframe.market/items/tether_grenades?type=sell) | 3 | 1 |
+| [Aviator](https://warframe.market/items/aviator?type=sell) | 3 | 19 |
+| [Reaping Spiral](https://warframe.market/items/reaping_spiral?type=sell) | 3 | 7 |
+| [Armored Agility](https://warframe.market/items/armored_agility?type=sell) | 3 | 7 |
+| [Firewalker](https://warframe.market/items/firewalker?type=sell) | 3 | 7 |
+| [Charged Chamber](https://warframe.market/items/charged_chamber?type=sell) | 3 | 2 |
+| [Mobilize](https://warframe.market/items/mobilize?type=sell) | 3 | 2 |
+| [Enhanced Vitality](https://warframe.market/items/enhanced_vitality?type=sell) | 3 | 1 |
+| [Atlantis Vulcan](https://warframe.market/items/atlantis_vulcan?type=sell) | 3 | 1 |
+| [Bleeding Willow](https://warframe.market/items/bleeding_willow?type=sell) | 3 | 7 |
+| [Sundering Strike](https://warframe.market/items/sundering_strike?type=sell) | 3 | 1 |
+| [Regen](https://warframe.market/items/regen?type=sell) | 3 | 1 |
+| [Terminal Velocity](https://warframe.market/items/terminal_velocity?type=sell) | 3 | 7 |
+| [Ice Storm](https://warframe.market/items/ice_storm?type=sell) | 3 | 19 |
+| [Sinking Talon](https://warframe.market/items/sinking_talon?type=sell) | 3 | 3 |
+| [Hellfire](https://warframe.market/items/hellfire?type=sell) | 3 | 7 |
+| [Seeker](https://warframe.market/items/seeker?type=sell) | 3 | 2 |
+| [Rending Strike](https://warframe.market/items/rending_strike?type=sell) | 3 | 1 |
+| [Killing Blow](https://warframe.market/items/killing_blow?type=sell) | 3 | 7 |
+| [Sanctuary](https://warframe.market/items/sanctuary?type=sell) | 2.5 | 2 |
+| [Adhesive Blast](https://warframe.market/items/adhesive_blast?type=sell) | 2.5 | 2 |
+| [Continuity](https://warframe.market/items/continuity?type=sell) | 2.5 | 8 |
+| [Convulsion](https://warframe.market/items/convulsion?type=sell) | 2 | 2 |
+| [Frail Momentum](https://warframe.market/items/frail_momentum?type=sell) | 2 | 3 |
+| [Tempered Blade](https://warframe.market/items/tempered_blade?type=sell) | 2 | 2 |
+| [Chilling Grasp](https://warframe.market/items/chilling_grasp?type=sell) | 2 | 1 |
+| [Assault Mode](https://warframe.market/items/assault_mode?type=sell) | 2 | 1 |
+| [Expel Grineer](https://warframe.market/items/expel_grineer?type=sell) | 2 | 1 |
+| [Heavy Trauma](https://warframe.market/items/heavy_trauma?type=sell) | 2 | 2 |
+| [Accelerated Deflection](https://warframe.market/items/accelerated_deflection?type=sell) | 1.5 | 2 |
+| [Intruder](https://warframe.market/items/intruder?type=sell) | 1 | 1 |
+| [Trick Mag](https://warframe.market/items/trick_mag?type=sell) | 1 | 1 |
+| [Razor Shot](https://warframe.market/items/razor_shot?type=sell) | 1 | 1 |
+| [North Wind](https://warframe.market/items/north_wind?type=sell) | 1 | 2 |
+| [Rime Vault](https://warframe.market/items/rime_vault?type=sell) | not enough data... | not enough data... |
+| [Vanquished Prey](https://warframe.market/items/vanquished_prey?type=sell) | not enough data... | not enough data... |
+| [Loose Hatch](https://warframe.market/items/loose_hatch?type=sell) | not enough data... | not enough data... |
+| [Sinister Reach](https://warframe.market/items/sinister_reach?type=sell) | 3 | 7 |
+| [Lie In Wait](https://warframe.market/items/lie_in_wait?type=sell) | not enough data... | not enough data... |
+| [Argent Scourge](https://warframe.market/items/argent_scourge?type=sell) | not enough data... | not enough data... |
+| [Burning Wasp](https://warframe.market/items/burning_wasp?type=sell) | 2 | 2 |
+| [Ripper Rounds](https://warframe.market/items/ripper_rounds?type=sell) | not enough data... | not enough data... |
+| [Surplus Diverters](https://warframe.market/items/surplus_diverters?type=sell) | not enough data... | not enough data... |
+| [Scan Matter](https://warframe.market/items/scan_matter?type=sell) | 199 | 1 |
+| [Primed Expel Grineer](https://warframe.market/items/primed_expel_grineer?type=sell) | 160 | 2 |
+| [Primed Expel Corpus](https://warframe.market/items/primed_expel_corpus?type=sell) | 160 | 1 |
+| [Primed Bane Of Infested](https://warframe.market/items/primed_bane_of_infested?type=sell) | 150 | 1 |
+| [Pressure Point](https://warframe.market/items/pressure_point?type=sell) | 125 | 1 |
+| [Hammer Shot](https://warframe.market/items/hammer_shot?type=sell) | 110 | 66 |
+| [Primed Expel Orokin](https://warframe.market/items/primed_expel_corrupted?type=sell) | 88.5 | 6 |
+| [Provoked](https://warframe.market/items/provoked?type=sell) | 85 | 1 |
+| [Primed Bane Of Grineer](https://warframe.market/items/primed_bane_of_grineer?type=sell) | 73 | 2 |
+| [Primed Pressure Point](https://warframe.market/items/primed_pressure_point?type=sell) | 65 | 75 |
+| [Detect Vulnerability](https://warframe.market/items/detect_vulnerability?type=sell) | 60 | 1 |
+| [Primed Ravage](https://warframe.market/items/primed_ravage?type=sell) | 59.5 | 19 |
+| [Bite](https://warframe.market/items/bite?type=sell) | 59 | 117 |
+| [Primed Shotgun Ammo Mutation](https://warframe.market/items/primed_shotgun_ammo_mutation?type=sell) | 57 | 3 |
+| [Energy Conversion](https://warframe.market/items/energy_conversion?type=sell) | 55 | 39 |
+| [Primed Expel Infested](https://warframe.market/items/primed_expel_infested?type=sell) | 55 | 3 |
+| [Primed Heated Charge](https://warframe.market/items/primed_heated_charge?type=sell) | 54 | 37 |
+| [Ward Recovery](https://warframe.market/items/ward_recovery?type=sell) | 50 | 1 |
+| [Reawaken](https://warframe.market/items/reawaken?type=sell) | 50 | 1 |
+| [Primed Heavy Trauma](https://warframe.market/items/primed_heavy_trauma?type=sell) | 48 | 19 |
+| [Primed Continuity](https://warframe.market/items/primed_continuity?type=sell) | 45 | 126 |
+| [Fulmination](https://warframe.market/items/fulmination?type=sell) | 40 | 4 |
+| [Relentless Assault](https://warframe.market/items/relentless_assault?type=sell) | 40 | 1 |
+| [Primed Bane Of Corpus](https://warframe.market/items/primed_bane_of_corpus?type=sell) | 35 | 5 |
+| [Empowered Blades](https://warframe.market/items/empowered_blades?type=sell) | 34 | 3 |
+| [Arc Coil](https://warframe.market/items/arc_coil?type=sell) | 32 | 1 |
+| [Acid Shells](https://warframe.market/items/acid_shells?type=sell) | 30 | 69 |
+| [Calculated Shot](https://warframe.market/items/calculated_shot?type=sell) | 30 | 1 |
+| [Hysterical Fixation](https://warframe.market/items/hysterical_fixation?type=sell) | 30 | 1 |
+| [Jolt](https://warframe.market/items/jolt?type=sell) | 29 | 78 |
+| [Steel Fiber](https://warframe.market/items/steel_fiber?type=sell) | 27 | 1 |
+| [Targeting Subsystem](https://warframe.market/items/targeting_subsystem?type=sell) | 25 | 15 |
+| [Ruinous Extension](https://warframe.market/items/ruinous_extension?type=sell) | 25 | 82 |
+| [Signal Flare](https://warframe.market/items/signal_flare?type=sell) | 25 | 1 |
+| [Redirection](https://warframe.market/items/redirection?type=sell) | 25 | 1 |
+| [Venom Teeth](https://warframe.market/items/venom_teeth?type=sell) | 25 | 36 |
+| [Chaos Sphere](https://warframe.market/items/chaos_sphere?type=sell) | 24 | 1 |
+| [Modified Munitions](https://warframe.market/items/modified_munitions?type=sell) | 23 | 1 |
+| [Nightwatch Napalm](https://warframe.market/items/nightwatch_napalm?type=sell) | 20 | 48 |
+| [Cleanse Orokin](https://warframe.market/items/cleanse_corrupted?type=sell) | 20 | 1 |
+| [Fateful Truth](https://warframe.market/items/fateful_truth?type=sell) | 20 | 1 |
+| [Primed Point Blank](https://warframe.market/items/primed_point_blank?type=sell) | 20 | 36 |
+| [Thermite Rounds](https://warframe.market/items/thermite_rounds?type=sell) | 20 | 105 |
+| [Lethal Torrent](https://warframe.market/items/lethal_torrent?type=sell) | 20 | 130 |
+| [Flame Gland](https://warframe.market/items/flame_gland?type=sell) | 20 | 35 |
+| [Venerdo Hoverdrive](https://warframe.market/items/venerdo_hoverdrive?type=sell) | 20 | 1 |
+| [Rifle Amp](https://warframe.market/items/rifle_amp?type=sell) | 15.5 | 2 |
+| [Blind Rage](https://warframe.market/items/blind_rage?type=sell) | 15 | 193 |
+| [Auger Strike](https://warframe.market/items/auger_strike?type=sell) | 15 | 10 |
+| [Elemental Sandstorm](https://warframe.market/items/elemental_sandstorm?type=sell) | 15 | 6 |
+| [Insulation](https://warframe.market/items/insulation?type=sell) | 15 | 1 |
+| [Energy Siphon](https://warframe.market/items/energy_siphon?type=sell) | 15 | 9 |
+| [Gladiator Might](https://warframe.market/items/gladiator_might?type=sell) | 15 | 78 |
+| [Poppin' Vert](https://warframe.market/items/poppin_vert?type=sell) | 15 | 1 |
+| [Cataclysmic Continuum](https://warframe.market/items/cataclysmic_continuum?type=sell) | 15 | 3 |
+| [Spring-Loaded Blade](https://warframe.market/items/spring_loaded_blade?type=sell) | 14 | 68 |
+| [Smite Orokin](https://warframe.market/items/smite_corrupted?type=sell) | 14 | 2 |
+| [Overextended](https://warframe.market/items/overextended?type=sell) | 14 | 216 |
+| [Lasting Purity](https://warframe.market/items/lasting_purity?type=sell) | 14 | 1 |
+| [Coolant Leak](https://warframe.market/items/coolant_leak?type=sell) | 14 | 31 |
+| [Pool Of Life](https://warframe.market/items/pool_of_life?type=sell) | 13.5 | 2 |
+| [Buzz Kill](https://warframe.market/items/buzz_kill?type=sell) | 13.5 | 30 |
+| [Spectrosiphon](https://warframe.market/items/spectrosiphon?type=sell) | 13 | 11 |
+| [Swing Line](https://warframe.market/items/swing_line?type=sell) | 13 | 11 |
+| [Safeguard Switch](https://warframe.market/items/safeguard_switch?type=sell) | 13 | 3 |
+| [Marked Target](https://warframe.market/items/marked_target?type=sell) | 13 | 8 |
+| [Freeze Force](https://warframe.market/items/freeze_force?type=sell) | 12 | 7 |
+| [Mind Freak](https://warframe.market/items/mind_freak?type=sell) | 12 | 10 |
+| [Everlasting Ward](https://warframe.market/items/everlasting_ward?type=sell) | 12 | 4 |
+| [Entropy Flight](https://warframe.market/items/entropy_flight?type=sell) | 12 | 1 |
+| [Entropy Detonation](https://warframe.market/items/entropy_detonation?type=sell) | 12 | 1 |
+| [Disarming Purity](https://warframe.market/items/disarming_purity?type=sell) | 11 | 1 |
+| [Irradiating Disarm](https://warframe.market/items/irradiating_disarm?type=sell) | 10 | 1 |
+| [Antimatter Absorb](https://warframe.market/items/antimatter_absorb?type=sell) | 10 | 1 |
+| [Tectonic Fracture](https://warframe.market/items/tectonic_fracture?type=sell) | 10 | 1 |
+| [Quasar Drill](https://warframe.market/items/quasar_drill?type=sell) | 10 | 1 |
+| [Shattering Justice](https://warframe.market/items/shattering_justice?type=sell) | 10 | 1 |
+| [Vaporize](https://warframe.market/items/vaporize?type=sell) | 10 | 1 |
+| [Secondary Wind](https://warframe.market/items/secondary_wind?type=sell) | 10 | 1 |
+| [Soaring Strike](https://warframe.market/items/soaring_strike?type=sell) | 10 | 2 |
+| [Explosive Legerdemain](https://warframe.market/items/explosive_legerdemain?type=sell) | 10 | 45 |
+| [Measured Burst](https://warframe.market/items/measured_burst?type=sell) | 10 | 1 |
+| [Total Eclipse](https://warframe.market/items/total_eclipse?type=sell) | 10 | 46 |
+| [Purging Slash](https://warframe.market/items/purging_slash?type=sell) | 10 | 1 |
+| [Capacitance](https://warframe.market/items/capacitance?type=sell) | 10 | 34 |
+| [Fireball Frenzy](https://warframe.market/items/fireball_frenzy?type=sell) | 10 | 4 |
+| [Infiltrate](https://warframe.market/items/infiltrate?type=sell) | 10 | 5 |
+| [Entropy Burst](https://warframe.market/items/entropy_burst?type=sell) | 10 | 2 |
+| [Quaking Hand](https://warframe.market/items/quaking_hand?type=sell) | 10 | 1 |
+| [Sudden Justice](https://warframe.market/items/sudden_justice?type=sell) | 10 | 1 |
+| [Neutron Star](https://warframe.market/items/neutron_star?type=sell) | 10 | 46 |
+| [Skull Shots](https://warframe.market/items/skull_shots?type=sell) | 10 | 1 |
+| [Vicious Frost](https://warframe.market/items/vicious_frost?type=sell) | 10 | 101 |
+| [Bane Of Grineer](https://warframe.market/items/bane_of_grineer?type=sell) | 10 | 1 |
+| [Vital Systems Bypass](https://warframe.market/items/vital_systems_bypass?type=sell) | 10 | 1 |
+| [Singularity](https://warframe.market/items/singularity?type=sell) | 10 | 1 |
+| [Perfect Balance](https://warframe.market/items/perfect_balance?type=sell) | 10 | 1 |
+| [Molecular Fission](https://warframe.market/items/molecular_fission?type=sell) | 10 | 41 |
+| [Wild Frenzy](https://warframe.market/items/wild_frenzy?type=sell) | 10 | 3 |
+| [Napalm Grenades](https://warframe.market/items/napalm_grenades?type=sell) | 10 | 1 |
+| [Rising Storm](https://warframe.market/items/rising_storm?type=sell) | 10 | 3 |
+| [Exothermic](https://warframe.market/items/exothermic?type=sell) | 10 | 6 |
+| [Directed Convergence](https://warframe.market/items/directed_convergence?type=sell) | 10 | 1 |
+| [Air Recon](https://warframe.market/items/air_recon?type=sell) | 10 | 1 |
+| [Strain Eruption](https://warframe.market/items/strain_eruption?type=sell) | 10 | 10 |
+| [Power Of Three](https://warframe.market/items/power_of_three?type=sell) | 9.5 | 2 |
+| [Vampire Leech](https://warframe.market/items/vampire_leech?type=sell) | 9.5 | 2 |
+| [Fast Hands](https://warframe.market/items/fast_hands?type=sell) | 9 | 1 |
+| [Coaction Drift](https://warframe.market/items/coaction_drift?type=sell) | 9 | 43 |
+| [Volcanic Edge](https://warframe.market/items/volcanic_edge?type=sell) | 9 | 49 |
+| [Rejuvenation](https://warframe.market/items/rejuvenation?type=sell) | 9 | 7 |
+| [Ambush Optics](https://warframe.market/items/ambush_optics?type=sell) | 9 | 1 |
+| [Battering Maneuver](https://warframe.market/items/battering_maneuver?type=sell) | 9 | 1 |
+| [Natural Talent](https://warframe.market/items/natural_talent?type=sell) | 9 | 77 |
+| [Justice Blades](https://warframe.market/items/justice_blades?type=sell) | 9 | 1 |
+| [Blood Rush](https://warframe.market/items/blood_rush?type=sell) | 9 | 204 |
+| [Vigilante Fervor](https://warframe.market/items/vigilante_fervor?type=sell) | 9 | 38 |
+| [Shield Disruption](https://warframe.market/items/shield_disruption?type=sell) | 9 | 1 |
+| [Afterburn](https://warframe.market/items/afterburn?type=sell) | 9 | 1 |
+| [Blade Of Truth](https://warframe.market/items/blade_of_truth?type=sell) | 9 | 1 |
+| [Stinging Thorn](https://warframe.market/items/stinging_thorn?type=sell) | 9 | 9 |
+| [Bore](https://warframe.market/items/bore?type=sell) | 8.5 | 2 |
+| [Malignant Force](https://warframe.market/items/malignant_force?type=sell) | 8 | 152 |
+| [System Reroute](https://warframe.market/items/system_reroute?type=sell) | 8 | 21 |
+| [Shredder](https://warframe.market/items/shredder?type=sell) | 8 | 1 |
+| [Lightning Dash](https://warframe.market/items/lightning_dash?type=sell) | 8 | 14 |
+| [Stockpiled Blight](https://warframe.market/items/stockpiled_blight?type=sell) | 8 | 1 |
+| [Dividing Blades](https://warframe.market/items/dividing_blades?type=sell) | 8 | 1 |
+| [Gladiator Vice](https://warframe.market/items/gladiator_vice?type=sell) | 8 | 31 |
+| [Chilling Globe](https://warframe.market/items/chilling_globe?type=sell) | 8 | 3 |
+| [Shotgun Amp](https://warframe.market/items/shotgun_amp?type=sell) | 8 | 2 |
+| [Link Redirection](https://warframe.market/items/link_redirection?type=sell) | 7 | 46 |
+| [Eagle Eye](https://warframe.market/items/eagle_eye?type=sell) | 6 | 1 |
+| [Calculated Spring](https://warframe.market/items/calculated_spring?type=sell) | 5 | 1 |
+| [Comet Rounds](https://warframe.market/items/comet_rounds?type=sell) | not enough data... | not enough data... |
+| [Energy Generator](https://warframe.market/items/energy_generator?type=sell) | 45 | 26 |
+| [Blaze](https://warframe.market/items/blaze?type=sell) | 35 | 38 |
+| [Vitality](https://warframe.market/items/vitality?type=sell) | 22 | 4 |
+| [Thrash Landing](https://warframe.market/items/thrash_landing?type=sell) | 20 | 1 |
+| [Shock Collar](https://warframe.market/items/shock_collar?type=sell) | 15 | 44 |
+| [Critical Delay](https://warframe.market/items/critical_delay?type=sell) | 14 | 217 |
+| [Escape Velocity](https://warframe.market/items/escape_velocity?type=sell) | 12 | 1 |
+| [Soul Survivor](https://warframe.market/items/soul_survivor?type=sell) | 10 | 1 |
+| [Molecular Conversion](https://warframe.market/items/molecular_conversion?type=sell) | 10 | 1 |
+| [Infected Clip](https://warframe.market/items/infected_clip?type=sell) | 9 | 1 |
+| [Scarlet Hurricane](https://warframe.market/items/scarlet_hurricane?type=sell) | 8 | 1 |
+| [Gale Kick](https://warframe.market/items/gale_kick?type=sell) | 8 | 1 |
+| [Sniper Scavenger](https://warframe.market/items/sniper_scavenger?type=sell) | 8 | 1 |
+| [Frost Jaw](https://warframe.market/items/frost_jaw?type=sell) | 7 | 41 |
+| [Fleeting Expertise](https://warframe.market/items/fleeting_expertise?type=sell) | 7 | 138 |
+| [Vicious Approach](https://warframe.market/items/vicious_approach?type=sell) | 6 | 1 |
+| [Breach Loader](https://warframe.market/items/breach_loader?type=sell) | 6 | 1 |
+| [Link Vitality](https://warframe.market/items/link_vitality?type=sell) | 5 | 11 |
+| [Cleanse Infested](https://warframe.market/items/cleanse_infested?type=sell) | 5 | 1 |
+| [Combustion Rounds](https://warframe.market/items/combustion_rounds?type=sell) | 5 | 11 |
+| [Incendiary Coat](https://warframe.market/items/incendiary_coat?type=sell) | 4.5 | 2 |
+| [Aero Vantage](https://warframe.market/items/aero_vantage?type=sell) | 4 | 14 |
+| [Seeking Force](https://warframe.market/items/seeking_force?type=sell) | 4 | 1 |
+| [Target Cracker](https://warframe.market/items/target_cracker?type=sell) | 4 | 5 |
+| [Spoiled Strike](https://warframe.market/items/spoiled_strike?type=sell) | 4 | 33 |
+| [Augur Accord](https://warframe.market/items/augur_accord?type=sell) | 4 | 15 |
+| [Tranquil Cleave](https://warframe.market/items/tranquil_cleave?type=sell) | 3 | 3 |
+| [Pack Leader](https://warframe.market/items/pack_leader?type=sell) | 3 | 1 |
+| [Rush](https://warframe.market/items/rush?type=sell) | 3 | 1 |
+| [Vacuum](https://warframe.market/items/vacuum?type=sell) | 3 | 1 |
+| [Motus Impact](https://warframe.market/items/motus_impact?type=sell) | 3 | 5 |
+| [Motus Setup](https://warframe.market/items/motus_setup?type=sell) | 3 | 1 |
+| [Parallax Scope](https://warframe.market/items/parallax_scope?type=sell) | 3 | 3 |
+| [Expel Infested](https://warframe.market/items/expel_infested?type=sell) | 3 | 1 |
+| [Sniper Ammo Mutation](https://warframe.market/items/sniper_ammo_mutation?type=sell) | 3 | 1 |
+| [Gaia's Tragedy](https://warframe.market/items/gaias_tragedy?type=sell) | 3 | 1 |
+| [Motus Signal](https://warframe.market/items/motus_signal?type=sell) | 2 | 1 |
+| [Vile Precision](https://warframe.market/items/vile_precision?type=sell) | 2 | 4 |
+| [Agility Drift](https://warframe.market/items/agility_drift?type=sell) | 2 | 4 |
+| [Thumper](https://warframe.market/items/thumper?type=sell) | 1 | 2 |
+| [Shield Overload](https://warframe.market/items/shield_overload?type=sell) | not enough data... | not enough data... |
+| [Defiled Reckoning](https://warframe.market/items/defiled_reckoning?type=sell) | not enough data... | not enough data... |
+| [Crash Shot](https://warframe.market/items/crash_shot?type=sell) | not enough data... | not enough data... |
+| [True Punishment](https://warframe.market/items/true_punishment?type=sell) | 8 | 27 |
+| [Stand United](https://warframe.market/items/stand_united?type=sell) | 8 | 16 |
+| [Rising Steel](https://warframe.market/items/rising_steel?type=sell) | 8 | 1 |
+| [Piercing Fury](https://warframe.market/items/piercing_fury?type=sell) | 8 | 1 |
+| [Rift Strike](https://warframe.market/items/rift_strike?type=sell) | 7.5 | 2 |
+| [Vulcan Blitz](https://warframe.market/items/vulcan_blitz?type=sell) | 7 | 1 |
+| [Gleaming Blight](https://warframe.market/items/gleaming_blight?type=sell) | 7 | 1 |
+| [No Return](https://warframe.market/items/no_return?type=sell) | 6 | 1 |
+| [Protect](https://warframe.market/items/protect?type=sell) | 6 | 6 |
+| [Shrapnel Shot](https://warframe.market/items/shrapnel_shot?type=sell) | 6 | 2 |
+| [Lethal Momentum](https://warframe.market/items/lethal_momentum?type=sell) | 6 | 53 |
+| [Unleashed](https://warframe.market/items/unleashed?type=sell) | 6 | 7 |
+| [Strain Consume](https://warframe.market/items/strain_consume?type=sell) | 6 | 7 |
+| [Creeping Bullseye](https://warframe.market/items/creeping_bullseye?type=sell) | 5 | 74 |
+| [Catalyzer Link](https://warframe.market/items/catalyzer_link?type=sell) | 5 | 1 |
+| [Comet Blast](https://warframe.market/items/comet_blast?type=sell) | 5 | 1 |
+| [Hunter Adrenaline](https://warframe.market/items/hunter_adrenaline?type=sell) | 5 | 111 |
+| [Quick Thinking](https://warframe.market/items/quick_thinking?type=sell) | 5 | 19 |
+| [Superior Defenses](https://warframe.market/items/superior_defenses?type=sell) | 5 | 1 |
+| [Polar Magazine](https://warframe.market/items/polar_magazine?type=sell) | 5 | 6 |
+| [Rifle Ammo Mutation](https://warframe.market/items/rifle_ammo_mutation?type=sell) | 5 | 8 |
+| [Vigor](https://warframe.market/items/vigor?type=sell) | 5 | 17 |
+| [Savagery](https://warframe.market/items/savagery?type=sell) | 5 | 1 |
+| [Lingering Torment](https://warframe.market/items/lingering_torment?type=sell) | 5 | 1 |
+| [Stalk](https://warframe.market/items/stalk?type=sell) | 5 | 1 |
+| [Sovereign Outcast](https://warframe.market/items/sovereign_outcast?type=sell) | 5 | 26 |
+| [Focus Energy](https://warframe.market/items/focus_energy?type=sell) | 5 | 13 |
+| [Sweeping Serration](https://warframe.market/items/sweeping_serration?type=sell) | 5 | 1 |
+| [Rending Crane](https://warframe.market/items/rending_crane?type=sell) | 5 | 9 |
+| [Reflection](https://warframe.market/items/reflection?type=sell) | 5 | 2 |
+| [Trail Blazer](https://warframe.market/items/trail_blazer?type=sell) | 5 | 1 |
+| [Kinetic Diversion](https://warframe.market/items/kinetic_diversion?type=sell) | 4.5 | 3 |
+| [Nebula Bore](https://warframe.market/items/nebula_bore?type=sell) | 4 | 2 |
+| [Pummel](https://warframe.market/items/pummel?type=sell) | 4 | 10 |
+| [Dig](https://warframe.market/items/dig?type=sell) | 4 | 5 |
+| [Vigilante Pursuit](https://warframe.market/items/vigilante_pursuit?type=sell) | 4 | 13 |
+| [Magazine Extension](https://warframe.market/items/magazine_extension?type=sell) | 4 | 1 |
+| [Pressurized Magazine](https://warframe.market/items/pressurized_magazine?type=sell) | 4 | 1 |
+| [Fracturing Wind](https://warframe.market/items/fracturing_wind?type=sell) | 4 | 1 |
+| [Heavy Impact](https://warframe.market/items/heavy_impact?type=sell) | 4 | 1 |
+| [Spinning Needle](https://warframe.market/items/spinning_needle?type=sell) | 4 | 12 |
+| [Crash Course](https://warframe.market/items/crash_course?type=sell) | 4 | 1 |
+| [Tactical Pump](https://warframe.market/items/tactical_pump?type=sell) | 4 | 1 |
+| [Hawk Eye](https://warframe.market/items/hawk_eye?type=sell) | 4 | 2 |
+| [Augur Message](https://warframe.market/items/augur_message?type=sell) | 4 | 66 |
+| [Kinetic Friction](https://warframe.market/items/kinetic_friction?type=sell) | 4 | 2 |
+| [Swirling Tiger](https://warframe.market/items/swirling_tiger?type=sell) | 3 | 1 |
+| [Energy Inversion](https://warframe.market/items/energy_inversion?type=sell) | 3 | 1 |
+| [Enemy Sense](https://warframe.market/items/enemy_sense?type=sell) | 3 | 3 |
+| [Point Strike](https://warframe.market/items/point_strike?type=sell) | 3 | 1 |
+| [Continuous Misery](https://warframe.market/items/continuous_misery?type=sell) | 3 | 3 |
+| [Pistol Gambit](https://warframe.market/items/pistol_gambit?type=sell) | 3 | 1 |
+| [Piercing Step](https://warframe.market/items/piercing_step?type=sell) | 3 | 1 |
+| [Hell's Chamber](https://warframe.market/items/hells_chamber?type=sell) | 3 | 2 |
+| [Ammo Drum](https://warframe.market/items/ammo_drum?type=sell) | 3 | 1 |
+| [Thunderbolt](https://warframe.market/items/thunderbolt?type=sell) | 3 | 1 |
+| [Fatal Attraction](https://warframe.market/items/fatal_attraction?type=sell) | 3 | 1 |
+| [Shimmering Blight](https://warframe.market/items/shimmering_blight?type=sell) | 3 | 7 |
+| [Jagged Edge](https://warframe.market/items/jagged_edge?type=sell) | 3 | 1 |
+| [Shotgun Barrage](https://warframe.market/items/shotgun_barrage?type=sell) | 3 | 2 |
+| [Wildfire](https://warframe.market/items/wildfire?type=sell) | 3 | 15 |
+| [Reflex Guard](https://warframe.market/items/reflex_guard?type=sell) | 3 | 39 |
+| [Stunning Speed](https://warframe.market/items/stunning_speed?type=sell) | 3 | 3 |
+| [Zaw Riven Mod (Veiled)](https://warframe.market/items/zaw_riven_mod_(veiled)?type=sell) | 3 | 7 |
+| [Kitgun Riven Mod (Veiled)](https://warframe.market/items/kitgun_riven_mod_(veiled)?type=sell) | 2.5 | 7 |
+| [Vicious Spread](https://warframe.market/items/vicious_spread?type=sell) | 2.5 | 9 |
+| [Cold Snap](https://warframe.market/items/cold_snap?type=sell) | 2.5 | 5 |
+| [Spare Parts](https://warframe.market/items/spare_parts?type=sell) | 2 | 1 |
+| [Shotgun Savvy](https://warframe.market/items/shotgun_savvy?type=sell) | 2 | 1 |
+| [Crossing Snakes](https://warframe.market/items/crossing_snakes?type=sell) | 2 | 1 |
+| [Steady Hands](https://warframe.market/items/steady_hands?type=sell) | 2 | 4 |
+| [Concealed Explosives](https://warframe.market/items/concealed_explosives?type=sell) | 2 | 1 |
+| [Depleted Reload](https://warframe.market/items/depleted_reload?type=sell) | 2 | 5 |
+| [Streamline](https://warframe.market/items/streamline?type=sell) | 2 | 7 |
+| [Shell Compression](https://warframe.market/items/shell_compression?type=sell) | 2 | 1 |
+| [Magazine Warp](https://warframe.market/items/magazine_warp?type=sell) | 2 | 1 |
+| [Coiling Viper](https://warframe.market/items/coiling_viper?type=sell) | 2 | 3 |
+| [Seismic Palm](https://warframe.market/items/seismic_palm?type=sell) | 2 | 1 |
+| [Flechette](https://warframe.market/items/flechette?type=sell) | 2 | 1 |
+| [Armored Acrobatics](https://warframe.market/items/armored_acrobatics?type=sell) | 2 | 1 |
+| [Vulpine Mask](https://warframe.market/items/vulpine_mask?type=sell) | 2 | 2 |
+| [Ammo Case](https://warframe.market/items/ammo_case?type=sell) | 2 | 1 |
+| [Point Blank](https://warframe.market/items/point_blank?type=sell) | 1.5 | 2 |
+| [Power Throw](https://warframe.market/items/power_throw?type=sell) | 1 | 5 |
+| [Heated Charge](https://warframe.market/items/heated_charge?type=sell) | 1 | 2 |
+| [Stormbringer](https://warframe.market/items/stormbringer?type=sell) | 1 | 1 |
+| [Armored Recovery](https://warframe.market/items/armored_recovery?type=sell) | not enough data... | not enough data... |
+| [Slip Magazine](https://warframe.market/items/slip_magazine?type=sell) | 2 | 1 |
+| [Undying Will](https://warframe.market/items/undying_will?type=sell) | 2 | 1 |
+| [Lashing Coil](https://warframe.market/items/lashing_coil?type=sell) | not enough data... | not enough data... |
+| [Primed Bane Of Orokin](https://warframe.market/items/primed_bane_of_corrupted?type=sell) | 49.5 | 9 |
+| [Warm Coat](https://warframe.market/items/warm_coat?type=sell) | 35 | 1 |
+| [Frostbite](https://warframe.market/items/frostbite?type=sell) | 20 | 95 |
+| [Augur Secrets](https://warframe.market/items/augur_secrets?type=sell) | 19 | 141 |
+| [Target Fixation](https://warframe.market/items/target_fixation?type=sell) | 15 | 4 |
+| [Savior Decoy](https://warframe.market/items/savior_decoy?type=sell) | 15 | 1 |
+| [Contamination Casing](https://warframe.market/items/contamination_casing?type=sell) | 14 | 31 |
+| [Rousing Plunder](https://warframe.market/items/rousing_plunder?type=sell) | 13 | 1 |
+| [Archgun Riven Mod (Veiled)](https://warframe.market/items/archgun_riven_mod_(veiled)?type=sell) | 12 | 33 |
+| [Infectious Injection](https://warframe.market/items/infectious_injection?type=sell) | 11 | 4 |
+| [Resonating Quake](https://warframe.market/items/resonating_quake?type=sell) | 10 | 2 |
+| [Heightened Reflexes](https://warframe.market/items/heightened_reflexes?type=sell) | 10 | 1 |
+| [Hall Of Malevolence](https://warframe.market/items/hall_of_malevolence?type=sell) | 10 | 43 |
+| [Lucky Shot](https://warframe.market/items/lucky_shot?type=sell) | 10 | 1 |
+| [Stalking Fan](https://warframe.market/items/stalking_fan?type=sell) | 10 | 21 |
+| [Tactical Retreat](https://warframe.market/items/tactical_retreat?type=sell) | 10 | 1 |
+| [Electrified Barrel](https://warframe.market/items/electrified_barrel?type=sell) | 9 | 20 |
+| [Bright Purity](https://warframe.market/items/bright_purity?type=sell) | 9 | 4 |
+| [Frigid Blast](https://warframe.market/items/frigid_blast?type=sell) | 9 | 59 |
+| [Shrapnel Rounds](https://warframe.market/items/shrapnel_rounds?type=sell) | 9 | 1 |
+| [Speed Trigger](https://warframe.market/items/speed_trigger?type=sell) | 8.5 | 2 |
+| [Wise Razor](https://warframe.market/items/wise_razor?type=sell) | 8 | 27 |
+| [Deadly Efficiency](https://warframe.market/items/deadly_efficiency?type=sell) | 8 | 9 |
+| [Cleanse Grineer](https://warframe.market/items/cleanse_grineer?type=sell) | 8 | 1 |
+| [Loose Magazine](https://warframe.market/items/loose_magazine?type=sell) | 8 | 1 |
+| [Maximum Capacity](https://warframe.market/items/maximum_capacity?type=sell) | 8 | 1 |
+| [Hastened Deflection](https://warframe.market/items/hastened_deflection?type=sell) | 5 | 15 |
+| [Hunt](https://warframe.market/items/hunt?type=sell) | 5 | 1 |
+| [Bleeding Edge](https://warframe.market/items/bleeding_edge?type=sell) | 5 | 1 |
+| [Firestorm](https://warframe.market/items/firestorm?type=sell) | 4.5 | 17 |
+| [Shepherd](https://warframe.market/items/shepherd?type=sell) | 4 | 1 |
+| [Suppress](https://warframe.market/items/suppress?type=sell) | 4 | 1 |
+| [Bane Of Corpus](https://warframe.market/items/bane_of_corpus?type=sell) | 4 | 3 |
+| [Berserker Fury](https://warframe.market/items/berserker_fury?type=sell) | 4 | 44 |
+| [Handspring](https://warframe.market/items/handspring?type=sell) | 4 | 6 |
+| [Flux Overdrive](https://warframe.market/items/flux_overdrive?type=sell) | 3 | 1 |
+| [Maglev](https://warframe.market/items/maglev?type=sell) | 3 | 1 |
+| [Smite Grineer](https://warframe.market/items/smite_grineer?type=sell) | 3 | 1 |
+| [Tainted Mag](https://warframe.market/items/tainted_mag?type=sell) | 3 | 13 |
+| [Life Strike](https://warframe.market/items/life_strike?type=sell) | 2.5 | 2 |
+| [Arrow Mutation](https://warframe.market/items/arrow_mutation?type=sell) | 2 | 3 |
+| [Flame Repellent](https://warframe.market/items/flame_repellent?type=sell) | 2 | 2 |
+| [Flailing Branch](https://warframe.market/items/flailing_branch?type=sell) | 1 | 1 |
+| [Serrated Edges](https://warframe.market/items/serrated_edges?type=sell) | not enough data... | not enough data... |
+| [Sword Alone](https://warframe.market/items/sword_alone?type=sell) | 70 | 1 |
+| [Cutting Edge](https://warframe.market/items/cutting_edge?type=sell) | 60 | 1 |
+| [Primed Flow](https://warframe.market/items/primed_flow?type=sell) | 50 | 113 |
+| [Shelter](https://warframe.market/items/shelter?type=sell) | 30 | 1 |
+| [Primed Pistol Ammo Mutation](https://warframe.market/items/primed_pistol_ammo_mutation?type=sell) | 30 | 57 |
+| [Primed Slip Magazine](https://warframe.market/items/primed_slip_magazine?type=sell) | 24 | 31 |
+| [Enemy Radar](https://warframe.market/items/enemy_radar?type=sell) | 16 | 22 |
+| [Speed Drift](https://warframe.market/items/speed_drift?type=sell) | 15 | 20 |
+| [Soft Hands](https://warframe.market/items/soft_hands?type=sell) | 14 | 1 |
+| [Cunning Drift](https://warframe.market/items/cunning_drift?type=sell) | 14 | 146 |
+| [Abating Link](https://warframe.market/items/abating_link?type=sell) | 14 | 18 |
+| [Piercing Navigator](https://warframe.market/items/piercing_navigator?type=sell) | 12 | 3 |
+| [Resonance](https://warframe.market/items/resonance?type=sell) | 11.5 | 2 |
+| [Rift Torrent](https://warframe.market/items/rift_torrent?type=sell) | 11 | 8 |
+| [Hallowed Eruption](https://warframe.market/items/hallowed_eruption?type=sell) | 10 | 2 |
+| [Piercing Roar](https://warframe.market/items/piercing_roar?type=sell) | 10 | 6 |
+| [Hushed Invisibility](https://warframe.market/items/hushed_invisibility?type=sell) | 10 | 4 |
+| [Pilfering Swarm](https://warframe.market/items/pilfering_swarm?type=sell) | 10 | 35 |
+| [Iron Shrapnel](https://warframe.market/items/iron_shrapnel?type=sell) | 9.5 | 4 |
+| [Ballistic Bullseye](https://warframe.market/items/ballistic_bullseye?type=sell) | 9 | 1 |
+| [Toxic Sequence](https://warframe.market/items/toxic_sequence?type=sell) | 9 | 1 |
+| [Diamond Skin](https://warframe.market/items/diamond_skin?type=sell) | 8 | 1 |
+| [Fomorian Accelerant](https://warframe.market/items/fomorian_accelerant?type=sell) | 7.5 | 2 |
+| [Power Drift](https://warframe.market/items/power_drift?type=sell) | 6 | 187 |
+| [Spring-Loaded Broadhead](https://warframe.market/items/spring_loaded_broadhead?type=sell) | 5 | 1 |
+| [Magnum Force](https://warframe.market/items/magnum_force?type=sell) | 5 | 52 |
+| [Swift Momentum](https://warframe.market/items/swift_momentum?type=sell) | 5 | 14 |
+| [Glacial Edge](https://warframe.market/items/glacial_edge?type=sell) | 4.5 | 2 |
+| [Gemini Cross](https://warframe.market/items/gemini_cross?type=sell) | 4 | 1 |
+| [Expel Corpus](https://warframe.market/items/expel_corpus?type=sell) | 4 | 1 |
+| [Contagious Spread](https://warframe.market/items/contagious_spread?type=sell) | 4 | 10 |
+| [Combat Discipline](https://warframe.market/items/combat_discipline?type=sell) | 4 | 37 |
+| [Shock Absorbers](https://warframe.market/items/shock_absorbers?type=sell) | 3 | 1 |
+| [Tactical Reload](https://warframe.market/items/tactical_reload?type=sell) | 3 | 1 |
+| [Tear Gas](https://warframe.market/items/tear_gas?type=sell) | not enough data... | not enough data... |
+| [Territorial Aggression](https://warframe.market/items/territorial_aggression?type=sell) | 4 | 1 |
+| [Endurance Drift](https://warframe.market/items/endurance_drift?type=sell) | 3 | 2 |
+| [Swipe](https://warframe.market/items/swipe?type=sell) | 3 | 6 |
+| [Pounce](https://warframe.market/items/pounce?type=sell) | 3 | 3 |
+| [Sharpened Claws](https://warframe.market/items/sharpened_claws?type=sell) | 3 | 3 |
+| [Organ Shatter](https://warframe.market/items/organ_shatter?type=sell) | 3 | 7 |
+| [Melee Guidance](https://warframe.market/items/melee_guidance?type=sell) | 2.5 | 2 |
+| [Stealth Drift](https://warframe.market/items/stealth_drift?type=sell) | 2 | 1 |
+| [Bane Of Infested](https://warframe.market/items/bane_of_infested?type=sell) | 2 | 1 |
+| [Shocking Touch](https://warframe.market/items/shocking_touch?type=sell) | 2 | 3 |
+| [Molten Impact](https://warframe.market/items/molten_impact?type=sell) | 2 | 1 |
+| [Rebound](https://warframe.market/items/rebound?type=sell) | 2 | 1 |
+| [Tainted Shell](https://warframe.market/items/tainted_shell?type=sell) | 1 | 4 |
+| [Discharge Strike](https://warframe.market/items/discharge_strike?type=sell) | not enough data... | not enough data... |
+| [Primed Smite Infested](https://warframe.market/items/primed_smite_infested?type=sell) | 35 | 2 |
+| [Whiplash Mine](https://warframe.market/items/whiplash_mine?type=sell) | 30 | 2 |
+| [Reach](https://warframe.market/items/reach?type=sell) | 5 | 1 |
+| [Anti-Flak Plating](https://warframe.market/items/anti_flak_plating?type=sell) | not enough data... | not enough data... |
+| [Primed Smite Corpus](https://warframe.market/items/primed_smite_corpus?type=sell) | 40 | 5 |
+| [Tempo Royale](https://warframe.market/items/tempo_royale?type=sell) | 19 | 25 |
+| [Prolonged Paralysis](https://warframe.market/items/prolonged_paralysis?type=sell) | 15 | 3 |
+| [Odomedic](https://warframe.market/items/odomedic?type=sell) | 15 | 1 |
+| [Funnel Clouds](https://warframe.market/items/funnel_clouds?type=sell) | 14.5 | 2 |
+| [Rift Haven](https://warframe.market/items/rift_haven?type=sell) | 14 | 1 |
+| [Magnetized Discharge](https://warframe.market/items/magnetized_discharge?type=sell) | 14 | 24 |
+| [Deadly Sequence](https://warframe.market/items/deadly_sequence?type=sell) | 12 | 1 |
+| [Path Of Statues](https://warframe.market/items/path_of_statues?type=sell) | 12 | 8 |
+| [Eroding Blight](https://warframe.market/items/eroding_blight?type=sell) | 10 | 1 |
+| [Fever Strike](https://warframe.market/items/fever_strike?type=sell) | 10 | 1 |
+| [Scattered Justice](https://warframe.market/items/scattered_justice?type=sell) | 10 | 8 |
+| [Toxic Blight](https://warframe.market/items/toxic_blight?type=sell) | 10 | 2 |
+| [Thief's Wit](https://warframe.market/items/thiefs_wit?type=sell) | 10 | 1 |
+| [Rifle Riven Mod (Veiled)](https://warframe.market/items/rifle_riven_mod_(veiled)?type=sell) | 10 | 500 |
+| [Icy Avalanche](https://warframe.market/items/icy_avalanche?type=sell) | 10 | 24 |
+| [Security Override](https://warframe.market/items/security_override?type=sell) | 10 | 1 |
+| [Safeguard](https://warframe.market/items/safeguard?type=sell) | 10 | 1 |
+| [Contagion Cloud](https://warframe.market/items/contagion_cloud?type=sell) | 10 | 5 |
+| [Squad Renew](https://warframe.market/items/squad_renew?type=sell) | 10 | 2 |
+| [Immolated Radiance](https://warframe.market/items/immolated_radiance?type=sell) | 9.5 | 2 |
+| [Brain Storm](https://warframe.market/items/brain_storm?type=sell) | 9 | 2 |
+| [Shotgun Riven Mod (Veiled)](https://warframe.market/items/shotgun_riven_mod_(veiled)?type=sell) | 5 | 206 |
+| [High Noon](https://warframe.market/items/high_noon?type=sell) | 5 | 14 |
+| [Void Cloak](https://warframe.market/items/void_cloak?type=sell) | 5 | 1 |
+| [Flow Burn](https://warframe.market/items/flow_burn?type=sell) | 4 | 5 |
+| [Brutal Tide](https://warframe.market/items/brutal_tide?type=sell) | 3 | 5 |
+| [Fatal Acceleration](https://warframe.market/items/fatal_acceleration?type=sell) | 3 | 1 |
+| [Fast Deflection](https://warframe.market/items/fast_deflection?type=sell) | 3 | 1 |
+| [Melee Prowess](https://warframe.market/items/melee_prowess?type=sell) | 2 | 1 |
+| [Sawtooth Clip](https://warframe.market/items/sawtooth_clip?type=sell) | 1 | 1 |
+| [Flak Shot](https://warframe.market/items/flak_shot?type=sell) | not enough data... | not enough data... |
+| [Follow Through](https://warframe.market/items/follow_through?type=sell) | not enough data... | not enough data... |
+| [Proton Jet](https://warframe.market/items/proton_jet?type=sell) | 3 | 1 |
+| [Lock And Load](https://warframe.market/items/lock_and_load?type=sell) | 3 | 7 |
+| [Section Density](https://warframe.market/items/section_density?type=sell) | 3 | 2 |
+| [Guardian Derision](https://warframe.market/items/guardian_derision?type=sell) | 2 | 2 |
+| [Quickdraw](https://warframe.market/items/quickdraw?type=sell) | 1 | 1 |
+| [Full Capacity](https://warframe.market/items/full_capacity?type=sell) | not enough data... | not enough data... |
+| [Anti-Grav Grenade](https://warframe.market/items/anti_grav_grenade?type=sell) | 80 | 1 |
+| [Counterweight](https://warframe.market/items/counterweight?type=sell) | 60 | 1 |
+| [Electro Pulse](https://warframe.market/items/electro_pulse?type=sell) | 55 | 1 |
+| [Warhead](https://warframe.market/items/warhead?type=sell) | 45 | 1 |
+| [Adept Surge](https://warframe.market/items/adept_surge?type=sell) | 15 | 1 |
+| [Hysterical Assault](https://warframe.market/items/hysterical_assault?type=sell) | 14.5 | 4 |
+| [Countermeasures](https://warframe.market/items/countermeasures?type=sell) | 14 | 1 |
+| [Aerial Ace](https://warframe.market/items/aerial_ace?type=sell) | 14 | 2 |
+| [Energizing Shot](https://warframe.market/items/energizing_shot?type=sell) | 14 | 4 |
+| [Surging Dash](https://warframe.market/items/surging_dash?type=sell) | 12.5 | 4 |
+| [The Perrin Sequence Augment Mod](https://warframe.market/items/the_perrin_sequence_augment_mod?type=sell) | 12.5 | 3 |
+| [Photon Repeater](https://warframe.market/items/photon_repeater?type=sell) | 12 | 26 |
+| [Hypothermic Shell](https://warframe.market/items/hypothermic_shell?type=sell) | 12 | 50 |
+| [Brief Respite](https://warframe.market/items/brief_respite?type=sell) | 12 | 142 |
+| [Anchored Glide](https://warframe.market/items/anchored_glide?type=sell) | 10.5 | 2 |
+| [Balefire Surge](https://warframe.market/items/balefire_surge?type=sell) | 10 | 5 |
+| [Gorgon Frenzy](https://warframe.market/items/gorgon_frenzy?type=sell) | 10 | 1 |
+| [Retrieve](https://warframe.market/items/retrieve?type=sell) | 10 | 2 |
+| [New Loka Augment Mod](https://warframe.market/items/new_loka_augment_mod?type=sell) | 10 | 9 |
+| [Arbiters of Hexis Augment Mod](https://warframe.market/items/arbiters_of_hexis_augment_mod?type=sell) | 10 | 5 |
+| [Conductor](https://warframe.market/items/conductor?type=sell) | 9 | 3 |
+| [Accumulating Whipclaw](https://warframe.market/items/accumulating_whipclaw?type=sell) | 9 | 73 |
+| [Battle Stations](https://warframe.market/items/battle_stations?type=sell) | 9 | 6 |
+| [Blood Forge](https://warframe.market/items/blood_forge?type=sell) | 9 | 3 |
+| [Endless Lullaby](https://warframe.market/items/endless_lullaby?type=sell) | 9 | 1 |
+| [Purifying Flames](https://warframe.market/items/purifying_flames?type=sell) | 8.5 | 2 |
+| [Shield Charger](https://warframe.market/items/shield_charger?type=sell) | 8 | 1 |
+| [Static Discharge](https://warframe.market/items/static_discharge?type=sell) | 6 | 1 |
+| [Crimson Dervish](https://warframe.market/items/crimson_dervish?type=sell) | 6 | 11 |
+| [Physique](https://warframe.market/items/physique?type=sell) | 5.5 | 4 |
+| [Venomous Clip](https://warframe.market/items/venomous_clip?type=sell) | 5 | 4 |
+| [Mischief](https://warframe.market/items/mischief?type=sell) | 5 | 1 |
+| [Argon Scope](https://warframe.market/items/argon_scope?type=sell) | 4 | 5 |
+| [Deep Freeze](https://warframe.market/items/deep_freeze?type=sell) | 4 | 4 |
+| [Sure Shot](https://warframe.market/items/sure_shot?type=sell) | 3.5 | 8 |
+| [Neutralize](https://warframe.market/items/neutralize?type=sell) | 3 | 1 |
+| [Pain Threshold](https://warframe.market/items/pain_threshold?type=sell) | 3 | 1 |
+| [Charm](https://warframe.market/items/charm?type=sell) | 2.5 | 5 |
+| [Cat's Eye](https://warframe.market/items/cats_eye?type=sell) | 2.5 | 2 |
+| [Medi-Pet Kit](https://warframe.market/items/medi_pet_kit?type=sell) | 2 | 1 |
+| [Overcharged](https://warframe.market/items/overcharged?type=sell) | not enough data... | not enough data... |
+| [Double-Barrel Drift](https://warframe.market/items/double_barrel_drift?type=sell) | 2 | 1 |
+| [Explosive Demise](https://warframe.market/items/explosive_demise?type=sell) | not enough data... | not enough data... |
+| [Sapping Reach](https://warframe.market/items/sapping_reach?type=sell) | not enough data... | not enough data... |
+| [Shockwave Actuators](https://warframe.market/items/shockwave_actuators?type=sell) | 150 | 1 |
+| [Astral Autopsy](https://warframe.market/items/astral_autopsy?type=sell) | 57.5 | 4 |
+| [Primed Rubedo-Lined Barrel](https://warframe.market/items/primed_rubedo_lined_barrel?type=sell) | 45 | 16 |
+| [Primed Cryo Rounds](https://warframe.market/items/primed_cryo_rounds?type=sell) | 44 | 58 |
+| [Primed Animal Instinct](https://warframe.market/items/primed_animal_instinct?type=sell) | 39 | 22 |
+| [Vigilante Supplies](https://warframe.market/items/vigilante_supplies?type=sell) | 19 | 109 |
+| [Precision Strike](https://warframe.market/items/precision_strike?type=sell) | 15 | 1 |
+| [Deadly Maneuvers](https://warframe.market/items/deadly_maneuvers?type=sell) | 13 | 2 |
+| [Ice Wave Impedance](https://warframe.market/items/ice_wave_impedance?type=sell) | 13 | 1 |
+| [Rubble Heap](https://warframe.market/items/rubble_heap?type=sell) | 12 | 25 |
+| [Reinforcing Stomp](https://warframe.market/items/reinforcing_stomp?type=sell) | 12 | 5 |
+| [Viral Tempest](https://warframe.market/items/viral_tempest?type=sell) | 12 | 22 |
+| [Revealing Spores](https://warframe.market/items/revealing_spores?type=sell) | 10 | 1 |
+| [Enraged](https://warframe.market/items/enraged?type=sell) | 10 | 3 |
+| [Pistol Scavenger](https://warframe.market/items/pistol_scavenger?type=sell) | 10 | 7 |
+| [Heavy Warhead](https://warframe.market/items/heavy_warhead?type=sell) | 10 | 2 |
+| [Assimilate](https://warframe.market/items/assimilate?type=sell) | 10 | 21 |
+| [Naramon Transmute Core](https://warframe.market/items/naramon_transmute_core?type=sell) | 9 | 1 |
+| [Vazarin Transmute Core](https://warframe.market/items/vazarin_transmute_core?type=sell) | 9 | 3 |
+| [Madurai Transmute Core](https://warframe.market/items/madurai_transmute_core?type=sell) | 9 | 3 |
+| [Pilfering Strangledome](https://warframe.market/items/pilfering_strangledome?type=sell) | 9 | 62 |
+| [Condition Overload](https://warframe.market/items/condition_overload?type=sell) | 8 | 144 |
+| [Hyperion Thrusters](https://warframe.market/items/hyperion_thrusters?type=sell) | 8 | 29 |
+| [Infested Impedance](https://warframe.market/items/infested_impedance?type=sell) | 8 | 1 |
+| [Staggering Shield](https://warframe.market/items/staggering_shield?type=sell) | 8 | 1 |
+| [Healing Return](https://warframe.market/items/healing_return?type=sell) | 7 | 17 |
+| [Dispatch Overdrive](https://warframe.market/items/dispatch_overdrive?type=sell) | 5 | 1 |
+| [Toxic Barrage](https://warframe.market/items/toxic_barrage?type=sell) | 5 | 68 |
+| [Proton Pulse](https://warframe.market/items/proton_pulse?type=sell) | 5 | 1 |
+| [Vengeful Revenant](https://warframe.market/items/vengeful_revenant?type=sell) | 4 | 9 |
+| [Agile Aim](https://warframe.market/items/agile_aim?type=sell) | 4 | 1 |
+| [Streamlined Form](https://warframe.market/items/streamlined_form?type=sell) | 3.5 | 2 |
+| [Chilling Reload](https://warframe.market/items/chilling_reload?type=sell) | 3 | 13 |
+| [Drifting Contact](https://warframe.market/items/drifting_contact?type=sell) | 3 | 25 |
+| [Relentless Combination](https://warframe.market/items/relentless_combination?type=sell) | 3 | 1 |
+| [Enduring Affliction](https://warframe.market/items/enduring_affliction?type=sell) | 3 | 1 |
+| [Anticipation](https://warframe.market/items/anticipation?type=sell) | not enough data... | not enough data... |
+| [Shred Shot](https://warframe.market/items/shred_shot?type=sell) | not enough data... | not enough data... |
+| [Shotgun Ammo Mutation](https://warframe.market/items/shotgun_ammo_mutation?type=sell) | 3 | 3 |
+| [Stretch](https://warframe.market/items/stretch?type=sell) | 2 | 2 |
+| [Intensify](https://warframe.market/items/intensify?type=sell) | 2 | 5 |
+| [Apex Predator](https://warframe.market/items/apex_predator?type=sell) | not enough data... | not enough data... |
+| [Calculated Victory](https://warframe.market/items/calculated_victory?type=sell) | not enough data... | not enough data... |
+| [Impenetrable Offense](https://warframe.market/items/impenetrable_offense?type=sell) | not enough data... | not enough data... |
+| [Looter](https://warframe.market/items/looter?type=sell) | 50 | 4 |
+| [Primed Target Cracker](https://warframe.market/items/primed_target_cracker?type=sell) | 45 | 75 |
+| [Primed Pistol Gambit](https://warframe.market/items/primed_pistol_gambit?type=sell) | 41 | 47 |
+| [Bane Of Orokin](https://warframe.market/items/bane_of_corrupted?type=sell) | 25 | 6 |
+| [Sacrifice](https://warframe.market/items/sacrifice?type=sell) | 24 | 17 |
+| [Shell Shock](https://warframe.market/items/shell_shock?type=sell) | 20 | 22 |
+| [Juice](https://warframe.market/items/juice?type=sell) | 20 | 1 |
+| [Augur Reach](https://warframe.market/items/augur_reach?type=sell) | 15 | 96 |
+| [Larva Burst](https://warframe.market/items/larva_burst?type=sell) | 12 | 2 |
+| [Hydraulic Barrel](https://warframe.market/items/hydraulic_barrel?type=sell) | 12 | 1 |
+| [Partitioned Mallet](https://warframe.market/items/partitioned_mallet?type=sell) | 11 | 8 |
+| [Narrow Minded](https://warframe.market/items/narrow_minded?type=sell) | 10 | 222 |
+| [Target Acquired](https://warframe.market/items/target_acquired?type=sell) | 10 | 31 |
+| [Maim](https://warframe.market/items/maim?type=sell) | 9 | 13 |
+| [Crushing Ruin](https://warframe.market/items/crushing_ruin?type=sell) | 6 | 39 |
+| [Stand Ground](https://warframe.market/items/stand_ground?type=sell) | not enough data... | not enough data... |
+| [Regenerative Molt](https://warframe.market/items/regenerative_molt?type=sell) | 10 | 3 |
+| [Phoenix Renewal](https://warframe.market/items/phoenix_renewal?type=sell) | 9 | 5 |
+| [Medi-Ray](https://warframe.market/items/medi_ray?type=sell) | 9 | 6 |
+| [Gleaming Talon](https://warframe.market/items/gleaming_talon?type=sell) | 8 | 39 |
+| [Pistol Ammo Mutation](https://warframe.market/items/pistol_ammo_mutation?type=sell) | 5 | 15 |
+| [Full Contact](https://warframe.market/items/full_contact?type=sell) | 5 | 2 |
+| [Gunslinger](https://warframe.market/items/gunslinger?type=sell) | 4 | 4 |
+| [Reflex Draw](https://warframe.market/items/reflex_draw?type=sell) | 3.5 | 2 |
+| [Poisonous Sting](https://warframe.market/items/poisonous_sting?type=sell) | 3.5 | 3 |
+| [Bounty Hunter](https://warframe.market/items/bounty_hunter?type=sell) | not enough data... | not enough data... |
+| [Heartseeker](https://warframe.market/items/heartseeker?type=sell) | not enough data... | not enough data... |
+| [Decisive Judgement](https://warframe.market/items/decisive_judgement?type=sell) | 5 | 12 |
+| [Twirling Spire](https://warframe.market/items/twirling_spire?type=sell) | 5 | 3 |
+| [Auxiliary Power](https://warframe.market/items/auxiliary_power?type=sell) | 5 | 7 |
+| [Electromagnetic Shielding](https://warframe.market/items/electromagnetic_shielding?type=sell) | 4 | 1 |
+| [Gladiator Finesse](https://warframe.market/items/gladiator_finesse?type=sell) | 4 | 7 |
+| [Hunter Track](https://warframe.market/items/hunter_track?type=sell) | 4 | 7 |
+| [Loyal Companion](https://warframe.market/items/loyal_companion?type=sell) | 3 | 4 |
+| [Martial Fury](https://warframe.market/items/martial_fury?type=sell) | not enough data... | not enough data... |
+| [Hunter Command](https://warframe.market/items/hunter_command?type=sell) | 4 | 9 |
+| [Saxum Thorax](https://warframe.market/items/saxum_thorax?type=sell) | 4 | 3 |
+| [Crowd Dispersion](https://warframe.market/items/crowd_dispersion?type=sell) | 3.5 | 2 |
+| [Scavenge](https://warframe.market/items/scavenge?type=sell) | 3 | 1 |
+| [Blind Justice](https://warframe.market/items/blind_justice?type=sell) | 3 | 13 |
+| [Sundering Weave](https://warframe.market/items/sundering_weave?type=sell) | 2 | 1 |
+| [Impaler Munitions](https://warframe.market/items/impaler_munitions?type=sell) | not enough data... | not enough data... |
+| [Rending Wind](https://warframe.market/items/rending_wind?type=sell) | 181 | 1 |
+| [High Voltage](https://warframe.market/items/high_voltage?type=sell) | 63.5 | 48 |
+| [Draining Bite](https://warframe.market/items/draining_bite?type=sell) | 30 | 1 |
+| [Acidic Spittle](https://warframe.market/items/acidic_spittle?type=sell) | 22.5 | 2 |
+| [Loaded Capacity](https://warframe.market/items/loaded_capacity?type=sell) | 20 | 1 |
+| [Necramech Pressure Point](https://warframe.market/items/necramech_pressure_point?type=sell) | 15 | 2 |
+| [Bomb The Landin'](https://warframe.market/items/bomb_the_landin?type=sell) | 15 | 1 |
+| [Rising Skill](https://warframe.market/items/rising_skill?type=sell) | 15 | 1 |
+| [Tempered Bound](https://warframe.market/items/tempered_bound?type=sell) | 15 | 1 |
+| [Feathered Arrows](https://warframe.market/items/feathered_arrows?type=sell) | 14 | 1 |
+| [Fracturing Crush](https://warframe.market/items/fracturing_crush?type=sell) | 13.5 | 12 |
+| [Voltage Sequence](https://warframe.market/items/voltage_sequence?type=sell) | 13 | 1 |
+| [Noble Cadence](https://warframe.market/items/noble_cadence?type=sell) | 12 | 1 |
+| [Transient Fortitude](https://warframe.market/items/transient_fortitude?type=sell) | 12 | 281 |
+| [Necramech Thrusters](https://warframe.market/items/necramech_thrusters?type=sell) | 11 | 9 |
+| [Necramech Vitality](https://warframe.market/items/necramech_vitality?type=sell) | 10 | 9 |
+| [Endoparasitic Vector](https://warframe.market/items/endoparasitic_vector?type=sell) | 10 | 1 |
+| [Mortal Conduct](https://warframe.market/items/mortal_conduct?type=sell) | 10 | 1 |
+| [Radiant Finish](https://warframe.market/items/radiant_finish?type=sell) | 10 | 1 |
+| [Recharge Barrier](https://warframe.market/items/recharge_barrier?type=sell) | 10 | 3 |
+| [Focused Acceleration](https://warframe.market/items/focused_acceleration?type=sell) | 10 | 1 |
+| [Broad Eye](https://warframe.market/items/broad_eye?type=sell) | 9 | 1 |
+| [Cryo Rounds](https://warframe.market/items/cryo_rounds?type=sell) | 9 | 1 |
+| [Necramech Slipstream](https://warframe.market/items/necramech_slipstream?type=sell) | 8 | 1 |
+| [Red Veil Augment Mod](https://warframe.market/items/red_veil_augment_mod?type=sell) | 8 | 2 |
+| [Cunning Aspect](https://warframe.market/items/cunning_aspect?type=sell) | 8 | 1 |
+| [Loose Chamber](https://warframe.market/items/loose_chamber?type=sell) | 8 | 1 |
+| [Nano-Applicator](https://warframe.market/items/nano_applicator?type=sell) | 8 | 1 |
+| [Parry](https://warframe.market/items/parry?type=sell) | 6.5 | 2 |
+| [Focused Defense](https://warframe.market/items/focused_defense?type=sell) | 6.5 | 2 |
+| [Silent Battery](https://warframe.market/items/silent_battery?type=sell) | 6 | 1 |
+| [Covert Lethality](https://warframe.market/items/covert_lethality?type=sell) | 6 | 26 |
+| [Ferocity](https://warframe.market/items/ferocity?type=sell) | 5 | 1 |
+| [Concussion Rounds](https://warframe.market/items/concussion_rounds?type=sell) | 5 | 1 |
+| [Guided Ordnance](https://warframe.market/items/guided_ordnance?type=sell) | 5 | 1 |
+| [Collision Force](https://warframe.market/items/collision_force?type=sell) | 4.5 | 2 |
+| [Kinetic Ricochet](https://warframe.market/items/kinetic_ricochet?type=sell) | 4 | 1 |
+| [Vital Sense](https://warframe.market/items/vital_sense?type=sell) | 4 | 75 |
+| [Howl](https://warframe.market/items/howl?type=sell) | 4 | 1 |
+| [Defiled Snapdragon](https://warframe.market/items/defiled_snapdragon?type=sell) | 3 | 10 |
+| [Thermagnetic Shells](https://warframe.market/items/thermagnetic_shells?type=sell) | 2 | 1 |
+| [Reflect](https://warframe.market/items/reflect?type=sell) | 1 | 5 |
+| [Recuperate](https://warframe.market/items/recuperate?type=sell) | not enough data... | not enough data... |
+| [Armored Evade](https://warframe.market/items/armored_evade?type=sell) | not enough data... | not enough data... |
+| [Crescent Charge](https://warframe.market/items/crescent_charge?type=sell) | 499 | 1 |
+| [Split Flights](https://warframe.market/items/split_flights?type=sell) | 99.5 | 2 |
+| [Hornet Strike](https://warframe.market/items/hornet_strike?type=sell) | 55 | 1 |
+| [Ambush](https://warframe.market/items/ambush?type=sell) | 51.5 | 5 |
+| [Primed Firestorm](https://warframe.market/items/primed_firestorm?type=sell) | 50 | 20 |
+| [Kill Switch](https://warframe.market/items/kill_switch?type=sell) | 50 | 1 |
+| [Primed Fulmination](https://warframe.market/items/primed_fulmination?type=sell) | 43 | 51 |
+| [Necramech Efficiency](https://warframe.market/items/necramech_efficiency?type=sell) | 20 | 1 |
+| [Synth Deconstruct](https://warframe.market/items/synth_deconstruct?type=sell) | 19 | 91 |
+| [Peculiar Bloom](https://warframe.market/items/peculiar_bloom?type=sell) | 18 | 2 |
+| [Necramech Rebuke](https://warframe.market/items/necramech_rebuke?type=sell) | 15 | 1 |
+| [Transistor Shield](https://warframe.market/items/transistor_shield?type=sell) | 15 | 1 |
+| [Thrall Pact](https://warframe.market/items/thrall_pact?type=sell) | 13.5 | 2 |
+| [Guided Effigy](https://warframe.market/items/guided_effigy?type=sell) | 12 | 1 |
+| [Lasting Covenant](https://warframe.market/items/lasting_covenant?type=sell) | 12 | 9 |
+| [Tesla Bank](https://warframe.market/items/tesla_bank?type=sell) | 11.5 | 15 |
+| [Critical Surge](https://warframe.market/items/critical_surge?type=sell) | 10 | 4 |
+| [Blending Talons](https://warframe.market/items/blending_talons?type=sell) | 10 | 19 |
+| [Ore Gaze](https://warframe.market/items/ore_gaze?type=sell) | 10 | 7 |
+| [Tek Enhance](https://warframe.market/items/tek_enhance?type=sell) | 10 | 31 |
+| [Final Harbinger](https://warframe.market/items/final_harbinger?type=sell) | 10 | 17 |
+| [Adrenaline Boost](https://warframe.market/items/adrenaline_boost?type=sell) | 10 | 1 |
+| [Blind Shot](https://warframe.market/items/blind_shot?type=sell) | 10 | 1 |
+| [Eternal War](https://warframe.market/items/eternal_war?type=sell) | 10 | 93 |
+| [Necramech Aviator](https://warframe.market/items/necramech_aviator?type=sell) | 9.5 | 2 |
+| [Mesa's Waltz](https://warframe.market/items/mesas_waltz?type=sell) | 9 | 29 |
+| [Razorwing Blitz](https://warframe.market/items/razorwing_blitz?type=sell) | 9 | 95 |
+| [Hunter Munitions](https://warframe.market/items/hunter_munitions?type=sell) | 9 | 146 |
+| [Augur Seeker](https://warframe.market/items/augur_seeker?type=sell) | 9 | 72 |
+| [Hunter Synergy](https://warframe.market/items/hunter_synergy?type=sell) | 8 | 65 |
+| [Crashing Havoc](https://warframe.market/items/crashing_havoc?type=sell) | 8 | 1 |
+| [Scattering Inferno](https://warframe.market/items/scattering_inferno?type=sell) | 8 | 49 |
+| [Shell Rush](https://warframe.market/items/shell_rush?type=sell) | 7 | 4 |
+| [Necramech Enemy Sense](https://warframe.market/items/necramech_enemy_sense?type=sell) | 6 | 2 |
+| [Vigilante Offense](https://warframe.market/items/vigilante_offense?type=sell) | 5 | 3 |
+| [Corrupt Charge](https://warframe.market/items/corrupt_charge?type=sell) | 5 | 72 |
+| [Equilibrium](https://warframe.market/items/equilibrium?type=sell) | 5 | 21 |
+| [Volatile Quick Return](https://warframe.market/items/volatile_quick_return?type=sell) | 4 | 28 |
+| [Slicing Feathers](https://warframe.market/items/slicing_feathers?type=sell) | 4 | 22 |
+| [Synth Reflex](https://warframe.market/items/synth_reflex?type=sell) | 3 | 4 |
+| [Fetch](https://warframe.market/items/fetch?type=sell) | 3 | 2 |
+| [Revenge](https://warframe.market/items/revenge?type=sell) | 3 | 1 |
+| [Twitch](https://warframe.market/items/twitch?type=sell) | 3 | 1 |
+| [Venomous Rise](https://warframe.market/items/venomous_rise?type=sell) | not enough data... | not enough data... |
+| [Meteor Munitions](https://warframe.market/items/meteor_munitions?type=sell) | not enough data... | not enough data... |
+| [Momentary Pause](https://warframe.market/items/momentary_pause?type=sell) | not enough data... | not enough data... |
+| [Overview](https://warframe.market/items/overview?type=sell) | 9 | 1 |
+| [Vigilante Vigor](https://warframe.market/items/vigilante_vigor?type=sell) | 5 | 39 |
+| [Gladiator Rush](https://warframe.market/items/gladiator_rush?type=sell) | 4 | 14 |
+| [Overcharge Detectors](https://warframe.market/items/overcharge_detectors?type=sell) | not enough data... | not enough data... |
+| [Prize Kill](https://warframe.market/items/prize_kill?type=sell) | not enough data... | not enough data... |
+| [Quick Charge](https://warframe.market/items/quick_charge?type=sell) | not enough data... | not enough data... |
+| [Primed Chamber](https://warframe.market/items/primed_chamber?type=sell) | 260 | 4 |
+| [Paralytic Spores](https://warframe.market/items/paralytic_spores?type=sell) | 150 | 1 |
+| [Stasis Field](https://warframe.market/items/stasis_field?type=sell) | 140 | 1 |
+| [Primed Rifle Ammo Mutation](https://warframe.market/items/primed_rifle_ammo_mutation?type=sell) | 75 | 2 |
+| [Razor Munitions](https://warframe.market/items/razor_munitions?type=sell) | not enough data... | not enough data... |
+| [Aero Agility](https://warframe.market/items/aero_agility?type=sell) | 25 | 1 |
+| [Anti-Grav Array](https://warframe.market/items/anti_grav_array?type=sell) | 20 | 5 |
+| [Dual Rounds](https://warframe.market/items/dual_rounds?type=sell) | 19 | 30 |
+| [Sonic Boost](https://warframe.market/items/sonic_boost?type=sell) | 17.5 | 2 |
+| [Calm & Frenzy](https://warframe.market/items/calm_and_frenzy?type=sell) | 15 | 4 |
+| [Desiccation's Curse](https://warframe.market/items/desiccations_curse?type=sell) | 15 | 4 |
+| [Winds Of Purity](https://warframe.market/items/winds_of_purity?type=sell) | 14 | 2 |
+| [Peaceful Provocation](https://warframe.market/items/peaceful_provocation?type=sell) | 12 | 5 |
+| [Recover](https://warframe.market/items/recover?type=sell) | not enough data... | not enough data... |
+| [Primed Regen](https://warframe.market/items/primed_regen?type=sell) | 99.5 | 13 |
+| [Voltaic Strike](https://warframe.market/items/voltaic_strike?type=sell) | 55 | 127 |
+| [Primed Smite Grineer](https://warframe.market/items/primed_smite_grineer?type=sell) | 54 | 2 |
+| [Infectious Bite](https://warframe.market/items/infectious_bite?type=sell) | 50 | 1 |
+| [Hard Engage](https://warframe.market/items/hard_engage?type=sell) | 50 | 1 |
+| [Combo Killer](https://warframe.market/items/combo_killer?type=sell) | 50 | 1 |
+| [Tractor Beam](https://warframe.market/items/tractor_beam?type=sell) | 50 | 1 |
+| [Botanist](https://warframe.market/items/botanist?type=sell) | 50 | 6 |
+| [Combo Fury](https://warframe.market/items/combo_fury?type=sell) | 50 | 1 |
+| [Jugulus Spines](https://warframe.market/items/jugulus_spines?type=sell) | 47.5 | 2 |
+| [Sabot Rounds](https://warframe.market/items/sabot_rounds?type=sell) | 45 | 32 |
+| [Saxum Spittle](https://warframe.market/items/saxum_spittle?type=sell) | 42.5 | 4 |
+| [Primed Fever Strike](https://warframe.market/items/primed_fever_strike?type=sell) | 40 | 37 |
+| [Companion Weapon Riven Mod (Veiled)](https://warframe.market/items/companion_weapon_riven_mod_(veiled)?type=sell) | 40 | 43 |
+| [Meticulous Aim](https://warframe.market/items/meticulous_aim?type=sell) | 30 | 1 |
+| [Primed Charged Shell](https://warframe.market/items/primed_charged_shell?type=sell) | 28 | 31 |
+| [Efficient Beams](https://warframe.market/items/efficient_beams?type=sell) | 25 | 1 |
+| [Primo Flair](https://warframe.market/items/primo_flair?type=sell) | 20 | 1 |
+| [Vapor Trail](https://warframe.market/items/vapor_trail?type=sell) | 20 | 1 |
+| [Survival Instinct](https://warframe.market/items/survival_instinct?type=sell) | 20 | 1 |
+| [Kavat's Grace](https://warframe.market/items/kavats_grace?type=sell) | 20 | 17 |
+| [Nitro Boost](https://warframe.market/items/nitro_boost?type=sell) | 20 | 1 |
+| [Mecha Overdrive](https://warframe.market/items/mecha_overdrive?type=sell) | 19.5 | 58 |
+| [Primed Quickdraw](https://warframe.market/items/primed_quickdraw?type=sell) | 19 | 6 |
+| [Bhisaj-Bal](https://warframe.market/items/bhisaj_bal?type=sell) | 19 | 14 |
+| [Necramech Steel Fiber](https://warframe.market/items/necramech_steel_fiber?type=sell) | 17 | 13 |
+| [Critical Focus](https://warframe.market/items/critical_focus?type=sell) | 17 | 51 |
+| [Rumbled](https://warframe.market/items/rumbled?type=sell) | 15 | 3 |
+| [Mecha Recharge](https://warframe.market/items/mecha_recharge?type=sell) | 15 | 57 |
+| [Trample](https://warframe.market/items/trample?type=sell) | 15 | 1 |
+| [Crescent Devolution](https://warframe.market/items/crescent_devolution?type=sell) | 15 | 1 |
+| [Anabolic Pollination](https://warframe.market/items/anabolic_pollination?type=sell) | 15 | 1 |
+| [Tek Assault](https://warframe.market/items/tek_assault?type=sell) | 15 | 27 |
+| [Air Thrusters](https://warframe.market/items/air_thrusters?type=sell) | 15 | 1 |
+| [Necramech Augur](https://warframe.market/items/necramech_augur?type=sell) | 15 | 1 |
+| [Counter Pulse](https://warframe.market/items/counter_pulse?type=sell) | 15 | 2 |
+| [Fire Suppression](https://warframe.market/items/fire_suppression?type=sell) | 15 | 1 |
+| [Mending Splinters](https://warframe.market/items/mending_splinters?type=sell) | 15 | 1 |
+| [No Current Leap](https://warframe.market/items/no_current_leap?type=sell) | 15 | 1 |
+| [Concentrated Arrow](https://warframe.market/items/concentrated_arrow?type=sell) | 15 | 6 |
+| [Cryo Coating](https://warframe.market/items/cryo_coating?type=sell) | 14.5 | 5 |
+| [Necramech Refuel](https://warframe.market/items/necramech_refuel?type=sell) | 14 | 4 |
+| [Repair Kit](https://warframe.market/items/repair_kit?type=sell) | 14 | 1 |
+| [Savage Silence](https://warframe.market/items/savage_silence?type=sell) | 14 | 3 |
+| [Ion Burn](https://warframe.market/items/ion_burn?type=sell) | 14 | 1 |
+| [Energy Transfer](https://warframe.market/items/energy_transfer?type=sell) | 14 | 9 |
+| [Khra](https://warframe.market/items/khra?type=sell) | 13 | 27 |
+| [Ion Infusion](https://warframe.market/items/ion_infusion?type=sell) | 12.5 | 6 |
+| [Insatiable](https://warframe.market/items/insatiable?type=sell) | 12 | 8 |
+| [Vigorous Swap](https://warframe.market/items/vigorous_swap?type=sell) | 12 | 14 |
+| [Smoke Shadow](https://warframe.market/items/smoke_shadow?type=sell) | 12 | 4 |
+| [Preparation](https://warframe.market/items/preparation?type=sell) | 12 | 108 |
+| [Necramech Intensify](https://warframe.market/items/necramech_intensify?type=sell) | 12 | 8 |
+| [Reaping Chakram](https://warframe.market/items/reaping_chakram?type=sell) | 12 | 1 |
+| [Necramech Flow](https://warframe.market/items/necramech_flow?type=sell) | 12 | 22 |
+| [Grendel Systems Locator](https://warframe.market/items/grendel_systems_locator?type=sell) | 12 | 3 |
+| [Grendel Chassis Locator](https://warframe.market/items/grendel_chassis_locator?type=sell) | 12 | 4 |
+| [Enveloping Cloud](https://warframe.market/items/enveloping_cloud?type=sell) | 12 | 8 |
+| [Vome](https://warframe.market/items/vome?type=sell) | 12 | 24 |
+| [Fass](https://warframe.market/items/fass?type=sell) | 12 | 29 |
+| [Teleport Rush](https://warframe.market/items/fatal_teleport?type=sell) | 11 | 1 |
+| [Titanic Rumbler](https://warframe.market/items/titanic_rumbler?type=sell) | 10.5 | 2 |
+| [Bursting Mass](https://warframe.market/items/bursting_mass?type=sell) | 10 | 1 |
+| [Aerodynamic](https://warframe.market/items/aerodynamic?type=sell) | 10 | 52 |
+| [Saxum Carapace](https://warframe.market/items/saxum_carapace?type=sell) | 10 | 13 |
+| [Necramech Continuity](https://warframe.market/items/necramech_continuity?type=sell) | 10 | 6 |
+| [Empowered Quiver](https://warframe.market/items/empowered_quiver?type=sell) | 10 | 3 |
+| [Rolling Guard](https://warframe.market/items/rolling_guard?type=sell) | 10 | 80 |
+| [Muzzle Flash](https://warframe.market/items/muzzle_flash?type=sell) | 10 | 7 |
+| [Avenging Truth](https://warframe.market/items/avenging_truth?type=sell) | 10 | 1 |
+| [Charged Bullets](https://warframe.market/items/charged_bullets?type=sell) | 10 | 37 |
+| [Fury](https://warframe.market/items/fury?type=sell) | 10 | 1 |
+| [Lohk](https://warframe.market/items/lohk?type=sell) | 10 | 31 |
+| [Blood For Energy](https://warframe.market/items/blood_for_energy?type=sell) | 10 | 3 |
+| [Xata](https://warframe.market/items/xata?type=sell) | 10 | 20 |
+| [Mach Crash](https://warframe.market/items/mach_crash?type=sell) | 10 | 7 |
+| [Sharpshooter](https://warframe.market/items/sharpshooter?type=sell) | 10 | 3 |
+| [Cautious Shot](https://warframe.market/items/cautious_shot?type=sell) | 10 | 4 |
+| [Jet Stream](https://warframe.market/items/jet_stream?type=sell) | 10 | 3 |
+| [Duality](https://warframe.market/items/duality?type=sell) | 10 | 3 |
+| [Exposing Harpoon](https://warframe.market/items/exposing_harpoon?type=sell) | 10 | 1 |
+| [Auto Breach](https://warframe.market/items/auto_breach?type=sell) | 10 | 23 |
+| [Hush](https://warframe.market/items/hush?type=sell) | 9 | 1 |
+| [Four Riders](https://warframe.market/items/four_riders?type=sell) | 9 | 11 |
+| [Harkonar Scope](https://warframe.market/items/harkonar_scope?type=sell) | 9 | 1 |
+| [Jugulus Barbs](https://warframe.market/items/jugulus_barbs?type=sell) | 9 | 13 |
+| [Viral Quills](https://warframe.market/items/viral_quills?type=sell) | 9 | 5 |
+| [Pyroclastic Flow](https://warframe.market/items/pyroclastic_flow?type=sell) | 9 | 4 |
+| [Meteor Crash](https://warframe.market/items/meteor_crash?type=sell) | 9 | 1 |
+| [Volatile Parasite](https://warframe.market/items/volatile_parasite?type=sell) | 9 | 2 |
+| [Volatile Rebound](https://warframe.market/items/volatile_rebound?type=sell) | 9 | 25 |
+| [Power Donation](https://warframe.market/items/power_donation?type=sell) | 9 | 22 |
+| [Despoil](https://warframe.market/items/despoil?type=sell) | 9 | 72 |
+| [Carnis Stinger](https://warframe.market/items/carnis_stinger?type=sell) | 8.5 | 17 |
+| [Necramech Deflection](https://warframe.market/items/necramech_deflection?type=sell) | 8.5 | 7 |
+| [Synth Fiber](https://warframe.market/items/synth_fiber?type=sell) | 8 | 11 |
+| [Panzer Devolution](https://warframe.market/items/panzer_devolution?type=sell) | 8 | 3 |
+| [Celestial Nightfall](https://warframe.market/items/celestial_nightfall?type=sell) | 8 | 1 |
+| [Out Of Sight](https://warframe.market/items/out_of_sight?type=sell) | 8 | 3 |
+| [Star Divide](https://warframe.market/items/star_divide?type=sell) | 8 | 1 |
+| [Tether](https://warframe.market/items/tether?type=sell) | 7 | 1 |
+| [Particle Ram](https://warframe.market/items/particle_ram?type=sell) | 7 | 2 |
+| [Adaptation](https://warframe.market/items/adaptation?type=sell) | 7 | 92 |
+| [Untraceable](https://warframe.market/items/untraceable?type=sell) | 7 | 22 |
+| [Necramech Stretch](https://warframe.market/items/necramech_stretch?type=sell) | 6.5 | 2 |
+| [Necramech Reach](https://warframe.market/items/necramech_reach?type=sell) | 6 | 1 |
+| [Blackout Pulse](https://warframe.market/items/blackout_pulse?type=sell) | 6 | 17 |
+| [Efficient Transferral](https://warframe.market/items/efficient_transferral?type=sell) | 6 | 17 |
+| [Slay Board](https://warframe.market/items/slay_board?type=sell) | 5.5 | 2 |
+| [Hunter's Bonesaw](https://warframe.market/items/hunters_bonesaw?type=sell) | 5 | 1 |
+| [Toxin Resistance](https://warframe.market/items/toxin_resistance?type=sell) | 5 | 1 |
+| [Anemic Agility](https://warframe.market/items/anemic_agility?type=sell) | 5 | 111 |
+| [Resolute Focus](https://warframe.market/items/resolute_focus?type=sell) | 5 | 1 |
+| [Pistol Amp](https://warframe.market/items/pistol_amp?type=sell) | 5 | 22 |
+| [Tek Collateral](https://warframe.market/items/tek_collateral?type=sell) | 5 | 6 |
+| [Synth Charge](https://warframe.market/items/synth_charge?type=sell) | 5 | 3 |
+| [Zodiac Shred](https://warframe.market/items/zodiac_shred?type=sell) | 5 | 3 |
+| [Proboscis](https://warframe.market/items/proboscis?type=sell) | 5 | 1 |
+| [Virulent Scourge](https://warframe.market/items/virulent_scourge?type=sell) | 5 | 53 |
+| [Necramech Seismic Wave](https://warframe.market/items/necramech_seismic_wave?type=sell) | 5 | 1 |
+| [Astral Slash](https://warframe.market/items/astral_slash?type=sell) | 5 | 1 |
+| [Live Wire](https://warframe.market/items/live_wire?type=sell) | 4.5 | 2 |
+| [Tek Gravity](https://warframe.market/items/tek_gravity?type=sell) | 4.5 | 2 |
+| [Augur Pact](https://warframe.market/items/augur_pact?type=sell) | 4.5 | 26 |
+| [Ammo Chain](https://warframe.market/items/ammo_chain?type=sell) | 4.5 | 2 |
+| [Metal Auger](https://warframe.market/items/metal_auger?type=sell) | 4 | 1 |
+| [Animal Instinct](https://warframe.market/items/animal_instinct?type=sell) | 4 | 33 |
+| [Necramech Redirection](https://warframe.market/items/necramech_redirection?type=sell) | 4 | 1 |
+| [Gnashing Payara](https://warframe.market/items/gnashing_payara?type=sell) | 4 | 13 |
+| [Retribution](https://warframe.market/items/retribution?type=sell) | 4 | 1 |
+| [Aero Periphery](https://warframe.market/items/aero_periphery?type=sell) | 4 | 1 |
+| [Proton Snap](https://warframe.market/items/proton_snap?type=sell) | 4 | 3 |
+| [Hunter Recovery](https://warframe.market/items/hunter_recovery?type=sell) | 4 | 15 |
+| [Guardian](https://warframe.market/items/guardian?type=sell) | 4 | 1 |
+| [Shatter Burst](https://warframe.market/items/shatter_burst?type=sell) | 4 | 8 |
+| [Master Key](https://warframe.market/items/master_key?type=sell) | 4 | 1 |
+| [Failsafe](https://warframe.market/items/failsafe?type=sell) | 4 | 2 |
+| [Furor](https://warframe.market/items/furor?type=sell) | 4 | 1 |
+| [Battle Forge](https://warframe.market/items/battle_forge?type=sell) | 4 | 1 |
+| [Burdened Magazine](https://warframe.market/items/burdened_magazine?type=sell) | 3.5 | 4 |
+| [Cleaving Whirlwind](https://warframe.market/items/cleaving_whirlwind?type=sell) | 3 | 5 |
+| [True Steel](https://warframe.market/items/true_steel?type=sell) | 3 | 1 |
+| [Conductive Blade](https://warframe.market/items/conductive_blade?type=sell) | 3 | 1 |
+| [Ravage](https://warframe.market/items/ravage?type=sell) | 3 | 8 |
+| [Energy Field](https://warframe.market/items/energy_field?type=sell) | 3 | 1 |
+| [Rifle Aptitude](https://warframe.market/items/rifle_aptitude?type=sell) | 3 | 3 |
+| [Patagium](https://warframe.market/items/patagium?type=sell) | 3 | 1 |
+| [Carnis Mandible](https://warframe.market/items/carnis_mandible?type=sell) | 2.5 | 3 |
+| [Afterburner](https://warframe.market/items/afterburner?type=sell) | 2 | 1 |
+| [Master Thief](https://warframe.market/items/master_thief?type=sell) | 2 | 1 |
+| [Breach Quanta](https://warframe.market/items/breach_quanta?type=sell) | 2 | 1 |
+| [Blood For Ammo](https://warframe.market/items/blood_for_ammo?type=sell) | 2 | 1 |
+| [Extend](https://warframe.market/items/extend?type=sell) | 1 | 1 |
+| [Combustion Beam](https://warframe.market/items/combustion_beam?type=sell) | 1 | 1 |
+| [Seeking Fury](https://warframe.market/items/seeking_fury?type=sell) | 1 | 1 |
+| [Push & Pull](https://warframe.market/items/push_and_pull?type=sell) | not enough data... | not enough data... |
+| [Equilibrium (Steam Pinnacle Pack)](https://warframe.market/items/equilibrium_(steam_pinnacle_pack)?type=sell) | 1000 | 1 |
+| [Biotic Rounds](https://warframe.market/items/biotic_rounds?type=sell) | 194 | 5 |
+| [Burning Hate](https://warframe.market/items/burning_hate?type=sell) | 169.5 | 4 |
+| [Primed Cleanse Infested](https://warframe.market/items/primed_cleanse_infested?type=sell) | 150 | 1 |
+| [Unseen Dread](https://warframe.market/items/unseen_dread?type=sell) | 100 | 5 |
+| [Blast Shield](https://warframe.market/items/blast_shield?type=sell) | 99 | 1 |
+| [Leaded Gas](https://warframe.market/items/leaded_gas?type=sell) | 92.5 | 6 |
+| [Primed Dual Rounds](https://warframe.market/items/primed_dual_rounds?type=sell) | 90 | 6 |
+| [Turret Velocity](https://warframe.market/items/turret_velocity?type=sell) | 80 | 1 |
+| [Primed Convulsion](https://warframe.market/items/primed_convulsion?type=sell) | 80 | 21 |
+| [Primed Deadly Efficiency](https://warframe.market/items/primed_deadly_efficiency?type=sell) | 80 | 2 |
+| [Primed Magazine Warp](https://warframe.market/items/primed_magazine_warp?type=sell) | 75 | 10 |
+| [Discipline's Merit](https://warframe.market/items/disciplines_merit?type=sell) | 75 | 43 |
+| [Primed Ammo Stock](https://warframe.market/items/primed_ammo_stock?type=sell) | 65 | 7 |
+| [Primed Redirection](https://warframe.market/items/primed_redirection?type=sell) | 65 | 103 |
+| [Primed Stabilizer](https://warframe.market/items/primed_stabilizer?type=sell) | 65 | 4 |
+| [Vome Invocation](https://warframe.market/items/vome_invocation?type=sell) | 59 | 11 |
+| [Amanata Pressure](https://warframe.market/items/amanata_pressure?type=sell) | 50 | 1 |
+| [Primed Smite Orokin](https://warframe.market/items/primed_smite_corrupted?type=sell) | 46.5 | 6 |
+| [Clip Delegation](https://warframe.market/items/clip_delegation?type=sell) | 46.5 | 39 |
+| [Primed Cleanse Grineer](https://warframe.market/items/primed_cleanse_grineer?type=sell) | 45 | 2 |
+| [Xata Invocation](https://warframe.market/items/xata_invocation?type=sell) | 45 | 9 |
+| [Photon Overcharge](https://warframe.market/items/photon_overcharge?type=sell) | 45 | 11 |
+| [Higasa Serration](https://warframe.market/items/higasa_serration?type=sell) | 45 | 2 |
+| [Primed Counterbalance](https://warframe.market/items/primed_counterbalance?type=sell) | 45 | 1 |
+| [Primed Expel The Murmur](https://warframe.market/items/primed_expel_the_murmur?type=sell) | 45 | 2 |
+| [Necrophagic Vigor](https://warframe.market/items/necrophagic_vigor?type=sell) | 45 | 17 |
+| [Peculiar End](https://warframe.market/items/peculiar_end?type=sell) | 44.5 | 3 |
+| [Primed Sniper Ammo Mutation](https://warframe.market/items/primed_sniper_ammo_mutation?type=sell) | 44 | 3 |
+| [Ballista Measure](https://warframe.market/items/ballista_measure?type=sell) | 42.5 | 2 |
+| [Serrated Rounds](https://warframe.market/items/serrated_rounds?type=sell) | 40 | 1 |
+| [Void Hole](https://warframe.market/items/void_hole?type=sell) | 40 | 31 |
+| [Spontaneous Singularity](https://warframe.market/items/spontaneous_singularity?type=sell) | 40 | 1 |
+| [Primed Cleanse The Murmur](https://warframe.market/items/primed_cleanse_the_murmur?type=sell) | 40 | 3 |
+| [Primed Ammo Chain](https://warframe.market/items/primed_ammo_chain?type=sell) | 39.5 | 6 |
+| [Khra Canticle](https://warframe.market/items/khra_canticle?type=sell) | 38 | 11 |
+| [Metal Fiber](https://warframe.market/items/metal_fiber?type=sell) | 37 | 5 |
+| [Primed Cleanse Corpus](https://warframe.market/items/primed_cleanse_corpus?type=sell) | 37 | 2 |
+| [Primed Chilling Grasp](https://warframe.market/items/primed_chilling_grasp?type=sell) | 35 | 30 |
+| [Dreamer's Wrath](https://warframe.market/items/dreamers_wrath?type=sell) | 34 | 50 |
+| [Primed Cleanse Orokin](https://warframe.market/items/primed_cleanse_corrupted?type=sell) | 30 | 4 |
+| [Last Herald](https://warframe.market/items/last_herald?type=sell) | 30 | 1 |
+| [Sly Devolution](https://warframe.market/items/sly_devolution?type=sell) | 30 | 2 |
+| [Lohk Canticle](https://warframe.market/items/lohk_canticle?type=sell) | 30 | 12 |
+| [Sey-Taph](https://warframe.market/items/sey_taph?type=sell) | 30 | 1 |
+| [Primed Venomous Clip](https://warframe.market/items/primed_venomous_clip?type=sell) | 30 | 42 |
+| [Jugulus Carapace](https://warframe.market/items/jugulus_carapace?type=sell) | 29 | 19 |
+| [Worm's Torment](https://warframe.market/items/worms_torment?type=sell) | 29 | 1 |
+| [Primed Bane Of The Murmur](https://warframe.market/items/primed_bane_of_the_murmur?type=sell) | 29 | 68 |
+| [Transfusion](https://warframe.market/items/transfusion?type=sell) | 28 | 1 |
+| [Primed Smite The Murmur](https://warframe.market/items/primed_smite_the_murmur?type=sell) | 28 | 3 |
+| [Growing Power](https://warframe.market/items/growing_power?type=sell) | 27 | 137 |
+| [Quick Escape](https://warframe.market/items/quick_escape?type=sell) | 25 | 1 |
+| [Pop Top](https://warframe.market/items/pop_top?type=sell) | 25 | 1 |
+| [Primed Tactical Pump](https://warframe.market/items/primed_tactical_pump?type=sell) | 25 | 50 |
+| [Archon Intensify](https://warframe.market/items/archon_intensify?type=sell) | 25 | 69 |
+| [Archon Vitality](https://warframe.market/items/archon_vitality?type=sell) | 25 | 100 |
+| [Archon Stretch](https://warframe.market/items/archon_stretch?type=sell) | 25 | 103 |
+| [Primed Steady Hands](https://warframe.market/items/primed_steady_hands?type=sell) | 25 | 36 |
+| [Evir-Ti](https://warframe.market/items/evir_ti?type=sell) | 25 | 1 |
+| [Vikla-Safor](https://warframe.market/items/vikla_safor?type=sell) | 25 | 2 |
+| [Necramech Repair](https://warframe.market/items/necramech_repair?type=sell) | 24.5 | 6 |
+| [Steel Charge](https://warframe.market/items/steel_charge?type=sell) | 24 | 43 |
+| [Dizzying Rounds](https://warframe.market/items/dizzying_rounds?type=sell) | 24 | 3 |
+| [Archon Continuity](https://warframe.market/items/archon_continuity?type=sell) | 24 | 66 |
+| [Archon Flow](https://warframe.market/items/archon_flow?type=sell) | 23.5 | 34 |
+| [Sentient Barrage](https://warframe.market/items/sentient_barrage?type=sell) | 22 | 1 |
+| [Ordnance Velocity](https://warframe.market/items/ordnance_velocity?type=sell) | 20 | 4 |
+| [Iatric Mycelium](https://warframe.market/items/iatric_mycelium?type=sell) | 20 | 1 |
+| [Cordon](https://warframe.market/items/cordon?type=sell) | 20 | 6 |
+| [Oull](https://warframe.market/items/oull?type=sell) | 20 | 47 |
+| [Power Drain](https://warframe.market/items/power_drain?type=sell) | 19.5 | 8 |
+| [Peculiar Audience](https://warframe.market/items/peculiar_audience?type=sell) | 19 | 18 |
+| [Catalyzing Shields](https://warframe.market/items/catalyzing_shields?type=sell) | 19 | 186 |
+| [Sentient Surge](https://warframe.market/items/sentient_surge?type=sell) | 18 | 217 |
+| [Jahu Canticle](https://warframe.market/items/jahu_canticle?type=sell) | 18 | 20 |
+| [Synergized Prospectus](https://warframe.market/items/synergized_prospectus?type=sell) | 17 | 11 |
+| [Guardian Armor](https://warframe.market/items/guardian_armor?type=sell) | 16 | 9 |
+| [Extreme Velocity](https://warframe.market/items/extreme_velocity?type=sell) | 15 | 1 |
+| [Controlled Slide](https://warframe.market/items/controlled_slide?type=sell) | 15 | 3 |
+| [Ironclad Flight](https://warframe.market/items/ironclad_flight?type=sell) | 15 | 1 |
+| [Mark Of The Beast](https://warframe.market/items/mark_of_the_beast?type=sell) | 15 | 1 |
+| [Tandem Bond](https://warframe.market/items/tandem_bond?type=sell) | 15 | 17 |
+| [Covert Bond](https://warframe.market/items/covert_bond?type=sell) | 15 | 1 |
+| [Restorative Bond](https://warframe.market/items/restorative_bond?type=sell) | 15 | 8 |
+| [Momentous Bond](https://warframe.market/items/momentous_bond?type=sell) | 15 | 98 |
+| [Aerial Bond](https://warframe.market/items/aerial_bond?type=sell) | 15 | 18 |
+| [Reinforced Bond](https://warframe.market/items/reinforced_bond?type=sell) | 15 | 87 |
+| [Volatile Variant](https://warframe.market/items/volatile_variant?type=sell) | 15 | 25 |
+| [Persistent Posture](https://warframe.market/items/persistent_posture?type=sell) | 15 | 3 |
+| [Pain Points](https://warframe.market/items/pain_points?type=sell) | 15 | 1 |
+| [Tharros Lethality](https://warframe.market/items/tharros_lethality?type=sell) | 15 | 3 |
+| [Reverse Rotorswell](https://warframe.market/items/reverse_rotorswell?type=sell) | 15 | 14 |
+| [Ulashta-Shol](https://warframe.market/items/ulashta_shol?type=sell) | 15 | 3 |
+| [Omn-Evi](https://warframe.market/items/omn_evi?type=sell) | 15 | 44 |
+| [Pacifying Bolts](https://warframe.market/items/pacifying_bolts?type=sell) | 14 | 2 |
+| [Catapult](https://warframe.market/items/catapult?type=sell) | 14 | 6 |
+| [Artillery Cheap Shot](https://warframe.market/items/artillery_cheap_shot?type=sell) | 14 | 30 |
+| [Hata-Satya](https://warframe.market/items/hata_satya?type=sell) | 14 | 24 |
+| [Champion's Blessing](https://warframe.market/items/champions_blessing?type=sell) | 14 | 7 |
+| [Swift Bite](https://warframe.market/items/swift_bite?type=sell) | 14 | 12 |
+| [Range Advantage](https://warframe.market/items/range_advantage?type=sell) | 14 | 1 |
+| [Vile Discharge](https://warframe.market/items/vile_discharge?type=sell) | 14 | 3 |
+| [Tenacious Bond](https://warframe.market/items/tenacious_bond?type=sell) | 14 | 71 |
+| [Mystic Bond](https://warframe.market/items/mystic_bond?type=sell) | 14 | 23 |
+| [Axios Javelineers](https://warframe.market/items/axios_javelineers?type=sell) | 14 | 1 |
+| [Frenzied Posture](https://warframe.market/items/frenzied_posture?type=sell) | 14 | 22 |
+| [Protector Posture](https://warframe.market/items/protector_posture?type=sell) | 14 | 15 |
+| [Magnetic Strike](https://warframe.market/items/magnetic_strike?type=sell) | 14 | 6 |
+| [Lingering Transmutation](https://warframe.market/items/lingering_transmutation?type=sell) | 14 | 4 |
+| [Merulina Guardian](https://warframe.market/items/merulina_guardian?type=sell) | 13.5 | 9 |
+| [Omikuji's Fortune](https://warframe.market/items/omikujis_fortune?type=sell) | 13.5 | 11 |
+| [Bladed Rounds](https://warframe.market/items/bladed_rounds?type=sell) | 13 | 42 |
+| [Necramech Rage](https://warframe.market/items/necramech_rage?type=sell) | 13 | 9 |
+| [Intrepid Stand](https://warframe.market/items/intrepid_stand?type=sell) | 13 | 16 |
+| [Manifold Bond](https://warframe.market/items/manifold_bond?type=sell) | 13 | 96 |
+| [Expel The Murmur](https://warframe.market/items/expel_the_murmur?type=sell) | 13 | 2 |
+| [Parasitic Vitality](https://warframe.market/items/parasitic_vitality?type=sell) | 13 | 6 |
+| [Disabling Conditioning](https://warframe.market/items/disabling_conditioning?type=sell) | 13 | 11 |
+| [Conductive Sphere](https://warframe.market/items/conductive_sphere?type=sell) | 13 | 29 |
+| [Vexing Retaliation](https://warframe.market/items/vexing_retaliation?type=sell) | 12.5 | 2 |
+| [Surging Blades](https://warframe.market/items/surging_blades?type=sell) | 12.5 | 4 |
+| [Astral Bond](https://warframe.market/items/astral_bond?type=sell) | 12.5 | 2 |
+| [Spellbound Harvest](https://warframe.market/items/spellbound_harvest?type=sell) | 12 | 5 |
+| [Abundant Mutation](https://warframe.market/items/abundant_mutation?type=sell) | 12 | 9 |
+| [Grendel Neuroptics Locator](https://warframe.market/items/grendel_neuroptics_locator?type=sell) | 12 | 5 |
+| [Granum's Nemesis](https://warframe.market/items/granums_nemesis?type=sell) | 12 | 1 |
+| [Temporal Erosion](https://warframe.market/items/temporal_erosion?type=sell) | 12 | 20 |
+| [Shadow Haze](https://warframe.market/items/shadow_haze?type=sell) | 12 | 87 |
+| [Duplex Bond](https://warframe.market/items/duplex_bond?type=sell) | 12 | 81 |
+| [Contagious Bond](https://warframe.market/items/contagious_bond?type=sell) | 12 | 73 |
+| [Vicious Bond](https://warframe.market/items/vicious_bond?type=sell) | 12 | 36 |
+| [Seismic Bond](https://warframe.market/items/seismic_bond?type=sell) | 12 | 43 |
+| [Loyal Merulina](https://warframe.market/items/loyal_merulina?type=sell) | 12 | 25 |
+| [Damage Decoy](https://warframe.market/items/damage_decoy?type=sell) | 12 | 3 |
+| [Dark Propagation](https://warframe.market/items/dark_propagation?type=sell) | 12 | 90 |
+| [Spectral Spirit](https://warframe.market/items/spectral_spirit?type=sell) | 12 | 38 |
+| [Wrecking Wall](https://warframe.market/items/wrecking_wall?type=sell) | 12 | 3 |
+| [Gastro](https://warframe.market/items/gastro?type=sell) | 12 | 9 |
+| [Shocking Claws](https://warframe.market/items/shocking_claws?type=sell) | 12 | 56 |
+| [Assassin Posture](https://warframe.market/items/assassin_posture?type=sell) | 12 | 25 |
+| [Immunity Resistance](https://warframe.market/items/immunity_resistance?type=sell) | 12 | 45 |
+| [Untime Rift](https://warframe.market/items/untime_rift?type=sell) | 12 | 13 |
+| [Jahu](https://warframe.market/items/jahu?type=sell) | 11.5 | 32 |
+| [Fused Crucible](https://warframe.market/items/fused_crucible?type=sell) | 11.5 | 4 |
+| [Mending Shot](https://warframe.market/items/mending_shot?type=sell) | 11 | 5 |
+| [Airburst Rounds](https://warframe.market/items/airburst_rounds?type=sell) | 11 | 2 |
+| [Gourmand](https://warframe.market/items/gourmand?type=sell) | 11 | 4 |
+| [Ulfrun's Endurance](https://warframe.market/items/ulfruns_endurance?type=sell) | 11 | 5 |
+| [Bell Ringer](https://warframe.market/items/bell_ringer?type=sell) | 11 | 10 |
+| [Blinding Reave](https://warframe.market/items/blinding_reave?type=sell) | 10.5 | 2 |
+| [Triple Tap](https://warframe.market/items/triple_tap?type=sell) | 10 | 1 |
+| [Shield Of Shadows](https://warframe.market/items/shield_of_shadows?type=sell) | 10 | 29 |
+| [Sequence Burn](https://warframe.market/items/sequence_burn?type=sell) | 10 | 1 |
+| [Quick Return](https://warframe.market/items/quick_return?type=sell) | 10 | 1 |
+| [EMP Aura](https://warframe.market/items/emp_aura?type=sell) | 10 | 1 |
+| [Energy Amplifier](https://warframe.market/items/energy_amplifier?type=sell) | 10 | 21 |
+| [Venari Bodyguard](https://warframe.market/items/venari_bodyguard?type=sell) | 10 | 3 |
+| [Dread Ward](https://warframe.market/items/dread_ward?type=sell) | 10 | 2 |
+| [Tribunal](https://warframe.market/items/tribunal?type=sell) | 10 | 1 |
+| [Blazing Pillage](https://warframe.market/items/blazing_pillage?type=sell) | 10 | 19 |
+| [Reactive Storm](https://warframe.market/items/reactive_storm?type=sell) | 10 | 12 |
+| [Ris](https://warframe.market/items/ris?type=sell) | 10 | 23 |
+| [Netra](https://warframe.market/items/netra?type=sell) | 10 | 18 |
+| [Strain Infection](https://warframe.market/items/strain_infection?type=sell) | 10 | 7 |
+| [Death Blossom](https://warframe.market/items/death_blossom?type=sell) | 10 | 13 |
+| [Damzav-Vati](https://warframe.market/items/damzav_vati?type=sell) | 10 | 2 |
+| [Zazvat-Kar](https://warframe.market/items/zazvat_kar?type=sell) | 10 | 1 |
+| [Repair Dispensary](https://warframe.market/items/repair_dispensary?type=sell) | 10 | 1 |
+| [Fused Reservoir](https://warframe.market/items/fused_reservoir?type=sell) | 10 | 44 |
+| [Galvanized Savvy](https://warframe.market/items/galvanized_savvy?type=sell) | 10 | 26 |
+| [Butcher's Revelry](https://warframe.market/items/butchers_revelry?type=sell) | 10 | 6 |
+| [Vampiric Grasp](https://warframe.market/items/vampiric_grasp?type=sell) | 10 | 5 |
+| [Thermal Transfer](https://warframe.market/items/thermal_transfer?type=sell) | 10 | 19 |
+| [Biting Frost](https://warframe.market/items/biting_frost?type=sell) | 10 | 18 |
+| [Combat Reload](https://warframe.market/items/combat_reload?type=sell) | 10 | 1 |
+| [Critical Precision](https://warframe.market/items/critical_precision?type=sell) | 10 | 1 |
+| [Shattered Storm](https://warframe.market/items/shattered_storm?type=sell) | 10 | 13 |
+| [Cathode Current](https://warframe.market/items/cathode_current?type=sell) | 10 | 53 |
+| [Mesmer Shield](https://warframe.market/items/mesmer_shield?type=sell) | 10 | 50 |
+| [Eximus Advantage](https://warframe.market/items/eximus_advantage?type=sell) | 10 | 2 |
+| [Metamorphic Magazine](https://warframe.market/items/metamorphic_magazine?type=sell) | 10 | 2 |
+| [Critical Mutation](https://warframe.market/items/critical_mutation?type=sell) | 10 | 9 |
+| [Ris Invocation](https://warframe.market/items/ris_invocation?type=sell) | 10 | 5 |
+| [Wrath Of Ukko](https://warframe.market/items/wrath_of_ukko?type=sell) | 10 | 7 |
+| [Elusive Retribution](https://warframe.market/items/elusive_retribution?type=sell) | 10 | 5 |
+| [Divine Retribution](https://warframe.market/items/divine_retribution?type=sell) | 10 | 33 |
+| [Recrystalize](https://warframe.market/items/recrystalize?type=sell) | 10 | 2 |
+| [Warrior's Rest](https://warframe.market/items/warriors_rest?type=sell) | 10 | 1 |
+| [Valence Formation](https://warframe.market/items/valence_formation?type=sell) | 10 | 30 |
+| [Temporal Artillery](https://warframe.market/items/temporal_artillery?type=sell) | 10 | 7 |
+| [Prey Of Dynar](https://warframe.market/items/prey_of_dynar?type=sell) | 10 | 12 |
+| [Aegis Gale](https://warframe.market/items/aegis_gale?type=sell) | 10 | 138 |
+| [Coil Recharge](https://warframe.market/items/coil_recharge?type=sell) | 10 | 1 |
+| [Brute Conditioning](https://warframe.market/items/brute_conditioning?type=sell) | 10 | 6 |
+| [Spectral Serration](https://warframe.market/items/spectral_serration?type=sell) | 10 | 46 |
+| [Merciless Gunfight](https://warframe.market/items/merciless_gunfight?type=sell) | 10 | 106 |
+| [Cataclysmic Gate](https://warframe.market/items/cataclysmic_gate?type=sell) | 10 | 14 |
+| [Volatile Recompense](https://warframe.market/items/volatile_recompense?type=sell) | 10 | 20 |
+| [Prismatic Companion](https://warframe.market/items/prismatic_companion?type=sell) | 10 | 10 |
+| [Razor Mortar](https://warframe.market/items/razor_mortar?type=sell) | 10 | 81 |
+| [Jade's Judgment](https://warframe.market/items/jades_judgment?type=sell) | 10 | 13 |
+| [Necramech Blitz](https://warframe.market/items/necramech_blitz?type=sell) | 9.5 | 2 |
+| [Hearty Nourishment](https://warframe.market/items/hearty_nourishment?type=sell) | 9.5 | 4 |
+| [Ordnance Cheap Shot](https://warframe.market/items/ordnance_cheap_shot?type=sell) | 9 | 7 |
+| [Shocking Speed](https://warframe.market/items/shocking_speed?type=sell) | 9 | 9 |
+| [Martyr Symbiosis](https://warframe.market/items/martyr_symbiosis?type=sell) | 9 | 45 |
+| [Auto Omni](https://warframe.market/items/auto_omni?type=sell) | 9 | 1 |
+| [Internal Bleeding](https://warframe.market/items/internal_bleeding?type=sell) | 9 | 21 |
+| [Galvanized Hell](https://warframe.market/items/galvanized_hell?type=sell) | 9 | 26 |
+| [Galvanized Diffusion](https://warframe.market/items/galvanized_diffusion?type=sell) | 9 | 40 |
+| [Swift Mercy](https://warframe.market/items/swift_mercy?type=sell) | 9 | 2 |
+| [Galvanized Aptitude](https://warframe.market/items/galvanized_aptitude?type=sell) | 9 | 58 |
+| [Galvanized Scope](https://warframe.market/items/galvanized_scope?type=sell) | 9 | 31 |
+| [Galvanized Acceleration](https://warframe.market/items/galvanized_acceleration?type=sell) | 9 | 13 |
+| [Counterbalance](https://warframe.market/items/counterbalance?type=sell) | 9 | 2 |
+| [Repo Audit](https://warframe.market/items/repo_audit?type=sell) | 9 | 6 |
+| [Galvanized Crosshairs](https://warframe.market/items/galvanized_crosshairs?type=sell) | 9 | 18 |
+| [Galvanized Shot](https://warframe.market/items/galvanized_shot?type=sell) | 9 | 51 |
+| [Reflex Denial](https://warframe.market/items/reflex_denial?type=sell) | 9 | 7 |
+| [The Relentless Lost](https://warframe.market/items/the_relentless_lost?type=sell) | 9 | 1 |
+| [Netra Invocation](https://warframe.market/items/netra_invocation?type=sell) | 9 | 7 |
+| [Burning Claws](https://warframe.market/items/burning_claws?type=sell) | 9 | 56 |
+| [Galvanized Steel](https://warframe.market/items/galvanized_steel?type=sell) | 9 | 60 |
+| [Galvanized Reflex](https://warframe.market/items/galvanized_reflex?type=sell) | 9 | 27 |
+| [Galvanized Elementalist](https://warframe.market/items/galvanized_elementalist?type=sell) | 9 | 41 |
+| [Magnetic Strafe](https://warframe.market/items/magnetic_strafe?type=sell) | 9 | 120 |
+| [Dreadful Killshot](https://warframe.market/items/dreadful_killshot?type=sell) | 9 | 7 |
+| [Necramech Drift](https://warframe.market/items/necramech_drift?type=sell) | 8.5 | 2 |
+| [Fass Canticle](https://warframe.market/items/fass_canticle?type=sell) | 8.5 | 7 |
+| [Malicious Raptor](https://warframe.market/items/malicious_raptor?type=sell) | 8 | 18 |
+| [Intruder Stasis](https://warframe.market/items/intruder_stasis?type=sell) | 8 | 1 |
+| [Form Up](https://warframe.market/items/form_up?type=sell) | 8 | 10 |
+| [Necramech Streamline](https://warframe.market/items/necramech_streamline?type=sell) | 8 | 14 |
+| [Hemorrhage](https://warframe.market/items/hemorrhage?type=sell) | 8 | 15 |
+| [Votive Onslaught](https://warframe.market/items/votive_onslaught?type=sell) | 8 | 9 |
+| [Fortifying Fire](https://warframe.market/items/fortifying_fire?type=sell) | 8 | 2 |
+| [Defensive Fire](https://warframe.market/items/defensive_fire?type=sell) | 8 | 7 |
+| [Null Audit](https://warframe.market/items/null_audit?type=sell) | 8 | 3 |
+| [Galvanized Chamber](https://warframe.market/items/galvanized_chamber?type=sell) | 8 | 91 |
+| [Dreamer's Bond](https://warframe.market/items/dreamers_bond?type=sell) | 8 | 1 |
+| [Rifle Elementalist](https://warframe.market/items/rifle_elementalist?type=sell) | 8 | 144 |
+| [Pistol Elementalist](https://warframe.market/items/pistol_elementalist?type=sell) | 8 | 160 |
+| [Sepsis Claws](https://warframe.market/items/sepsis_claws?type=sell) | 8 | 16 |
+| [Chilling Claws](https://warframe.market/items/chilling_claws?type=sell) | 8 | 9 |
+| [Resourceful Retriever](https://warframe.market/items/resourceful_retriever?type=sell) | 8 | 146 |
+| [Precision Conditioning](https://warframe.market/items/precision_conditioning?type=sell) | 8 | 52 |
+| [Opportunity's Reach](https://warframe.market/items/opportunitys_reach?type=sell) | 7.5 | 11 |
+| [Enduring Strike](https://warframe.market/items/enduring_strike?type=sell) | 7 | 1 |
+| [Shred](https://warframe.market/items/shred?type=sell) | 7 | 96 |
+| [Seeking Shuriken](https://warframe.market/items/seeking_shuriken?type=sell) | 7 | 3 |
+| [Necramech Hydraulics](https://warframe.market/items/necramech_hydraulics?type=sell) | 7 | 3 |
+| [Malicious Code](https://warframe.market/items/malicious_code?type=sell) | 7 | 2 |
+| [Hard Reset](https://warframe.market/items/hard_reset?type=sell) | 7 | 1 |
+| [Firewall](https://warframe.market/items/firewall?type=sell) | 7 | 1 |
+| [Boreal's Hatred](https://warframe.market/items/boreals_hatred?type=sell) | 7 | 55 |
+| [Shivering Contagion](https://warframe.market/items/shivering_contagion?type=sell) | 7 | 29 |
+| [Shotgun Elementalist](https://warframe.market/items/shotgun_elementalist?type=sell) | 7 | 120 |
+| [Cull The Weak](https://warframe.market/items/cull_the_weak?type=sell) | 7 | 42 |
+| [Cold Arrival](https://warframe.market/items/cold_arrival?type=sell) | 6 | 2 |
+| [Nira's Anguish](https://warframe.market/items/niras_anguish?type=sell) | 6 | 37 |
+| [Semi-Shotgun Cannonade](https://warframe.market/items/shotgun_cannonade?type=sell) | 6 | 44 |
+| [Semi-Rifle Cannonade](https://warframe.market/items/semi_rifle_cannonade?type=sell) | 6 | 73 |
+| [Melee Elementalist](https://warframe.market/items/melee_elementalist?type=sell) | 6 | 86 |
+| [Elusive Posture](https://warframe.market/items/elusive_posture?type=sell) | 6 | 27 |
+| [Prosperous Retriever](https://warframe.market/items/prosperous_retriever?type=sell) | 6 | 82 |
+| [Turbo Protect](https://warframe.market/items/turbo_protect?type=sell) | 6 | 1 |
+| [Sil-Tabol](https://warframe.market/items/sil_tabol?type=sell) | 6 | 3 |
+| [Vik-Anam](https://warframe.market/items/vik_anam?type=sell) | 6 | 6 |
+| [Crimson Fugue](https://warframe.market/items/crimson_fugue?type=sell) | 5.5 | 11 |
+| [Ice Spring](https://warframe.market/items/ice_spring?type=sell) | 5 | 4 |
+| [Rage](https://warframe.market/items/rage?type=sell) | 5 | 18 |
+| [Forward Artillery](https://warframe.market/items/forward_artillery?type=sell) | 5 | 9 |
+| [Necramech Friction](https://warframe.market/items/necramech_friction?type=sell) | 5 | 1 |
+| [Scourging Warheads](https://warframe.market/items/scourging_warheads?type=sell) | 5 | 1 |
+| [Waveband Disruptor](https://warframe.market/items/waveband_disruptor?type=sell) | 5 | 2 |
+| [Evasive Denial](https://warframe.market/items/evasive_denial?type=sell) | 5 | 2 |
+| [Focused Prospectus](https://warframe.market/items/focused_prospectus?type=sell) | 5 | 1 |
+| [Aerial Prospectus](https://warframe.market/items/aerial_prospectus?type=sell) | 5 | 1 |
+| [Diversified Denial](https://warframe.market/items/diversified_denial?type=sell) | 5 | 2 |
+| [Equilibrium Audit](https://warframe.market/items/equilibrium_audit?type=sell) | 5 | 1 |
+| [Boreal's Contempt](https://warframe.market/items/boreals_contempt?type=sell) | 5 | 10 |
+| [Amar's Contempt](https://warframe.market/items/amars_contempt?type=sell) | 5 | 3 |
+| [Amar's Anguish](https://warframe.market/items/amars_anguish?type=sell) | 5 | 20 |
+| [Nira's Hatred](https://warframe.market/items/niras_hatred?type=sell) | 5 | 46 |
+| [Nira's Contempt](https://warframe.market/items/niras_contempt?type=sell) | 5 | 14 |
+| [Mountain's Edge](https://warframe.market/items/mountains_edge?type=sell) | 5 | 1 |
+| [Precision Intensify](https://warframe.market/items/precision_intensify?type=sell) | 5 | 159 |
+| [Ready Steel](https://warframe.market/items/ready_steel?type=sell) | 5 | 36 |
+| [Condition's Perfection](https://warframe.market/items/conditions_perfection?type=sell) | 5 | 5 |
+| [Master's Edge](https://warframe.market/items/masters_edge?type=sell) | 5 | 8 |
+| [Smite The Murmur](https://warframe.market/items/smite_the_murmur?type=sell) | 5 | 1 |
+| [Bloodthirst](https://warframe.market/items/bloodthirst?type=sell) | 5 | 1 |
+| [Summoner’s Wrath](https://warframe.market/items/summoner’s_wrath?type=sell) | 5 | 123 |
+| [Worm Away](https://warframe.market/items/worm_away?type=sell) | 5 | 11 |
+| [Trojan Tracker](https://warframe.market/items/trojan_tracker?type=sell) | 5 | 9 |
+| [Soft Safe](https://warframe.market/items/soft_safe?type=sell) | 5 | 15 |
+| [Anti-V](https://warframe.market/items/anti_v?type=sell) | 5 | 6 |
+| [ByteRyte](https://warframe.market/items/byteryte?type=sell) | 5 | 9 |
+| [Keep-Clean](https://warframe.market/items/keep_clean?type=sell) | 5 | 13 |
+| [Drive-Duster](https://warframe.market/items/drive_duster?type=sell) | 5 | 6 |
+| [Computer Cop](https://warframe.market/items/computer_cop?type=sell) | 5 | 19 |
+| [Immuno Shield](https://warframe.market/items/immuno_shield?type=sell) | 5 | 1 |
+| [Ubri-Kaneph](https://warframe.market/items/ubri_kaneph?type=sell) | 5 | 16 |
+| [Lashta-Vak](https://warframe.market/items/lashta_vak?type=sell) | 5 | 1 |
+| [Kaal-Zidi](https://warframe.market/items/kaal_zidi?type=sell) | 5 | 1 |
+| [Talsek-An](https://warframe.market/items/talsek_an?type=sell) | 5 | 7 |
+| [Lorun-Tash](https://warframe.market/items/lorun_tash?type=sell) | 5 | 1 |
+| [Morphic Transformer](https://warframe.market/items/morphic_transformer?type=sell) | 4.5 | 5 |
+| [Lightning Rod](https://warframe.market/items/lightning_rod?type=sell) | 4 | 1 |
+| [Lasting Sting](https://warframe.market/items/lasting_sting?type=sell) | 4 | 1 |
+| [Conic Nozzle](https://warframe.market/items/conic_nozzle?type=sell) | 4 | 8 |
+| [Ripload](https://warframe.market/items/ripload?type=sell) | 4 | 1 |
+| [Seeker Volley](https://warframe.market/items/seeker_volley?type=sell) | 4 | 32 |
+| [Ironclad Matrix](https://warframe.market/items/ironclad_matrix?type=sell) | 4 | 7 |
+| [Amar's Hatred](https://warframe.market/items/amars_hatred?type=sell) | 4 | 38 |
+| [Boreal's Anguish](https://warframe.market/items/boreals_anguish?type=sell) | 4 | 7 |
+| [Galeforce Dawn](https://warframe.market/items/galeforce_dawn?type=sell) | 4 | 13 |
+| [Energy Nexus](https://warframe.market/items/energy_nexus?type=sell) | 4 | 71 |
+| [Cleanse The Murmur](https://warframe.market/items/cleanse_the_murmur?type=sell) | 4 | 2 |
+| [Bane Of The Murmur](https://warframe.market/items/bane_of_the_murmur?type=sell) | 4 | 2 |
+| [Semi-Pistol Cannonade](https://warframe.market/items/semi_pistol_cannonade?type=sell) | 4 | 28 |
+| [Balanced Posture](https://warframe.market/items/balanced_posture?type=sell) | 4 | 6 |
+| [Loyal Retriever](https://warframe.market/items/loyal_retriever?type=sell) | 4 | 40 |
+| [Primary Acuity](https://warframe.market/items/primary_acuity?type=sell) | 4 | 58 |
+| [Magnetized Cycle](https://warframe.market/items/magnetized_cycle?type=sell) | 4 | 24 |
+| [Quick Correct](https://warframe.market/items/quick_correct?type=sell) | 4 | 1 |
+| [Harrowing Spire](https://warframe.market/items/harrowing_spire?type=sell) | 4 | 19 |
+| [Metem-Erun](https://warframe.market/items/metem_erun?type=sell) | 4 | 4 |
+| [Da-Ren](https://warframe.market/items/da_ren?type=sell) | 4 | 1 |
+| [Metem-Hakh](https://warframe.market/items/metem_hakh?type=sell) | 4 | 5 |
+| [Hok-Kaal](https://warframe.market/items/hok_kaal?type=sell) | 4 | 3 |
+| [Hayan-Dabor](https://warframe.market/items/hayan_dabor?type=sell) | 4 | 1 |
+| [Empazu-Shol](https://warframe.market/items/empazu_shol?type=sell) | 3.5 | 2 |
+| [Shattering Impact](https://warframe.market/items/shattering_impact?type=sell) | 3 | 1 |
+| [Hollow Point](https://warframe.market/items/hollow_point?type=sell) | 3 | 8 |
+| [Serration](https://warframe.market/items/serration?type=sell) | 3 | 4 |
+| [Revo Reducer](https://warframe.market/items/revo_reducer?type=sell) | 3 | 1 |
+| [Sentient Scalpel](https://warframe.market/items/sentient_scalpel?type=sell) | 3 | 1 |
+| [Cruising Speed](https://warframe.market/items/cruising_speed?type=sell) | 3 | 1 |
+| [Hyperstrike](https://warframe.market/items/hyperstrike?type=sell) | 3 | 3 |
+| [Predator](https://warframe.market/items/predator?type=sell) | 3 | 1 |
+| [Blood For Life](https://warframe.market/items/blood_for_life?type=sell) | 3 | 4 |
+| [Munitions Vortex](https://warframe.market/items/munitions_vortex?type=sell) | 3 | 3 |
+| [Carnis Carapace](https://warframe.market/items/carnis_carapace?type=sell) | 3 | 3 |
+| [Necramech Fury](https://warframe.market/items/necramech_fury?type=sell) | 3 | 1 |
+| [Orgone Tuning Matrix](https://warframe.market/items/orgone_tuning_matrix?type=sell) | 3 | 1 |
+| [Indomitable Matrix](https://warframe.market/items/indomitable_matrix?type=sell) | 3 | 1 |
+| [Onslaught Matrix](https://warframe.market/items/onslaught_matrix?type=sell) | 3 | 1 |
+| [Radiated Reload](https://warframe.market/items/radiated_reload?type=sell) | 3 | 33 |
+| [Radon Claws](https://warframe.market/items/radon_claws?type=sell) | 3 | 21 |
+| [Magnetized Core](https://warframe.market/items/magnetized_core?type=sell) | 3 | 2 |
+| [Instant Secure](https://warframe.market/items/instant_secure?type=sell) | 3 | 1 |
+| [Threat Blocker](https://warframe.market/items/threat_blocker?type=sell) | 3 | 2 |
+| [Yar Dal](https://warframe.market/items/yar_dal?type=sell) | 3 | 1 |
+| [Quicklock](https://warframe.market/items/quicklock?type=sell) | 2 | 1 |
+| [Overloader](https://warframe.market/items/overloader?type=sell) | 2 | 1 |
+| [Protective Shots](https://warframe.market/items/protective_shots?type=sell) | 2 | 1 |
+| [Raider Matrix](https://warframe.market/items/raider_matrix?type=sell) | 2 | 1 |
+| [Phoenix Blaze](https://warframe.market/items/phoenix_blaze?type=sell) | 2 | 1 |
+| [Atomic Fallout](https://warframe.market/items/atomic_fallout?type=sell) | 2 | 7 |
+| [Accelerated Isotope](https://warframe.market/items/accelerated_isotope?type=sell) | 2 | 32 |
+| [Focus Radon](https://warframe.market/items/focus_radon?type=sell) | 2 | 9 |
+| [Containment Breach](https://warframe.market/items/containment_breach?type=sell) | 2 | 5 |
+| [Critical Meltdown](https://warframe.market/items/critical_meltdown?type=sell) | 2 | 3 |
+| [Magnetic Welt](https://warframe.market/items/magnetic_welt?type=sell) | 2 | 1 |
+| [Magnetic Claws](https://warframe.market/items/magnetic_claws?type=sell) | 2 | 8 |
+| [Magnetic Capacity](https://warframe.market/items/magnetic_capacity?type=sell) | 2 | 43 |
+| [Pistol Acuity](https://warframe.market/items/pistol_acuity?type=sell) | 2 | 6 |
+| [Magnetic Rush](https://warframe.market/items/magnetic_rush?type=sell) | 2 | 11 |
+| [Worthy Comradery](https://warframe.market/items/worthy_comradery?type=sell) | 2 | 16 |
+| [Esti Vel-Ikha](https://warframe.market/items/esti_vel_ikha?type=sell) | 2 | 1 |
+| [Rupture](https://warframe.market/items/rupture?type=sell) | 1 | 1 |
 </details>
 
 ## Build

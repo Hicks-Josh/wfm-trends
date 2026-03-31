@@ -2,13 +2,16 @@ import fs from 'fs';
 
 const data = JSON.parse(fs.readFileSync('item-data.json', 'utf-8'));
 
+const warframeMarketURL = 'https://warframe.market/items';
+
 const filterItems = (items, tags) =>
   items
     .filter((item) => tags.every((tag) => item.tags.includes(tag)))
     .map((item) => ({
-    name: item.i18n.en.name,
-    median: item.statistics?.median || 'not enough data...',
-    volume: item.statistics?.volume || 'not enough data...',
+      slug: item.slug,
+      name: item.i18n.en.name,
+      median: item.statistics?.median || 'not enough data...',
+      volume: item.statistics?.volume || 'not enough data...',
     })).sort((a, b) => b.median - a.median);
 
 const warframeData = filterItems(data, ['warframe', 'set']);
@@ -27,49 +30,49 @@ If you want to dig further into the data, you can build the project, more detail
 ### Warframes
 | Warframe | Median | Volume |
 | --- | --- | --- |
-${warframeData.slice(0, 10).map((warframe) => `| ${warframe.name} | ${warframe.median} | ${warframe.volume} |`).join('\n')}
+${warframeData.slice(0, 10).map((warframe) => `| [${warframe.name}](${`${warframeMarketURL}/${warframe.slug}?type=sell`}) | ${warframe.median} | ${warframe.volume} |`).join('\n')}
 <details>
   <summary>Show all</summary>
 
 | Warframe | Median | Volume |
 | --- | --- | --- |
-${warframeData.map((warframe) => `| ${warframe.name} | ${warframe.median} | ${warframe.volume} |`).join('\n')}
+${warframeData.map((warframe) => `| [${warframe.name}](${`${warframeMarketURL}/${warframe.slug}?type=sellc`}) | ${warframe.median} | ${warframe.volume} |`).join('\n')}
 </details>
 
 ### Weapons
 | Weapon | Median | Volume |
 | --- | --- | --- |
-${weaponData.slice(0, 10).map((weapon) => `| ${weapon.name} | ${weapon.median} | ${weapon.volume} |`).join('\n')}
+${weaponData.slice(0, 10).map((weapon) => `| [${weapon.name}](${`${warframeMarketURL}/${weapon.slug}?type=sell`}) | ${weapon.median} | ${weapon.volume} |`).join('\n')}
 <details>
   <summary>Show all</summary>
 
 | Weapon | Median | Volume |
 | --- | --- | --- |
-${weaponData.map((weapon) => `| ${weapon.name} | ${weapon.median} | ${weapon.volume} |`).join('\n')}
+${weaponData.map((weapon) => `| [${weapon.name}](${`${warframeMarketURL}/${weapon.slug}?type=sell`}) | ${weapon.median} | ${weapon.volume} |`).join('\n')}
 </details>
 
 ### Arcanes
 | arcane | Median | Volume |
 | --- | --- | --- |
-${arcaneData.slice(0, 10).map((arcane) => `| ${arcane.name} | ${arcane.median} | ${arcane.volume} |`).join('\n')}
+${arcaneData.slice(0, 10).map((arcane) => `| [${arcane.name}](${`${warframeMarketURL}/${arcane.slug}?type=sell`}) | ${arcane.median} | ${arcane.volume} |`).join('\n')}
 <details>
   <summary>Show all</summary>
 
 | arcane | Median | Volume |
 | --- | --- | --- |
-${arcaneData.map((arcane) => `| ${arcane.name} | ${arcane.median} | ${arcane.volume} |`).join('\n')}
+${arcaneData.map((arcane) => `| [${arcane.name}](${`${warframeMarketURL}/${arcane.slug}?type=sell`}) | ${arcane.median} | ${arcane.volume} |`).join('\n')}
 </details>
 
 ### Mods
 | mod | Median | Volume |
 | --- | --- | --- |
-${modData.slice(0, 10).map((mod) => `| ${mod.name} | ${mod.median} | ${mod.volume} |`).join('\n')}
+${modData.slice(0, 10).map((mod) => `| [${mod.name}](${`${warframeMarketURL}/${mod.slug}?type=sell`}) | ${mod.median} | ${mod.volume} |`).join('\n')}
 <details>
   <summary>Show all</summary>
 
 | mod | Median | Volume |
 | --- | --- | --- |
-${modData.map((mod) => `| ${mod.name} | ${mod.median} | ${mod.volume} |`).join('\n')}
+${modData.map((mod) => `| [${mod.name}](${`${warframeMarketURL}/${mod.slug}?type=sell`}) | ${mod.median} | ${mod.volume} |`).join('\n')}
 </details>
 
 ## Build
