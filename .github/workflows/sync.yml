@@ -1,4 +1,4 @@
-name: Nightly Warframe Market Sync
+name: Weekly Warframe Market Sync
 
 on:
   schedule:
