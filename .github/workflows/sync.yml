@@ -1,0 +1,46 @@
+name: Nightly Warframe Market Sync
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-script-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '24'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run warframe market sync script
+        run: node scripts/syncWarframeMarketData.js
+
+      - name: Run readme builder script
+        run: node scripts/buildReadMe.js
+
+      - name: Commit & push if changes exist
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+
+          # Only commit if there are changes
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: nightly data update"
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi

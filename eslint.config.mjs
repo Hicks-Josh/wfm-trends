@@ -5,19 +5,19 @@
  * IF YOU COPY THIS INTO AN ESLINT CONFIG, REMOVE THIS COMMENT BLOCK.
  */
 
-import path from 'node:path';
+import path from "node:path";
 
-import { includeIgnoreFile } from '@eslint/compat';
-import js from '@eslint/js';
-import { defineConfig } from 'eslint/config';
-import { configs, plugins } from 'eslint-config-airbnb-extended';
+import { includeIgnoreFile } from "@eslint/compat";
+import js from "@eslint/js";
+import { defineConfig } from "eslint/config";
+import { configs, plugins } from "eslint-config-airbnb-extended";
 
-const gitignorePath = path.resolve('.', '.gitignore');
+const gitignorePath = path.resolve(".", ".gitignore");
 
 const jsConfig = defineConfig([
   // ESLint recommended config
   {
-    name: 'js/config',
+    name: "js/config",
     ...js.configs.recommended,
   },
   // Stylistic plugin

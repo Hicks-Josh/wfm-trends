@@ -1,24 +1,20 @@
 import React from 'react';
 
-import DataTable from './components/DataTable';
-import ItemSelector from './components/ItemSelector';
+import ItemTable from './components/ItemTable';
+
 import './index.css';
 
 function App() {
-  const [warframedata, setWarframeData] = React.useState([]);
-
-  const getWarframeSetData = async () => {
-    const response = await fetch('/api/warframe/prime-sets');
-    const data = await response.json();
-    setWarframeData(data);
-  };
-
-  React.useEffect(() => {
-    getWarframeSetData();
-  }, []);
-
   return (
-    <DataTable data={warframedata} />
+    <div className="bg-[radial-gradient(#000_0.1px,transparent_0.75px)] bg-[size:20px_20px]">
+      <div className="grid grid-cols-1 md:grid-cols-2 md:gap-4 p-5">
+        {/* <div className="col-span-2">toggle for sets only or to include parts</div> */}
+        <ItemTable itemType="warframes" />
+        <ItemTable itemType="weapons" />
+        <ItemTable itemType="arcanes" />
+        <ItemTable itemType="mods" />
+      </div>
+    </div>
   );
 }
 

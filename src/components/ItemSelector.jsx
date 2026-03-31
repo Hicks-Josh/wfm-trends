@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import {
   Select,
   SelectContent,
@@ -7,7 +7,7 @@ import {
   SelectLabel,
   SelectTrigger,
   SelectValue,
-} from '@/components/ui/select';
+} from "@/components/ui/select";
 
 function ItemSelector({ selectedTag, setSelectedTag }) {
   return (
@@ -18,7 +18,9 @@ function ItemSelector({ selectedTag, setSelectedTag }) {
       <SelectContent>
         <SelectGroup>
           <SelectLabel>Tags</SelectLabel>
-          {tags.map((tag) => <SelectItem value={tag}>{tag}</SelectItem>)}
+          {tags.map((tag) => (
+            <SelectItem value={tag}>{tag}</SelectItem>
+          ))}
         </SelectGroup>
       </SelectContent>
     </Select>

@@ -10,31 +10,36 @@ import {
   TableRow,
 } from '@/components/ui/table';
 
-function DataTable({ data }) {
-  console.log('data');
-  console.log(data);
+function DataTable({ data, type }) {
+  console.log(type, data);
   return (
-    <Table>
-      <TableCaption className="text-foreground">
-        List of prime warframe set median prices
-      </TableCaption>
-      <TableHeader>
-        <TableRow>
-          <TableHead>Warframe</TableHead>
-          <TableHead>Median Price</TableHead>
-          <TableHead>Volume</TableHead>
-        </TableRow>
-      </TableHeader>
-      <TableBody>
-        {data.map((warframe) => (
-          <TableRow key={warframe.name}>
-            <TableCell className="font-base">{warframe.name}</TableCell>
-            <TableCell>{warframe.medianPrice}</TableCell>
-            <TableCell>{warframe.volume}</TableCell>
+    <div className="max-h-96 overflow-y-auto w-full">
+      <Table>
+        <TableCaption className="text-foreground">
+          List of
+          {' '}
+          {type}
+          {' '}
+          set median prices
+        </TableCaption>
+        <TableHeader>
+          <TableRow>
+            <TableHead className="sticky top-0 z-10 bg-background">{type}</TableHead>
+            <TableHead className="sitcky top-0 z-10 bg-background">Median Price</TableHead>
+            <TableHead className="sticky top-0 z-10 bg-background">Volume</TableHead>
           </TableRow>
-        ))}
-      </TableBody>
-    </Table>
+        </TableHeader>
+        <TableBody>
+          {data.map((item) => (
+            <TableRow key={item.name}>
+              <TableCell className="font-base">{item.name}</TableCell>
+              <TableCell>{item.medianPrice}</TableCell>
+              <TableCell>{item.volume}</TableCell>
+            </TableRow>
+          ))}
+        </TableBody>
+      </Table>
+    </div>
   );
 }
 
