@@ -4,15 +4,22 @@ const data = JSON.parse(fs.readFileSync('item-data.json', 'utf-8'));
 
 const warframeMarketURL = 'https://warframe.market/items';
 
-const filterItems = (items, tags) =>
-  items
+const filterItems = (items, tags) => {
+  const processedItems = items
     .filter((item) => tags.every((tag) => item.tags.includes(tag)))
     .map((item) => ({
       slug: item.slug,
       name: item.i18n.en.name,
       median: item.statistics?.median || 'not enough data...',
       volume: item.statistics?.volume || 'not enough data...',
-    })).sort((a, b) => b.median - a.median);
+    }));
+
+  const validItems = processedItems.filter((item) => typeof item.median === 'number').sort((a, b) => b.median - a.median);
+  const missingData = processedItems.filter((item) => typeof item.median !== 'number');
+
+  // move all items with insufficient information to the end of the list
+  return [...validItems, ...missingData];
+};
 
 const warframeData = filterItems(data, ['warframe', 'set']);
 const weaponData = filterItems(data, ['weapon', 'set']);
