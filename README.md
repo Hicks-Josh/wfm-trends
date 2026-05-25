@@ -1,10 +1,10 @@
 
-# Warframe Market Trends
-This is a basic trend analysis tool for [warframe.market](https://warframe.market/)
+# Warframe Market Snapshot
+This is a basic market snapshot tool for [warframe.market](https://warframe.market/)
 This README file is updated automatically once every week at midnight utc
 If you want to dig further into the data, you can build the project, more details below.
 
-Last updated: 5/24/2026, 4:20:51 AM
+Last updated: 5/25/2026, 3:01:35 PM
 
 ## Warframe Trends
 
